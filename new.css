@@ -1,0 +1,14 @@
+      /* Add padding to account for fixed navbar height */
+.carousel {
+    margin-top: 80px; /* Adjust this value to match the height of your navbar */
+}
+
+     @media screen and (max-width: 768px) {
+    .carousel-item img {
+        height: 400px; /* Adjust this value to your preference */
+        object-fit: cover; /* Ensures the image scales nicely */
+    }
+}
+
+
+/*Blog PAge Banner New CSS*/

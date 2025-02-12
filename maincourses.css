@@ -1,0 +1,286 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+   /* Banner section styling */
+   .banner-section {
+    height: 60vh;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+                url('./assets/img/b2.png') center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+    overflow: hidden;
+     margin-top: 60px;
+}
+
+/* Overlay with subtle pattern */
+.banner-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(circle at center, transparent 0%, rgba(0, 0, 0, 0.3) 100%);
+}
+
+.banner-content {
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+    z-index: 1;
+    max-width: 800px;
+}
+
+.banner-subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    opacity: 0;
+    animation: fadeIn 1s ease forwards;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.banner-title {
+    
+    font-weight: 700;
+    margin-bottom: 30px;
+    opacity: 0;
+    animation: fadeIn 1s ease 0.5s forwards;
+}
+
+.typing-text {
+    font-size: 2rem;
+    font-weight: 500;
+    min-height: 3rem;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.typing-text::after {
+    content: '|';
+    position: absolute;
+    right: -8px;
+    animation: blink 0.7s infinite;
+}
+
+/* Typing animation for multiple lines */
+.typing-text span {
+    display: block;
+    opacity: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: 
+        typing 3s steps(40, end) forwards,
+        fadeIn 0.5s ease forwards;
+}
+
+.banner-btn {
+    display: inline-block;
+    padding: 15px 40px;
+    background: transparent;
+    color: #ffffff;
+    text-decoration: none;
+    border: 2px solid #ffffff;
+    border-radius: 30px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    opacity: 0;
+    animation: fadeIn 1s ease 1.5s forwards;
+}
+
+.banner-btn:hover {
+    background: #ffffff;
+    color: #000000;
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Animations */
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+@keyframes blink {
+    50% { opacity: 0 }
+}
+
+@keyframes fadeIn {
+    from { 
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to { 
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .banner-title {
+        font-size: 2.5rem;
+    }
+
+    .banner-subtitle {
+        font-size: 1.2rem;
+    }
+
+    .typing-text {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .banner-section {
+        padding: 15px;
+          min-height: 60vh; /* Change height to min-height */
+        height: auto; /* Add this line */
+        padding-top: 80px; /* Add extra padding on top for mobile */
+    }
+
+    .banner-title {
+        font-size: 1rem;
+        margin-bottom: 20px;
+    }
+
+    .banner-subtitle {
+        font-size: 1rem;
+        margin-bottom: 15px;
+    }
+
+    .typing-text {
+        font-size: 1.2rem;
+        min-height: 2.4rem;
+        margin-bottom: 30px;
+    }
+
+    .banner-btn {
+        padding: 12px 30px;
+        font-size: 1rem;
+    }
+}
+
+/* Course Section styling */
+  /* Course section styling */
+  .course-section {
+    padding: 80px 20px;
+    background: linear-gradient(to bottom, #f8f9fa 0%, #ffffff 100%);
+    margin-top: 50px; /* Space from above section */
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 50px;
+    color: #2c3e50;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.course-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    padding: 20px;
+}
+
+.course-card {
+    background: #ffffff;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.course-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+.course-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-bottom: 3px solid #3498db;
+}
+
+.course-content {
+    padding: 20px;
+}
+
+.course-title {
+    color: #2c3e50;
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+    line-height: 1.4;
+}
+
+.read-more {
+    display: inline-block;
+    padding: 12px 30px;
+    background: #3498db;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: 500;
+    transition: background 0.3s ease;
+    border: none;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.read-more:hover {
+    background: #2980b9;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .course-section {
+        padding: 60px 15px;
+    }
+
+    .section-title {
+        font-size: 2rem;
+        margin-bottom: 30px;
+    }
+
+    .course-container {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+        padding: 10px;
+    }
+
+    .course-card {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .course-section {
+        padding: 40px 10px;
+    }
+
+    .section-title {
+        font-size: 1.75rem;
+    }
+
+    .course-container {
+        grid-template-columns: 1fr;
+    }
+
+    .course-content {
+        padding: 15px;
+    }
+}
