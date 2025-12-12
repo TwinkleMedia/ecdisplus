@@ -1,3 +1,10 @@
+<?php
+header("Expires: Tue, 01 Jan 2000 00:00:00 GMT");
+header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
+header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+header("Cache-Control: post-check=0, pre-check=0", false);
+header("Pragma: no-cache");
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -86,7 +93,7 @@ include './navbar.php';
             <!-- Text Content -->
             <div class="col-12 col-md-6 text-center text-md-start">
                 <div class="hero-heading mt-5">
-                    <h1 class="display-5 fw-bold">
+                    <h1 class="display-5 fw-bold headtext">
                         Marine Industry Training & Certification
                     </h1>
                     <p class="lead text-muted">
@@ -99,7 +106,7 @@ include './navbar.php';
                 <img 
                     src="./assets/img/Ecdisnavigation.jpg" 
                     alt="ECDIS navigation training equipment" 
-                    class="img-fluid rounded shadow" 
+                    class="img-fluid rounded" 
                     style="max-width: 100%; height: auto;"
                 >
             </div>
@@ -129,7 +136,7 @@ include './navbar.php';
                 <!-- Text Column -->
                 <div class="col-lg-6" data-aos="fade-left">
                     <div class="about-text">
-                        <h3 class="mb-4">World-class Training Facility</h3>
+                        <h3 class="mb-4 textcolor">World-class Training Facility</h3>
                         <p>Welcome aboard! At ECDISPLUS, we believe in navigating the seas with confidence and precision. We are more than just a training solution – we are your trusted partner in mastering the complexities of Electronic Chart Display and Information Systems (ECDIS).</p>
                         
                         <div class="key-points">
@@ -157,7 +164,7 @@ include './navbar.php';
                         <div class="icon-box">
                             <i class="fas fa-ship"></i>
                         </div>
-                        <h3>Maritime Excellence</h3>
+                        <h3 class="textcolor">Maritime Excellence</h3>
                         <p>Providing world-class training that meets STCW 2010 Manila Amendments and ISM Code requirements.</p>
                     </div>
                 </div>
@@ -166,7 +173,7 @@ include './navbar.php';
                         <div class="icon-box">
                             <i class="fas fa-graduation-cap"></i>
                         </div>
-                        <h4>Comprehensive Training</h4>
+                        <h3 class="textcolor">Comprehensive Training</h3>
                         <p>Access to all major ECDIS equipment manufacturers for complete familiarization with various systems.</p>
                     </div>
                 </div>
@@ -175,7 +182,7 @@ include './navbar.php';
                         <div class="icon-box">
                             <i class="fas fa-globe"></i>
                         </div>
-                        <h4>Global Accessibility</h4>
+                        <h3 class="textcolor">Global Accessibility</h3>
                         <p>Train anytime, anywhere, on any device with our flexible learning environment.</p>
                     </div>
                 </div>
@@ -185,7 +192,7 @@ include './navbar.php';
             <div class="row mt-5">
                 <div class="col-12" data-aos="fade-up">
                     <div class="about-text">
-                        <h3 class="mb-4">Our Commitment</h3>
+                        <h3 class="mb-4 textcolor">Our Commitment</h3>
                         <p>At ECDISPLUS Training Solution, we understand the risks associated with deficient competencies in navigation console handling. Our commitment to excellence ensures that officers receive comprehensive training that meets their individual needs and schedules.</p>
                         <p class="mb-0">Embark on a journey of safe navigation with ECDISPLUS Training Solution. Together, let's ensure a safe and sustainable future for the maritime industry.</p>
                     </div>
@@ -195,41 +202,127 @@ include './navbar.php';
     </section>
 
     <!-- slider courses -->
-    <section class="ecdis-section">
-        <h2 class="section-titlee">ECDIS Training Courses</h2>
-        <div class="slider-container">
-            <div class="slider-track">
-                <div class="course-card">
-                    <img src="./assets/img/cq.png" alt="Basic ECDIS Course" class="course-image">
-                    <div class="course-content">
-                        <h3 class="course-title">Basic ECDIS Training</h3>
-                        <p class="course-description">Comprehensive introduction to ECDIS systems and basic navigation.</p>
+     <section class="ecdis-section">
+        <h2 class="section-title">ECDIS Training Courses</h2>
+        
+        <div class="slider-wrapper">
+           
+
+            <div class="slider-container">
+                <div class="slider-track" id="sliderTrack">
+                    <div class="course-card">
+                        <div class="course-image-wrapper">
+                            <img src="./assets/img/cq.png" alt="Basic ECDIS Course" class="course-image">
+                            <span class="course-badge">Foundation</span>
+                        </div>
+                        <div class="course-content">
+                            <h3 class="course-title">Basic ECDIS Training</h3>
+                            <p class="course-description">Comprehensive introduction to ECDIS systems and basic navigation principles for maritime professionals.</p>
+                            <div class="course-footer">
+                                <span class="course-duration">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <circle cx="12" cy="12" r="10"></circle>
+                                        <polyline points="12 6 12 12 16 14"></polyline>
+                                    </svg>
+                                    5 Days
+                                </span>
+                                <a href="#" class="course-cta">
+                                    Learn More
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                                        <polyline points="12 5 19 12 12 19"></polyline>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="course-card">
+                        <div class="course-image-wrapper">
+                            <img src="./assets/img/c2.png" alt="Advanced ECDIS Course" class="course-image">
+                            <span class="course-badge">Advanced</span>
+                        </div>
+                        <div class="course-content">
+                            <h3 class="course-title">Advanced ECDIS Operations</h3>
+                            <p class="course-description">Master complex navigation scenarios and advanced system configurations for experienced mariners.</p>
+                            <div class="course-footer">
+                                <span class="course-duration">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <circle cx="12" cy="12" r="10"></circle>
+                                        <polyline points="12 6 12 12 16 14"></polyline>
+                                    </svg>
+                                    3 Days
+                                </span>
+                                <a href="#" class="course-cta">
+                                    Learn More
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                                        <polyline points="12 5 19 12 12 19"></polyline>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="course-card">
+                        <div class="course-image-wrapper">
+                            <img src="./assets/img/c3.png" alt="Type Specific Course" class="course-image">
+                            <span class="course-badge">Specialized</span>
+                        </div>
+                        <div class="course-content">
+                            <h3 class="course-title">Type Specific Training</h3>
+                            <p class="course-description">Specialized training tailored for specific ECDIS equipment models and manufacturers.</p>
+                            <div class="course-footer">
+                                <span class="course-duration">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <circle cx="12" cy="12" r="10"></circle>
+                                        <polyline points="12 6 12 12 16 14"></polyline>
+                                    </svg>
+                                    2 Days
+                                </span>
+                                <a href="#" class="course-cta">
+                                    Learn More
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                                        <polyline points="12 5 19 12 12 19"></polyline>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="course-card">
+                        <div class="course-image-wrapper">
+                            <img src="./assets/img/c4.png" alt="Refresher Course" class="course-image">
+                            <span class="course-badge">Update</span>
+                        </div>
+                        <div class="course-content">
+                            <h3 class="course-title">ECDIS Refresher Course</h3>
+                            <p class="course-description">Update your knowledge and stay current with the latest developments and best practices.</p>
+                            <div class="course-footer">
+                                <span class="course-duration">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <circle cx="12" cy="12" r="10"></circle>
+                                        <polyline points="12 6 12 12 16 14"></polyline>
+                                    </svg>
+                                    1 Day
+                                </span>
+                                <a href="#" class="course-cta">
+                                    Learn More
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                                        <polyline points="12 5 19 12 12 19"></polyline>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="course-card">
-                    <img src="./assets/img/c2.png" alt="Advanced ECDIS Course" class="course-image">
-                    <div class="course-content">
-                        <h3 class="course-title">Advanced ECDIS Operations</h3>
-                        <p class="course-description">Master complex navigation scenarios and system configurations.</p>
-                    </div>
-                </div>
-                <div class="course-card">
-                    <img src="./assets/img/c3.png" alt="Type Specific Course" class="course-image">
-                    <div class="course-content">
-                        <h3 class="course-title">Type Specific Training</h3>
-                        <p class="course-description">Specialized training for specific ECDIS equipment models.</p>
-                    </div>
-                </div>
-                <div class="course-card">
-                    <img src="./assets/img/c4.png" alt="Refresher Course" class="course-image">
-                    <div class="course-content">
-                        <h3 class="course-title">ECDIS Refresher Course</h3>
-                        <p class="course-description">Update your knowledge and stay current with latest developments.</p>
-                    </div>
-                </div>
-               
             </div>
+
+          
         </div>
+
     </section>
 
     <!-- Why choose us -->
@@ -247,7 +340,7 @@ include './navbar.php';
                 <div class="icon-container">
                     <i class="fas fa-book-open feature-icon"></i>
                 </div>
-                <h3 class="feature-title">Comprehensive Learning</h3>
+                <h3 class="feature-title textcolor">Comprehensive Learning</h3>
                 <p class="feature-description">
                     Our courses cover everything from the basics to advanced ECDIS operations. Whether you're a seasoned mariner or just starting out, we have a course tailored for you.
                 </p>
@@ -258,7 +351,7 @@ include './navbar.php';
                 <div class="icon-container">
                     <i class="fas fa-chalkboard-teacher feature-icon"></i>
                 </div>
-                <h3 class="feature-title">Expert Instructors</h3>
+                <h3 class="feature-title textcolor">Expert Instructors</h3>
                 <p class="feature-description">
                     Learn from experienced professionals who bring real-world insights and hands-on experience to the classroom. Our instructors are passionate about sharing their knowledge and helping you succeed.
                 </p>
@@ -269,7 +362,7 @@ include './navbar.php';
                 <div class="icon-container">
                     <i class="fas fa-headset feature-icon"></i>
                 </div>
-                <h3 class="feature-title">24 x 7 User Support</h3>
+                <h3 class="feature-title textcolor">24 x 7 User Support</h3>
                 <p class="feature-description">
                     If our customer has any problem and any query we are always happy to help then.
                 </p>
@@ -280,7 +373,7 @@ include './navbar.php';
                 <div class="icon-container">
                     <i class="fas fa-vr-cardboard feature-icon"></i>
                 </div>
-                <h3 class="feature-title">Interactive Training</h3>
+                <h3 class="feature-title textcolor">Interactive Training</h3>
                 <p class="feature-description">
                     We believe learning should be engaging and interactive. Our state-of-the-art simulators and practical exercises ensure you gain practical experience in a safe and controlled environment.
                 </p>
@@ -291,7 +384,7 @@ include './navbar.php';
                 <div class="icon-container">
                     <i class="fas fa-clock feature-icon"></i>
                 </div>
-                <h3 class="feature-title">Flexibility</h3>
+                <h3 class="feature-title textcolor">Flexibility</h3>
                 <p class="feature-description">
                     Life at sea is demanding, and we understand the need for flexible learning options. Our online courses allow you to learn at your own pace, anytime and anywhere.
                 </p>
@@ -302,7 +395,7 @@ include './navbar.php';
                 <div class="icon-container">
                     <i class="fas fa-tags feature-icon"></i>
                 </div>
-                <h3 class="feature-title">Affordable Cost</h3>
+                <h3 class="feature-title textcolor">Affordable Cost</h3>
                 <p class="feature-description">
                     Love is a special word, and I use it only when I mean it. You say the word too much and it becomes cheap.
                 </p>
@@ -312,7 +405,7 @@ include './navbar.php';
 
     <!--Training section  -->
     <section class="training-section">
-        <h2 class="section-titleee">Our Training Solutions</h2>
+        <h2 class="section-titleee fw-bold">Our Training Solutions</h2>
         
         <div class="tabs-container">
             <div class="tab-buttons">

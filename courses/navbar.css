@@ -38,13 +38,13 @@ nav {
 
 .nav-links li a {
     text-decoration: none;
-    color: black;
+    color: #124375;
     font-weight: 500;
     transition: color 0.3s;
 }
 
 .nav-links li a:hover {
-    color: #f39c12;
+    color: #DC2B43;
 }
 
 .hamburger {

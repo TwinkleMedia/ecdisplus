@@ -1,8 +1,8 @@
 /* Root Variables */
 :root {
-    --dark-blue: #1a2b4e;
+    --dark-blue: #124375;
     --light-blue: #2c4b8c;
-    --red: #dc3545;
+    --red: #DC2B43;
     --light-red: #ff4757;
     --white: #ffffff;
     --gray: #f8f9fa;
@@ -86,7 +86,10 @@ body {
     align-items: center;
     gap: 1rem;
 }
-
+.a
+{
+    text-decoration: none;
+}
 .info-card-title i {
     color: var(--red);
 }
@@ -118,9 +121,9 @@ body {
 
 /* Module Details Section */
 .module-details-container {
-    background: var(--white);
+    /*background: var(--white);*/
     border-radius: 10px;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    /*box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);*/
     margin: 2rem 0;
 }
 

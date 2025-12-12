@@ -97,7 +97,7 @@
         
           <section class="info-card">
             <h2 class="info-card-title"> Why Choose Us as a Type-Approved Training Provider?</h2>
-            <p>Our training institute stands out for delivering practical, hands-on courses with globally recognized<a href="https://www.aimsmaritime.com/maritime-coaching/">certifications.</a>  With approval to conduct type-specific training, we ensure your crew is fully prepared for safe and compliant operations.
+            <p>Our training institute stands out for delivering practical, hands-on courses with globally recognized <a href="https://www.aimsmaritime.com/maritime-coaching/">certifications.</a>  With approval to conduct type-specific training, we ensure your crew is fully prepared for safe and compliant operations.
 </p>
 <br><br>
            

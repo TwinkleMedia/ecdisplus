@@ -9,7 +9,7 @@
     height: 60vh;
     width: 100%;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-                url('./assets/img/b2.png') center/cover;
+                url('https://www.itu.int/hub/wp-content/uploads/sites/4/2025/09/BR_WMD-AdobeStock_1601866117.jpg.optimal.jpg') center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -175,13 +175,12 @@
   .course-section {
     padding: 80px 20px;
     background: linear-gradient(to bottom, #f8f9fa 0%, #ffffff 100%);
-    margin-top: 50px; /* Space from above section */
 }
 
 .section-title {
     text-align: center;
     margin-bottom: 50px;
-    color: #2c3e50;
+    color:#124375;
     font-size: 2.5rem;
     font-weight: 700;
 }
@@ -220,7 +219,7 @@
 }
 
 .course-title {
-    color: #2c3e50;
+    color:#124375;
     font-size: 1.25rem;
     font-weight: 600;
     margin-bottom: 15px;
@@ -230,7 +229,7 @@
 .read-more {
     display: inline-block;
     padding: 12px 30px;
-    background: #3498db;
+    background: #124375;
     color: #ffffff;
     text-decoration: none;
     border-radius: 25px;
