@@ -12,7 +12,7 @@
     <?php
     include './navbar.php';
 
-    ?
+    ?>
     <div class="main-container">
         <section class="info-card">
             <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Consilium ECDIS G2
