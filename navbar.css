@@ -60,7 +60,19 @@ nav {
     background-color: black;
     border-radius: 3px;
 }
-
+.booknowbtn
+{
+    background-color: #1a4b8c;
+    color: white !important;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-weight: 600;
+}
+.booknowbtn:hover
+{
+    background-color: #163d6f;
+    color: black !important;
+}
 /* Responsive Styles */
 @media screen and (max-width: 768px) {
     .nav-links {

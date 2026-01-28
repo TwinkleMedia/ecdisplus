@@ -11,7 +11,7 @@
 
 .section-header h2 {
     font-size: 2.5rem;
-    color: #2c3e50;
+    color: #124375;
 }
 
 .fw-bold {
@@ -81,7 +81,7 @@
 
 .blog-title {
     font-size: 1.25rem;
-    color: #2c3e50;
+    color: #124375;
     margin-bottom: 1rem;
     line-height: 1.4;
     font-weight: 600;
@@ -97,14 +97,14 @@
 .read-more {
     display: inline-flex;
     align-items: center;
-    color: #3498db;
+    color: #DC2B43;
     text-decoration: none;
     font-weight: 600;
     transition: color 0.3s ease;
 }
 
 .read-more:hover {
-    color: #2980b9;
+    color: #124375;
 }
 
 .read-more i {
