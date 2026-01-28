@@ -11,6 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     
 <body>
+    <?php include 'form.php'; ?>
     <nav>
         <div class="nav-container">
             <div class="logo">
@@ -22,6 +23,7 @@
                 <li><a href="./bestecdistrainingcourses.php">Type Approved ECDIS course</a></li>
                 <li><a href="./blogpage.php">Blog</a></li>
                 <li><a href="./contactus.php">Contact</a></li>
+            <button onclick="openModal()" class="booknowbtn">Book Now</button>
             </ul>
             <div class="hamburger">
                 <div></div>

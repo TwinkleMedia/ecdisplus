@@ -10,8 +10,8 @@
 
 <body>
     <?php
-    include './navbar.php';
-
+     include './navbar.php';
+      include './form.php';
     ?>
     <div class="main-container">
         <section class="info-card">
@@ -61,6 +61,11 @@ Navigators operatingPM3D ECDIS Trainingtoday or are planning to do so in the fut
             </ul>
         </section>
 
+<!-- Book Now Button -->
+            <div style="text-align: center; margin-top: 2rem;">
+                <button onclick="openModal()" class="book-now-course-btn">Book Now</button>
+            </div>
+    </div>
             
         </div>
     </div>

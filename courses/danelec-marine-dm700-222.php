@@ -9,9 +9,9 @@
 </head>
 
 <body>
-    <?php
-    include './navbar.php';
-
+     <?php
+     include './navbar.php';
+      include './form.php';
     ?>
     <div class="main-container">
         <section class="info-card">
@@ -62,7 +62,11 @@ Navigators operating Danelec MarineECDIS Trainingtoday or are planning to do so 
 
             </ul>
         </section>
-
+<!-- Book Now Button -->
+            <div style="text-align: center; margin-top: 2rem;">
+                <button onclick="openModal()" class="book-now-course-btn">Book Now</button>
+            </div>
+    </div>
             
         </div>
     </div>

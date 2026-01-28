@@ -1,34 +1,15 @@
 .blog-banner {
-            background: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%);
-            padding: 9rem 2rem;
-            text-align: center;
-            position: relative;
-            overflow: hidden;
-              margin-top: 60px;
-        }
+    background: linear-gradient(135deg, #000000d1 0%, #000000a3 100%), url(https://www.marketresearchintellect.com/images/blogs/charting-new-waters-maritime-logistics-market-sets-sail-for-digital-transformation.webp);
+    padding: 9rem 2rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    margin-top: 60px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
-        /* Decorative circle elements */
-        .blog-banner::before {
-            content: '';
-            position: absolute;
-            width: 300px;
-            height: 300px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 50%;
-            top: -100px;
-            right: -100px;
-        }
-
-        .blog-banner::after {
-            content: '';
-            position: absolute;
-            width: 200px;
-            height: 500px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 50%;
-            bottom: -50px;
-            left: -50px;
-        }
 
         /* Banner content */
         .banner-content {
@@ -59,7 +40,7 @@
             display: inline-block;
             padding: 1rem 2rem;
             background-color: white;
-            color: #4f46e5;
+            color: #124375;
             text-decoration: none;
             border-radius: 50px;
             font-weight: bold;
@@ -132,7 +113,7 @@
 
 .contact-form h2 {
     font-size: 1.8rem;
-    color: #2d3436;
+    color: #124375;
     margin-bottom: 1.5rem;
 }
 
@@ -155,6 +136,7 @@
     border-radius: 6px;
     background-color: #fff;
     transition: border-color 0.3s ease;
+    width: 100%;
 }
 
 .contact-form input:focus,
@@ -165,7 +147,7 @@
 }
 
 .contact-form button[type="submit"] {
-    background-color: #007bff;
+    background-color: #124375;
     color: #fff;
     padding: 0.8rem 1.5rem;
     font-size: 1rem;

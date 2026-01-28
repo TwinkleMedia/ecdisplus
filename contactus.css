@@ -23,7 +23,7 @@
 
 .section-title {
     font-size: 1.8rem;
-    color: #333;
+    color: #124375;
     margin-bottom: 2rem;
     position: relative;
 }
@@ -54,7 +54,7 @@
 
 .info-content h3 {
     font-size: 1.2rem;
-    color: #333;
+    color: #124375;
     margin-bottom: 0.5rem;
 }
 
@@ -139,28 +139,7 @@
     overflow: hidden;
 }
 
-/* Decorative circle elements */
-.blog-banner::before {
-    content: '';
-    position: absolute;
-    width: 300px;
-    height: 300px;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 50%;
-    top: -100px;
-    right: -100px;
-}
 
-.blog-banner::after {
-    content: '';
-    position: absolute;
-    width: 200px;
-    height: 500px;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 50%;
-    bottom: -50px;
-    left: -50px;
-}
 
 /* Banner content */
 .banner-content {

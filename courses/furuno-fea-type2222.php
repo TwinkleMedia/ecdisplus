@@ -9,8 +9,8 @@
 <body>
     <?php
      include './navbar.php';
+      include './form.php';
     ?>
-
 <div class="main-container">
     <section class="info-card">
         <h2 class="info-card-title"><i class="fas fa-info-circle"></i>ECDIS FURUNO Type-Specific
@@ -93,6 +93,11 @@ This training course is designed to equip officers in charge of a navigational w
             <li><strong>Software Updates:</strong> Keeping the system software current.</li>
             
         </ul>
+        <!-- Book Now Button -->
+            <div style="text-align: center; margin-top: 2rem;">
+                <button onclick="openModal()" class="book-now-course-btn">Book Now</button>
+            </div>
+    </div>
     </div>
     </div>
 </div>

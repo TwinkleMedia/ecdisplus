@@ -303,6 +303,26 @@ body {
     transform: translateY(-2px);
 }
 
+/* Book Now Button for Course Page */
+.book-now-course-btn {
+    background-color: #1a4b8c;
+    color: white;
+    padding: 1rem 3rem;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'Arial', sans-serif;
+}
+
+.book-now-course-btn:hover {
+    background-color: #163d6f;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(26, 75, 140, 0.3);
+}
+
 /* Animations */
 @keyframes fadeInDown {
     from {
@@ -363,6 +383,11 @@ body {
 
     .equipment-list {
         grid-template-columns: 1fr;
+    }
+    
+    .book-now-course-btn {
+        padding: 0.8rem 2rem;
+        font-size: 1rem;
     }
 }
 

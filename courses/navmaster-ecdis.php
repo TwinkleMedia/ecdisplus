@@ -9,10 +9,10 @@
 </head>
 
 <body>
-    <?php
-    include './navbar.php';
+       <?php
+     include './navbar.php';
+      include './form.php';
     ?>
-
     <div class="main-container">
         <section class="info-card">
             <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Navmaster ECDIS: Stay Ahead of the Curve with Cutting-Edge Technology  </h2>
@@ -47,7 +47,11 @@ Contact us today to learn more about how Navmaster ECDIS can elevate your mariti
             </p>
         </section>
 
-
+<!-- Book Now Button -->
+            <div style="text-align: center; margin-top: 2rem;">
+                <button onclick="openModal()" class="book-now-course-btn">Book Now</button>
+            </div>
+    </div>
   
 
 

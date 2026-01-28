@@ -1,13 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact us</title>
+
+    <!-- ==========================
+        SEO TITLE & META DESCRIPTION
+    =========================== -->
+    <title>Contact Us | ECDIS Plus Maritime Training & Support</title>
+
+    <meta name="description" 
+          content="Contact ECDIS Plus for maritime training, ECDIS courses, certification support, and consultation. Call +91 7710074143 or email training@ecdisplus.com">
+
+    <meta name="keywords" 
+          content="Contact ECDIS Plus, Maritime Training Contact, ECDIS Training India, Marine Navigation Training Support">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://ecdisplus.in/contactus.php">
+
+    <!-- ==========================
+         OPEN GRAPH META TAGS (FB / LINKEDIN)
+    =========================== -->
+    <meta property="og:title" content="Contact ECDIS Plus | Maritime Training & Support">
+    <meta property="og:description" content="Get in touch for ECDIS training, maritime certification and navigational support.">
+    <meta property="og:url" content="https://ecdisplus.in/contactus.php">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://ecdisplus.in/logo.png">
+
+    <!-- ==========================
+         TWITTER CARD META TAGS
+    =========================== -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Contact ECDIS Plus">
+    <meta name="twitter:description" content="Reach out for maritime training & ECDIS support.">
+    <meta name="twitter:image" content="https://ecdisplus.in/logo.png">
+
+    <!-- ==========================
+         CSS FILES
+    =========================== -->
     <link rel="stylesheet" href="./contactus.css">
-      <link rel="stylesheet" href="./blogbanner.css">
-    <!-- Add EmailJS CDN -->
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <link rel="stylesheet" href="./blogbanner.css">
+
+    <!-- ==========================
+         EMAILJS CDN
+    =========================== -->
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+
+    <!-- ==========================
+        STRUCTURED DATA - LOCAL BUSINESS SCHEMA
+    =========================== -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "ECDIS Plus Maritime Training",
+        "image": "https://ecdisplus.in/logo.png",
+        "@id": "https://ecdisplus.in/contactus.php",
+        "url": "https://ecdisplus.in/contactus.php",
+        "telephone": "+91 7710074143",
+        "email": "training@ecdisplus.com",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN"
+        },
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91 7710074143",
+            "contactType": "customer service",
+            "areaServed": "Worldwide"
+        }
+    }
+    </script>
 </head>
 
 <body>

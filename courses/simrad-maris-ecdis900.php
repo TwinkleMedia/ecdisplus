@@ -7,9 +7,11 @@
 </head>
 <link rel="stylesheet" href="./course.css">
 <body>
-<?php
+   <?php
      include './navbar.php';
+      include './form.php';
     ?>
+
     
 <div class="main-container">
     <section class="info-card">
@@ -101,6 +103,11 @@ It focuses on unraveling the intricacies of the Simrad MARIS ECDIS900 MK 5 and S
             <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
             <li><strong>Total Test Time:</strong> 60 minutes</li>
         </ul>
+        <!-- Book Now Button -->
+            <div style="text-align: center; margin-top: 2rem;">
+                <button onclick="openModal()" class="book-now-course-btn">Book Now</button>
+            </div>
+    </div>
     </div>
 
     </section>

@@ -1,17 +1,94 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog News Section</title>
+
+    <!-- ==========================
+         SEO ESSENTIAL META TAGS
+    =========================== -->
+    <title>Latest Maritime Blog News | ECDIS, E-Navigation & Marine Technology</title>
+
+    <meta name="description" 
+          content="Read the latest maritime industry blog news including E-Navigation, ECDIS training, marine technology updates and navigational safety insights.">
+
+    <meta name="keywords" 
+          content="Maritime Blog, ECDIS, E-Navigation, Marine Technology, Ship Navigation, Marine Training">
+
+    <link rel="canonical" href="https://ecdisplus.in/blogpage.php">
+
+    <!-- ==========================
+         OPEN GRAPH (FACEBOOK & LINKEDIN)
+    =========================== -->
+    <meta property="og:title" content="Latest Maritime Blog News | ECDIS & Marine Technology">
+    <meta property="og:description" content="Explore maritime blogs on E-Navigation, ECDIS and marine technology insights.">
+    <meta property="og:image" content="https://ecdisplus.in/logo.png">
+    <meta property="og:url" content="https://ecdisplus.in/blogpage.php">
+    <meta property="og:type" content="website">
+
+    <!-- ==========================
+         TWITTER PREVIEW CARD
+    =========================== -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Latest Maritime Blog News">
+    <meta name="twitter:description" content="Explore maritime blogs on ECDIS, E-navigation and marine safety.">
+    <meta name="twitter:image" content="https://ecdisplus.in/logo.png">
+
+    <!-- ==========================
+         STYLESHEETS
+    =========================== -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="./blog.css">
+
+    <!-- ==========================
+         STRUCTURED DATA (BLOGPOST SCHEMA)
+    =========================== -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "headline": "Latest Maritime Blog News",
+        "description": "Updated maritime blogs on E-Navigation, ECDIS training and marine technology.",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Your Company Name",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.yourwebsite.com/assets/img/logo.png"
+            }
+        },
+        "blogPost": [
+            {
+                "@type": "BlogPosting",
+                "headline": "E-navigation is a New Way of Navigation",
+                "image": "https://www.yourwebsite.com/assets/img/e-navigation.png",
+                "datePublished": "2023-01-01",
+                "author": {
+                    "@type": "Person",
+                    "name": "Admin"
+                },
+                "url": "https://www.yourwebsite.com/blog/e-navigation"
+            },
+            {
+                "@type": "BlogPosting",
+                "headline": "Generic and Types of ECDIS Differences",
+                "image": "https://ecdisplus.in/logo.png",
+                "datePublished": "2023-01-01",
+                "author": {
+                    "@type": "Person",
+                    "name": "Admin"
+                },
+                "url": "https://ecdisplus.in/blogpage.php"
+            }
+        ]
+    }
+    </script>
   
 </head>
 <body>
     <section class="blog-section">
         <div class="section-header">
-            <h2>Latest Blog News</h2>
+            <h2 class="fw-bold">Latest Blog News</h2>
         </div>
         
         <div class="blog-grid">
