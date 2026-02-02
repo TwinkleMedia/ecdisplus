@@ -17,12 +17,19 @@
         <section class="info-card">
             <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Consilium ECDIS G2
             </h2>
-           
+
         </section>
         <section class="info-card">
             <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Course Description
             </h2>
-           <p>The Consilium ECDIS G2 type-specific training course provides officers with the system knowledge required to use this ECDIS for watchkeeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MCA MIN-503(M) for the functions and controls of the Consilium ECDIS G2. A course booking provides you with a three-week time frame to complete the course, repeating Modules where necessary, and to use the “FreePlay” Mode, which allows you to practice freely on the manufacturer’s original, type-approved, software. The courseware includes a final test of no more than 1-hour duration, which can also be repeated, leading to an individual certificate.</p>
+            <p>The Consilium ECDIS G2 type-specific training course provides officers with the system knowledge required
+                to use this ECDIS for watchkeeping in accordance with the regulations of STCW and the ISM Code. The
+                guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements
+                of IMO Model Course 1.27 and MCA MCA MIN-503(M) for the functions and controls of the Consilium ECDIS
+                G2. A course booking provides you with a three-week time frame to complete the course, repeating Modules
+                where necessary, and to use the “FreePlay” Mode, which allows you to practice freely on the
+                manufacturer’s original, type-approved, software. The courseware includes a final test of no more than
+                1-hour duration, which can also be repeated, leading to an individual certificate.</p>
         </section>
 
         <section class="info-card">
@@ -71,40 +78,46 @@
             </div>
         </section>
 
-            <section class="info-card">
-                <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Course Objectives</h2>
-                <p>
-                The objectives of this course are to cover type-specific familiarisation of ECDIS tailored to the specific needs of the Navigational Officers. Subject areas covered in the course include an overview of ECDIS carriage requirements, electronic charts, ECDIS navigational functions, ship handling with ECDIS, sensor integration, alert management, as well as the latest changes according to the new IHO and IEC standards. Combined the content of this course ensures that officers understand the type-specific navigational functions of ECDIS, and are familiar with the features that are common to all ECDIS systems before boarding a vessel, which ultimately translates to safer operations and vessel manoeuvring.
-                </p>
-            </section>
-           
-            <section class="info-card">
-                <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Prerequisites</h2>
-                <p>ECDIS Generic knowledge, as per STCW and IMO Model
+        <section class="info-card">
+            <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Course Objectives</h2>
+            <p>
+                The objectives of this course are to cover type-specific familiarisation of ECDIS tailored to the
+                specific needs of the Navigational Officers. Subject areas covered in the course include an overview of
+                ECDIS carriage requirements, electronic charts, ECDIS navigational functions, ship handling with ECDIS,
+                sensor integration, alert management, as well as the latest changes according to the new IHO and IEC
+                standards. Combined the content of this course ensures that officers understand the type-specific
+                navigational functions of ECDIS, and are familiar with the features that are common to all ECDIS systems
+                before boarding a vessel, which ultimately translates to safer operations and vessel manoeuvring.
+            </p>
+        </section>
 
-Course 1.27
-                </p>
-            </section>
-  
-           
+        <section class="info-card">
+            <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Prerequisites</h2>
+            <p>ECDIS Generic knowledge, as per STCW and IMO Model
+
+                Course 1.27
+            </p>
+        </section>
 
 
 
-            <div class="info-card">
-                <h2 class="info-card-title">Course Details</h2>
-                <ul class="course-card-list">
-                    <li><strong>Course Access:</strong> 21 days</li>
-                    <li><strong>Timeframe:</strong> 16 hours</li>
-                    <li><strong>Language:</strong> English</li>
-                    <li><strong>Certificate:</strong> Indefinite</li>
-                    <li><strong>Strong Authentication:</strong> Yes</li>
-                    <li><strong>Daily Test Attempts:</strong> 2</li>
-                    <li><strong>Min % of Progress to Access TestMe:</strong> 70%</li>
-                    <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
-                    <li><strong>Total Test Time:</strong> 60 minutes</li>
-                </ul>
-            </div>
+
+
+        <div class="info-card">
+            <h2 class="info-card-title">Course Details</h2>
+            <ul class="course-card-list">
+                <li><strong>Course Access:</strong> 21 days</li>
+                <li><strong>Timeframe:</strong> 16 hours</li>
+                <li><strong>Language:</strong> English</li>
+                <li><strong>Certificate:</strong> Indefinite</li>
+                <li><strong>Strong Authentication:</strong> Yes</li>
+                <li><strong>Daily Test Attempts:</strong> 10</li>
+                <li><strong>Min % of Progress to Access TestMe:</strong> 70%</li>
+                <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
+                <li><strong>Total Test Time:</strong>1hr 30 minutes</li>
+            </ul>
         </div>
+    </div>
     </div>
     <?php
     include '../footer.php';

@@ -17,7 +17,7 @@
         <section class="info-card">
             <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Kelvin Hughes Manta Digital
             </h2>
-           
+
         </section>
 
         <section class="info-card">
@@ -68,10 +68,17 @@
         <div class="main-container">
             <section class="info-card">
                 <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Course Objectives</h2>
-                <p>The objectives of this course are to cover type-specific familiarisation of ECDIS tailored to the specific needs of the Navigational Officers. Subject areas covered in the course include an overview of ECDIS carriage requirements, electronic charts, ECDIS navigational functions, ship handling with ECDIS, sensor integration, alert management, as well as the latest changes according to the new IHO and IEC standards. Combined the content of this course ensures that officers understand the type-specific navigational functions of ECDIS, and are familiar with the features that are common to all ECDIS systems before boarding a vessel, which ultimately translates to safer operations and vessel manoeuvring.
+                <p>The objectives of this course are to cover type-specific familiarisation of ECDIS tailored to the
+                    specific needs of the Navigational Officers. Subject areas covered in the course include an overview
+                    of ECDIS carriage requirements, electronic charts, ECDIS navigational functions, ship handling with
+                    ECDIS, sensor integration, alert management, as well as the latest changes according to the new IHO
+                    and IEC standards. Combined the content of this course ensures that officers understand the
+                    type-specific navigational functions of ECDIS, and are familiar with the features that are common to
+                    all ECDIS systems before boarding a vessel, which ultimately translates to safer operations and
+                    vessel manoeuvring.
                 </p>
             </section>
-           
+
 
 
 
@@ -84,10 +91,10 @@
                     <li><strong>Language:</strong> English</li>
                     <li><strong>Certificate:</strong> Indefinite</li>
                     <li><strong>Strong Authentication:</strong> Yes</li>
-                    <li><strong>Daily Test Attempts:</strong> 2</li>
+                    <li><strong>Daily Test Attempts:</strong> 10</li>
                     <li><strong>Min % of Progress to Access TestMe:</strong> 70%</li>
                     <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
-                    <li><strong>Total Test Time:</strong> 60 minutes</li>
+                    <li><strong>Total Test Time:</strong>1hr 30 minutes</li>
                 </ul>
             </div>
         </div>

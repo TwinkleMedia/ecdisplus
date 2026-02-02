@@ -7,7 +7,7 @@ body {
 
 nav {
     background-color: #fff;
-    color: #000000 !important; 
+    color: #000000 !important;
     padding: 0.5rem 1rem;
     position: fixed;
     width: 100%;
@@ -43,6 +43,10 @@ nav {
     transition: color 0.3s;
 }
 
+#booknow:hover {
+    color: #eb1f25 !important;
+}
+
 .nav-links li a:hover {
     color: #f39c12;
 }
@@ -60,31 +64,49 @@ nav {
     background-color: black;
     border-radius: 3px;
 }
-.booknowbtn
-{
+
+.booknowbtn {
     background-color: #1a4b8c;
     color: white !important;
     padding: 0.5rem 1rem;
     border-radius: 5px;
     font-weight: 600;
 }
-.booknowbtn:hover
-{
+
+.booknowbtn:hover {
     background-color: #163d6f;
     color: black !important;
 }
+
+
+.overlay.active {
+    display: block !important;
+}
+
 /* Responsive Styles */
 @media screen and (max-width: 768px) {
     .nav-links {
         display: none;
         flex-direction: column;
-        position: absolute;
+        position: fixed;
         top: 60px;
         right: 0;
-        background-color: #333;
+        background-color: #fff;
         padding: 1rem;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         border-radius: 8px;
+        height: 100%;
+        backdrop-filter: blur(10px);
+    }
+
+    .overlay {
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.25);
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(8px);
+        z-index: 998;
+        display: none;
     }
 
     .nav-links.active {

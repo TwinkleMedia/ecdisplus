@@ -15,8 +15,18 @@
     ?>
     <div class="main-container">
         <section class="info-card">
-            <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Wärtsilä NaviSailor 4000 by Transas type-specific Training Course</h2>
-            <p>Wärtsilä is a global leader in innovative technologies and lifecycle solutions for the marine and energy markets. We emphasize sustainable technology and services, helping our customers continuously enhance their environmental and economic performance. Wärtsilä has developed a holistic approach to navigation, transforming your ECDIS into a powerful data-handling and decision-support tool. The Wärtsilä Navi-Sailor 4000 ECDIS, equipped with Navi-Planner software, represents our latest, future-proof solution featuring dedicated and certified hardware. Both the software and hardware are designed for seamless connectivity, elevating the ECDIS to a comprehensive Fleet Operation System. In the dual configuration, the ECDIS complies with IMO/SOLAS regulations for paperless navigation. Leverage its advanced digital tools to prepare a fully automated voyage plan! Navigating its vast waters requires precision and expertise, especially with advanced systems like the WARTSILA NAVI-SAILOR 4000 by Transas.
+            <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Wärtsilä NaviSailor 4000 by Transas
+                type-specific Training Course</h2>
+            <p>Wärtsilä is a global leader in innovative technologies and lifecycle solutions for the marine and energy
+                markets. We emphasize sustainable technology and services, helping our customers continuously enhance
+                their environmental and economic performance. Wärtsilä has developed a holistic approach to navigation,
+                transforming your ECDIS into a powerful data-handling and decision-support tool. The Wärtsilä
+                Navi-Sailor 4000 ECDIS, equipped with Navi-Planner software, represents our latest, future-proof
+                solution featuring dedicated and certified hardware. Both the software and hardware are designed for
+                seamless connectivity, elevating the ECDIS to a comprehensive Fleet Operation System. In the dual
+                configuration, the ECDIS complies with IMO/SOLAS regulations for paperless navigation. Leverage its
+                advanced digital tools to prepare a fully automated voyage plan! Navigating its vast waters requires
+                precision and expertise, especially with advanced systems like the WARTSILA NAVI-SAILOR 4000 by Transas.
 
             </p>
         </section>
@@ -66,7 +76,13 @@
         <div class="main-container">
             <section class="info-card">
                 <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Course Objectives</h2>
-                <p>The objectives of this course are to provide type-specific familiarization with ECDIS tailored to the needs of Navigational Officers. The course covers an overview of ECDIS carriage requirements, electronic charts, ECDIS navigational functions, ship handling with ECDIS, sensor integration, alert management, and the latest updates according to new IHO and IEC standards. By combining these topics, the course ensures that officers understand the type-specific navigational functions of ECDIS and are familiar with features common to all ECDIS systems, enhancing safety and vessel maneuvering before boarding a vessel.
+                <p>The objectives of this course are to provide type-specific familiarization with ECDIS tailored to the
+                    needs of Navigational Officers. The course covers an overview of ECDIS carriage requirements,
+                    electronic charts, ECDIS navigational functions, ship handling with ECDIS, sensor integration, alert
+                    management, and the latest updates according to new IHO and IEC standards. By combining these
+                    topics, the course ensures that officers understand the type-specific navigational functions of
+                    ECDIS and are familiar with features common to all ECDIS systems, enhancing safety and vessel
+                    maneuvering before boarding a vessel.
 
 
 
@@ -90,7 +106,13 @@
                         <li>Navi-Planner Voyage Planning Tool</li>
                         <li>Navi-Planner Voyage Planning Tool</li>
                         <p>
-                            This course enhances the capabilities of your bridge team by providing them with in-depth ECDIS knowledge essential for effective watchkeeping. With improved ECDIS proficiency, your team will be better equipped to navigate safely and comply with STCW and ISM Code regulations. This leads to more accurate decision-making, reduced risk of navigational errors, and increased operational efficiency. Ultimately, investing in this training supports a safer and more reliable operational environment, which can help reduce costs and improve overall performance.
+                            This course enhances the capabilities of your bridge team by providing them with in-depth
+                            ECDIS knowledge essential for effective watchkeeping. With improved ECDIS proficiency, your
+                            team will be better equipped to navigate safely and comply with STCW and ISM Code
+                            regulations. This leads to more accurate decision-making, reduced risk of navigational
+                            errors, and increased operational efficiency. Ultimately, investing in this training
+                            supports a safer and more reliable operational environment, which can help reduce costs and
+                            improve overall performance.
 
 
                         </p>
@@ -111,7 +133,8 @@
 
             <section class="info-card">
                 <h2 class="info-card-title"><i class="fas fa-users"></i>Suitable For</h2>
-                <p>This course is designed for all bridge team officers responsible for ensuring the safe navigation of the vessel.
+                <p>This course is designed for all bridge team officers responsible for ensuring the safe navigation of
+                    the vessel.
 
                 </p>
             </section>
@@ -126,12 +149,18 @@
 
             <section class="info-card">
                 <h2 class="info-card-title"><i class="fas fa-laptop"></i>Equipment Covered</h2>
-                <p>Wärtsilä is a global leader in pioneering solutions for the marine and energy sectors, with a strong focus on sustainability. Our team of 17,800 professionals, operating from 280 locations around the world, is dedicated to advancing decarbonization. In 2023, we achieved net sales of EUR 6.0 billion and are listed on Nasdaq Helsinki. Our divisions, Wärtsilä Energy and Wärtsilä Marine, provide advanced technologies that enhance decarbonization and operational efficiency, complemented by comprehensive lifecycle services. Additionally, Wärtsilä Portfolio Business drives performance improvements through strategic alternatives.
+                <p>Wärtsilä is a global leader in pioneering solutions for the marine and energy sectors, with a strong
+                    focus on sustainability. Our team of 17,800 professionals, operating from 280 locations around the
+                    world, is dedicated to advancing decarbonization. In 2023, we achieved net sales of EUR 6.0 billion
+                    and are listed on Nasdaq Helsinki. Our divisions, Wärtsilä Energy and Wärtsilä Marine, provide
+                    advanced technologies that enhance decarbonization and operational efficiency, complemented by
+                    comprehensive lifecycle services. Additionally, Wärtsilä Portfolio Business drives performance
+                    improvements through strategic alternatives.
 
                 </p>
             </section>
 
-    
+
 
             <div class="info-card">
                 <h2 class="info-card-title">Course Details</h2>
@@ -141,10 +170,10 @@
                     <li><strong>Language:</strong> English</li>
                     <li><strong>Certificate:</strong> Indefinite</li>
                     <li><strong>Strong Authentication:</strong> Yes</li>
-                    <li><strong>Daily Test Attempts:</strong> 2</li>
+                    <li><strong>Daily Test Attempts:</strong> 10</li>
                     <li><strong>Min % of Progress to Access TestMe:</strong> 70%</li>
                     <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
-                    <li><strong>Total Test Time:</strong> 60 minutes</li>
+                    <li><strong>Total Test Time:</strong>1hr 30 minutes</li>
                 </ul>
             </div>
         </div>

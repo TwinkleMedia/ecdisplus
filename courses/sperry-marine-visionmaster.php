@@ -22,13 +22,20 @@
         <section class="info-card">
             <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Course Description
             </h2>
-            <p>The NG Sperry Marine VisionMaster type-specific training course provides officers with the system knowledge required to use this ECDIS for watchkeeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls of the ECDIS NG Sperry Marine VisionMaster. A course booking provides you with a three-week time frame to complete the course, repeating Modules where necessary, and to use the “FreePlay” Mode, which allows you to practice freely on the manufacturer’s original, type-approved, software. The courseware includes a final test of no more than 1-hour duration, which can also be repeated, leading to an individual certificate.</p>
+            <p>The NG Sperry Marine VisionMaster type-specific training course provides officers with the system
+                knowledge required to use this ECDIS for watchkeeping in accordance with the regulations of STCW and the
+                ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation
+                requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls of the ECDIS NG
+                Sperry Marine VisionMaster. A course booking provides you with a three-week time frame to complete the
+                course, repeating Modules where necessary, and to use the “FreePlay” Mode, which allows you to practice
+                freely on the manufacturer’s original, type-approved, software. The courseware includes a final test of
+                no more than 1-hour duration, which can also be repeated, leading to an individual certificate.</p>
         </section>
 
         <section class="info-card">
             <h2 class="info-card-title"><i class="fas fa-list-alt"></i> Course Modules</h2>
             <div class="modules-grid">
-            <div class="module-element">
+                <div class="module-element">
                     <h3>Module 1</h3>
                     <p>User Interface</p>
                 </div>
@@ -75,7 +82,13 @@
         <section class="info-card">
             <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Course Objectives</h2>
             <p>
-            The objectives of this course are to cover type-specific familiarisation of ECDIS tailored to the specific needs of the Navigational Officers. Subject areas covered in the course include an overview of ECDIS carriage requirements, electronic charts, ECDIS navigational functions, ship handling with ECDIS, sensor integration, alert management, as well as the latest changes according to the new IHO and IEC standards. Combined the content of this course ensures that officers understand the type-specific navigational functions of ECDIS, and are familiar with the features that are common to all ECDIS systems before boarding a vessel, which ultimately translates to safer operations and vessel manoeuvring.
+                The objectives of this course are to cover type-specific familiarisation of ECDIS tailored to the
+                specific needs of the Navigational Officers. Subject areas covered in the course include an overview of
+                ECDIS carriage requirements, electronic charts, ECDIS navigational functions, ship handling with ECDIS,
+                sensor integration, alert management, as well as the latest changes according to the new IHO and IEC
+                standards. Combined the content of this course ensures that officers understand the type-specific
+                navigational functions of ECDIS, and are familiar with the features that are common to all ECDIS systems
+                before boarding a vessel, which ultimately translates to safer operations and vessel manoeuvring.
             </p>
         </section>
 
@@ -91,7 +104,10 @@
 
             </h2>
             <p>
-            Equipment Manufacturer Headquartered in New Malden, U.K., and with major engineering and support offices in Hamburg, Germany, NGSM provides smart navigation and ship control solutions for the international marine industry. NGSM provides customer service and support through offices in 16 countries, sales representatives in 47 countries and authorized service depots in more than 250 locations worldwide.
+                Equipment Manufacturer Headquartered in New Malden, U.K., and with major engineering and support offices
+                in Hamburg, Germany, NGSM provides smart navigation and ship control solutions for the international
+                marine industry. NGSM provides customer service and support through offices in 16 countries, sales
+                representatives in 47 countries and authorized service depots in more than 250 locations worldwide.
 
 
             </p>
@@ -110,10 +126,10 @@
                 <li><strong>Language:</strong> English</li>
                 <li><strong>Certificate:</strong> Indefinite</li>
                 <li><strong>Strong Authentication:</strong> Yes</li>
-                <li><strong>Daily Test Attempts:</strong> 2</li>
+                <li><strong>Daily Test Attempts:</strong> 10</li>
                 <li><strong>Min % of Progress to Access TestMe:</strong> 70%</li>
                 <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
-                <li><strong>Total Test Time:</strong> 60 minutes</li>
+                <li><strong>Total Test Time:</strong>1hr 30 minutes</li>
             </ul>
         </div>
     </div>

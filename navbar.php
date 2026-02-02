@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,9 +9,12 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-    
+    <link
+        href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
 <body>
+    <div class="overlay"></div>
     <nav>
         <div class="nav-container">
             <div class="logo">
@@ -22,7 +26,7 @@
                 <li><a href="./bestecdistrainingcourses.php">Type Approved ECDIS course</a></li>
                 <li><a href="./blogpage.php">Blog</a></li>
                 <li><a href="./contactus.php">Contact</a></li>
-                <li><a href="./contactus.php" class="booknowbtn">Book Now</a></li>
+                <li><a href="./contactus.php" class="booknowbtn" id="booknow">Book Now</a></li>
             </ul>
             <div class="hamburger">
                 <div></div>
@@ -36,12 +40,17 @@
     <script>
         const hamburger = document.querySelector('.hamburger');
         const navLinks = document.querySelector('.nav-links');
-
+        const overlay = document.querySelector('.overlay');
         hamburger.addEventListener('click', () => {
             hamburger.classList.toggle('active');
             navLinks.classList.toggle('active');
+            overlay.classList.toggle('active');
         });
-
+        overlay.addEventListener("click", () => {
+            hamburger.classList.remove('active');
+            navLinks.classList.remove('active');
+            overlay.classList.remove('active');
+        });
         // Close menu when clicking a link
         document.querySelectorAll('.nav-links li a').forEach(link => {
             link.addEventListener('click', () => {
@@ -51,4 +60,5 @@
         });
     </script>
 </body>
+
 </html>

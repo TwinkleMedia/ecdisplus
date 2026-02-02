@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,6 +15,7 @@
             box-sizing: border-box;
             font-family: 'Poppins', sans-serif;
         }
+
         .footers {
             background: #154475;
             color: white;
@@ -32,82 +34,100 @@
             background: linear-gradient(90deg, transparent, #ff1744, transparent);
             animation: borderFlow 3s linear infinite;
         }
-        
+
         .call-buton .cc-calto-action-ripple {
-	z-index: 99999;
-	position: fixed;
-	right: 1rem;
-	bottom: 8rem;
-	background: #ec8b00;
-	width: 4rem;
-	height: 4rem;
-	padding: 1rem;
-	border-radius: 100%;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-	color: #ffffff;
-	-webkit-animation: cc-calto-action-ripple 0.6s linear infinite;
-	animation: cc-calto-action-ripple 0.6s linear infinite;
-	display: -webkit-box;
-	display: -webkit-flex;
-	display: -ms-flexbox;
-	display: flex;
-	justify-items: center;
-	-webkit-box-align: center;
-	-webkit-align-items: center;
-	-ms-flex-align: center;
-	align-items: center;
-	text-decoration: none; }
-	.call-buton .cc-calto-action-ripple i {
-	  -webkit-transition: 0.3s ease;
-	  transition: 0.3s ease;
-	  font-size: 2.2rem; }
-	.call-buton .cc-calto-action-ripple:hover i {
-	  -webkit-transform: rotate(135deg);
-	  transform: rotate(135deg); }
-  
-  @-webkit-keyframes cc-calto-action-ripple {
-	0% {
-	  -webkit-box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 0 rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2);
-	  box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 0 rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2); }
-	100% {
-	  -webkit-box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2), 0 0 0 20px rgba(236, 139, 0, 0);
-	  box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2), 0 0 0 20px rgba(236, 139, 0, 0); } }
-  
-  @keyframes cc-calto-action-ripple {
-	0% {
-	  -webkit-box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 0 rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2);
-	  box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 0 rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2); }
-	100% {
-	  -webkit-box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2), 0 0 0 20px rgba(236, 139, 0, 0);
-	  box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2), 0 0 0 20px rgba(236, 139, 0, 0); } }
+            z-index: 99999;
+            position: fixed;
+            right: 1rem;
+            bottom: 8rem;
+            background: #ec8b00;
+            width: 4rem;
+            height: 4rem;
+            padding: 1rem;
+            border-radius: 100%;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            color: #ffffff;
+            -webkit-animation: cc-calto-action-ripple 0.6s linear infinite;
+            animation: cc-calto-action-ripple 0.6s linear infinite;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            justify-items: center;
+            -webkit-box-align: center;
+            -webkit-align-items: center;
+            -ms-flex-align: center;
+            align-items: center;
+            text-decoration: none;
+        }
+
+        .call-buton .cc-calto-action-ripple i {
+            -webkit-transition: 0.3s ease;
+            transition: 0.3s ease;
+            font-size: 2.2rem;
+        }
+
+        .call-buton .cc-calto-action-ripple:hover i {
+            -webkit-transform: rotate(135deg);
+            transform: rotate(135deg);
+        }
+
+        @-webkit-keyframes cc-calto-action-ripple {
+            0% {
+                -webkit-box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 0 rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2);
+                box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 0 rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2);
+            }
+
+            100% {
+                -webkit-box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2), 0 0 0 20px rgba(236, 139, 0, 0);
+                box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2), 0 0 0 20px rgba(236, 139, 0, 0);
+            }
+        }
+
+        @keyframes cc-calto-action-ripple {
+            0% {
+                -webkit-box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 0 rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2);
+                box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 0 rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2);
+            }
+
+            100% {
+                -webkit-box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2), 0 0 0 20px rgba(236, 139, 0, 0);
+                box-shadow: 0 4px 10px rgba(236, 139, 0, 0.2), 0 0 0 5px rgba(236, 139, 0, 0.2), 0 0 0 10px rgba(236, 139, 0, 0.2), 0 0 0 20px rgba(236, 139, 0, 0);
+            }
+        }
 
 
-        
-        
-        
-        .float{
-	position:fixed;
-	width:60px;
-	height:60px;
-	bottom:40px;
-	right:40px;
-	background-color:#25d366;
-	color:#FFF;
-	border-radius:50px;
-	text-align:center;
-  font-size:30px;
-	box-shadow: 2px 2px 3px #999;
-  z-index:100;
-}
 
-.my-float{
-	margin-top:16px;
-}
+
+
+        .float {
+            position: fixed;
+            width: 60px;
+            height: 60px;
+            bottom: 40px;
+            right: 40px;
+            background-color: #25d366;
+            color: #FFF;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 30px;
+            box-shadow: 2px 2px 3px #999;
+            z-index: 100;
+        }
+
+        .my-float {
+            margin-top: 16px;
+        }
 
         @keyframes borderFlow {
-            0% { transform: translateX(-100%); }
-            100% { transform: translateX(100%); }
+            0% {
+                transform: translateX(-100%);
+            }
+
+            100% {
+                transform: translateX(100%);
+            }
         }
 
         .footers-content {
@@ -132,9 +152,17 @@
             }
         }
 
-        .footers-section:nth-child(2) { animation-delay: 0.2s; }
-        .footers-section:nth-child(3) { animation-delay: 0.4s; }
-        .footers-section:nth-child(4) { animation-delay: 0.6s; }
+        .footers-section:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .footers-section:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+
+        .footers-section:nth-child(4) {
+            animation-delay: 0.6s;
+        }
 
         .footers-section h3 {
             color: #ff1744;
@@ -198,7 +226,7 @@
             height: 40px;
             border-radius: 50%;
             background: white;
-            color: #1a237e;
+            color: #154475;
             text-decoration: none;
             transition: all 0.3s ease;
         }
@@ -245,6 +273,78 @@
             border-top: 1px solid rgba(255, 255, 255, 0.1);
         }
 
+        /* Mobile floating buttons at bottom */
+        .floating-buttons-mobile {
+            display: none;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: white;
+            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.15);
+            padding: 10px;
+            gap: 10px;
+            z-index: 9999;
+        }
+
+        .mobile-btn {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            padding: 14px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            color: white;
+        }
+
+        .mobile-btn i {
+            font-size: 20px;
+        }
+
+        .call-btn {
+            background-color: #ec8b00;
+        }
+
+        .call-btn:hover {
+            background-color: #d17d00;
+        }
+
+        .whatsapp-btn {
+            background-color: #25d366;
+        }
+
+        .whatsapp-btn:hover {
+            background-color: #1fb855;
+        }
+
+        /* Hide desktop buttons on mobile, show mobile buttons */
+        @media screen and (max-width: 768px) {
+            .floating-buttons-mobile {
+                display: flex;
+            }
+
+            .desktop-only {
+                display: none !important;
+            }
+
+            /* Add padding to footer so content isn't hidden behind buttons */
+            .footers {
+                padding-bottom: 80px;
+            }
+        }
+
+        /* Show desktop buttons only on larger screens */
+        @media screen and (min-width: 769px) {
+            .floating-buttons-mobile {
+                display: none;
+            }
+        }
+
         @media (max-width: 768px) {
             .footers-content {
                 grid-template-columns: 1fr;
@@ -274,14 +374,15 @@
         }
     </style>
 </head>
+
 <body>
     <footer class="footers">
         <div class="footers-content">
             <div class="footers-section">
                 <h3>About Us</h3>
-                <p>At ECDISPLUS, we’re not just about training – we’re about building a community of skilled, confident mariners. When you choose us, you become part of a network of professionals dedicated to excellence in maritime navigation.
-
-Ready to set sail towards a brighter future?  Contact us today to learn more about our training programs and how we can help you achieve your goals. at ECDISPLUS, your success is our mission. Let's navigate the future together.</p>
+                <p>At ECDISPLUS, we’re not just about training – we’re about building a community of skilled, confident
+                    mariners. When you choose us, you become part of a network of professionals dedicated to excellence
+                    in maritime navigation.</p>
                 <div class="social-links">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -306,27 +407,44 @@ Ready to set sail towards a brighter future?  Contact us today to learn more abo
                 <ul class="footers-links">
                     <li><i class="fas fa-phone"></i> +91 7710074143</li>
                     <li><i class="fas fa-envelope"></i>training@ecdisplus.com</li>
-                  
+
                 </ul>
             </div>
 
             <div class="footers-section">
                 <h3>Office Address</h3>
-                <p>104 B Wing 10th  Floor , Aggarwal Trade Center , Sector 11, CBD BELAPUR 400 614</p>
-               
+                <p>104 B Wing 10th Floor , Aggarwal Trade Center , Sector 11, CBD BELAPUR 400 614</p>
+
             </div>
         </div>
-        
+
 
         <div class="footers-bottom">
             <p>&copy; 2025 Your Company. All rights reserved.</p>
         </div>
     </footer>
-    <section class="call-buton"><a class="cc-calto-action-ripple" href="tel:+91 7710074143"><i class="fa fa-phone"></i>
-</section>
-    
-        <a href="https://api.whatsapp.com/send?phone=+91 7710074143&text=Hi` Could you please provide more details" class="float" target="_blank">
-<i class="fa fa-whatsapp my-float"></i>
-</a>
+    <!-- Replace the existing call-buton and float sections with this -->
+    <div class="floating-buttons-mobile">
+        <a href="tel:+917710074143" class="mobile-btn call-btn">
+            <i class="fa fa-phone"></i>
+            <span>Call</span>
+        </a>
+        <a href="https://api.whatsapp.com/send?phone=917710074143&text=Hi Could you please provide more details"
+            class="mobile-btn whatsapp-btn" target="_blank">
+            <i class="fa fa-whatsapp"></i>
+            <span>WhatsApp</span>
+        </a>
+    </div>
+    <section class="call-buton desktop-only">
+        <a class="cc-calto-action-ripple" href="tel:+917710074143">
+            <i class="fa fa-phone"></i>
+        </a>
+    </section>
+
+    <a href="https://api.whatsapp.com/send?phone=917710074143&text=Hi Could you please provide more details"
+        class="float desktop-only" target="_blank">
+        <i class="fa fa-whatsapp my-float"></i>
+    </a>
 </body>
+
 </html>

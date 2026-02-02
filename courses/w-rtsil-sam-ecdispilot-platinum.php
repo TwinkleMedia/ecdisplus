@@ -15,10 +15,29 @@
     ?>
     <div class="main-container">
         <section class="info-card">
-            <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Wärtsilä SAM Electronics ECDISPILOT Platinum Training Course</h2>
-            <p>This course is designed to train navigators in the practical use of the ECDISPILOT and fulfill the ECDIS familiarization requirement. Wärtsilä SAM Electronics ensures that this module provides the comprehensive understanding and practical skills needed to operate the SAM ECDISPILOT system safely and efficiently. Access to ECDIS simulators is set to 21 days. Extended access can be requested by contacting us. This course is intended for all bridge officers responsible for ensuring the safe navigation of the vessel. ECDIS generic knowledge, as outlined in STCW and IMO Model Course 1.27, is highly recommended. This course equips officers with the essential knowledge to effectively use ECDIS for watchkeeping, ensuring compliance with STCW regulations and the ISM Code. By enhancing your team’s proficiency with ECDIS through interactive and practical training, this course improves navigational safety and operational efficiency. It helps reduce errors and streamline processes, contributing to safer and more effective vessel operations while ensuring adherence to regulatory standards.
+            <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Wärtsilä SAM Electronics ECDISPILOT Platinum
+                Training Course</h2>
+            <p>This course is designed to train navigators in the practical use of the ECDISPILOT and fulfill the ECDIS
+                familiarization requirement. Wärtsilä SAM Electronics ensures that this module provides the
+                comprehensive understanding and practical skills needed to operate the SAM ECDISPILOT system safely and
+                efficiently. Access to ECDIS simulators is set to 21 days. Extended access can be requested by
+                contacting us. This course is intended for all bridge officers responsible for ensuring the safe
+                navigation of the vessel. ECDIS generic knowledge, as outlined in STCW and IMO Model Course 1.27, is
+                highly recommended. This course equips officers with the essential knowledge to effectively use ECDIS
+                for watchkeeping, ensuring compliance with STCW regulations and the ISM Code. By enhancing your team’s
+                proficiency with ECDIS through interactive and practical training, this course improves navigational
+                safety and operational efficiency. It helps reduce errors and streamline processes, contributing to
+                safer and more effective vessel operations while ensuring adherence to regulatory standards.
 
-                By ensuring ECDIS competence through interactive and practical training in line with manufacturer standards, this course covers the following equipment, ECDISPILOT Platinum – Electronic Chart Display and Information System, ECDISPILOT Basic – Electronic Chart Display and Information System, MULTIPILOT, Platinum – Electronic Chart Display and Information System, NACOS Platinum – Electronic Chart Display and Information System. International Convention for the Safety of Life at Sea (SOLAS). International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW). International Maritime Organization (IMO) Model Course 1.27. Yes, the course includes an assessment to evaluate your understanding and proficiency with the ECDIS systems, ensuring you meet the required standards for effective navigation and compliance.
+                By ensuring ECDIS competence through interactive and practical training in line with manufacturer
+                standards, this course covers the following equipment, ECDISPILOT Platinum – Electronic Chart Display
+                and Information System, ECDISPILOT Basic – Electronic Chart Display and Information System, MULTIPILOT,
+                Platinum – Electronic Chart Display and Information System, NACOS Platinum – Electronic Chart Display
+                and Information System. International Convention for the Safety of Life at Sea (SOLAS). International
+                Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW). International
+                Maritime Organization (IMO) Model Course 1.27. Yes, the course includes an assessment to evaluate your
+                understanding and proficiency with the ECDIS systems, ensuring you meet the required standards for
+                effective navigation and compliance.
 
             </p>
         </section>
@@ -71,13 +90,28 @@
         <div class="main-container">
             <section class="info-card">
                 <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Course Objectives</h2>
-                <p>Maritime, in collaboration with Wärtsilä SAM Electronics, has developed a training module for the ECDISPILOT, which is included in this distance course. Wärtsilä SAM Electronics is a leading producer of ECDIS and integrated bridge systems for all types of vessels. This ECDISPILOT training is suitable for both the standalone ECDISPILOT Basic version and the ECDISPILOT Platinum, which is part of an integrated bridge system. The course also covers MULTIPILOT PLATINUM (ECDIS-PART) and RADARPILOT PLATINUM chart-radar functions. It focuses on ECDISPILOT software version 2.x.xx.xx. Upon successful completion of the course.
+                <p>Maritime, in collaboration with Wärtsilä SAM Electronics, has developed a training module for the
+                    ECDISPILOT, which is included in this distance course. Wärtsilä SAM Electronics is a leading
+                    producer of ECDIS and integrated bridge systems for all types of vessels. This ECDISPILOT training
+                    is suitable for both the standalone ECDISPILOT Basic version and the ECDISPILOT Platinum, which is
+                    part of an integrated bridge system. The course also covers MULTIPILOT PLATINUM (ECDIS-PART) and
+                    RADARPILOT PLATINUM chart-radar functions. It focuses on ECDISPILOT software version 2.x.xx.xx. Upon
+                    successful completion of the course.
                 </p>
             </section>
             <div class="equipment-list">
                 <div class="equipment-item">
                     <h3><i class="fas fa-desktop"></i>Course Description</h3>
-                    <P>This course is designed to train navigators in the practical use of the ECDISPILOT 2 and meet the ECDIS familiarization requirements. Wärtsilä SAM Electronics GmbH confirms that this module will equip participants with the necessary understanding and practical skills to use the SAM ECDISPILOT system safely and efficiently. In collaboration with Wärtsilä SAM Electronics, Seagull Maritime has developed a comprehensive training module for the ECDISPILOT, which is included in this distance course. Wärtsilä SAM Electronics is a leading producer of ECDIS and integrated bridge systems for all types of vessels. This training is applicable to both the standalone ECDISPILOT Basic version and the ECDISPILOT Platinum integrated bridge system. The course also covers MULTIPILOT PLATINUM (ECDIS-PART) and RADARPILOT PLATINUM chart-radar functions. It addresses ECDISPILOT software version 2.x.xx.xx. </P>
+                    <P>This course is designed to train navigators in the practical use of the ECDISPILOT 2 and meet the
+                        ECDIS familiarization requirements. Wärtsilä SAM Electronics GmbH confirms that this module will
+                        equip participants with the necessary understanding and practical skills to use the SAM
+                        ECDISPILOT system safely and efficiently. In collaboration with Wärtsilä SAM Electronics,
+                        Seagull Maritime has developed a comprehensive training module for the ECDISPILOT, which is
+                        included in this distance course. Wärtsilä SAM Electronics is a leading producer of ECDIS and
+                        integrated bridge systems for all types of vessels. This training is applicable to both the
+                        standalone ECDISPILOT Basic version and the ECDISPILOT Platinum integrated bridge system. The
+                        course also covers MULTIPILOT PLATINUM (ECDIS-PART) and RADARPILOT PLATINUM chart-radar
+                        functions. It addresses ECDISPILOT software version 2.x.xx.xx. </P>
                 </div>
             </div>
 
@@ -93,7 +127,8 @@
 
             <section class="info-card">
                 <h2 class="info-card-title"><i class="fas fa-users"></i>Suitable For</h2>
-                <p>This course is designed for all bridge team officers responsible for ensuring the safe navigation of the vessel.
+                <p>This course is designed for all bridge team officers responsible for ensuring the safe navigation of
+                    the vessel.
 
                 </p>
             </section>
@@ -132,10 +167,10 @@
                     <li><strong>Language:</strong> English</li>
                     <li><strong>Certificate:</strong> Indefinite</li>
                     <li><strong>Strong Authentication:</strong> Yes</li>
-                    <li><strong>Daily Test Attempts:</strong> 2</li>
+                    <li><strong>Daily Test Attempts:</strong> 10</li>
                     <li><strong>Min % of Progress to Access TestMe:</strong> 70%</li>
                     <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
-                    <li><strong>Total Test Time:</strong> 60 minutes</li>
+                    <li><strong>Total Test Time:</strong>1hr 30 minutes</li>
                 </ul>
             </div>
         </div>

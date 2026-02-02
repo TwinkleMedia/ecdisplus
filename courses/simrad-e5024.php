@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
     <link rel="stylesheet" href="./course.css">
 </head>
+
 <body>
-<?php
+    <?php
     include './navbar.php';
     ?>
-<div class="main-container">
-     
+    <div class="main-container">
+
 
         <div class="info-card">
             <h2 class="info-card-title">
@@ -19,14 +21,24 @@
                 The Simrad E5024 ECDIS system is an IMO type-approved Navigation System
             </h2>
             <p>
-            The Simrad E5024 ECDIS system is an IMO type-approved navigation solution designed for SOLAS vessels, including large passenger ships, tankers, and cargo ships subject to the ECDIS Carriage Mandate. The Simrad E5024 ECDIS system includes support for an optional secondary display station, providing complete control of Ethernet-connected Simrad performance modules. These modules include radar, conventional echo sounders, ForwardScan™ sonar, and StructureScan Imaging™, as well as third-party accessories such as FLIR cameras, CCTV, engine sensors, and other digital instrumentation. Simrad® offers high-performance marine electronics, proven to withstand the harshest environments. Any 16-, 19-, or 24-inch Simrad marine monitor can be used for this second station, which operates independently from the E5024 system’s type-approved ECDIS functionality.</p>
+                The Simrad E5024 ECDIS system is an IMO type-approved navigation solution designed for SOLAS vessels,
+                including large passenger ships, tankers, and cargo ships subject to the ECDIS Carriage Mandate. The
+                Simrad E5024 ECDIS system includes support for an optional secondary display station, providing complete
+                control of Ethernet-connected Simrad performance modules. These modules include radar, conventional echo
+                sounders, ForwardScan™ sonar, and StructureScan Imaging™, as well as third-party accessories such as
+                FLIR cameras, CCTV, engine sensors, and other digital instrumentation. Simrad® offers high-performance
+                marine electronics, proven to withstand the harshest environments. Any 16-, 19-, or 24-inch Simrad
+                marine monitor can be used for this second station, which operates independently from the E5024 system’s
+                type-approved ECDIS functionality.</p>
         </div>
         <div class="info-card">
             <h2 class="info-card-title">
                 <i class="fas fa-info-circle"></i>
                 Course Description
             </h2>
-            <p>Access to ECDIS simulators is provided for 21 days, with extended access available upon request. This comprehensive course is designed for bridge team officers, ensuring safe vessel navigation in compliance with STCW regulations and ISM Code.</p>
+            <p>Access to ECDIS simulators is provided for 21 days, with extended access available upon request. This
+                comprehensive course is designed for bridge team officers, ensuring safe vessel navigation in compliance
+                with STCW regulations and ISM Code.</p>
         </div>
         <div class="module-details-container">
             <div class="module-box">
@@ -87,26 +99,29 @@
                 <i class="fas fa-laptop"></i>
                 Technical Prerequisites
             </h2>
-            <p>Optimize your learning experience with a wired internet connection. While mobile internet access is feasible, it's crucial to note its potential instability, which may compromise the integrity of your exam.</p>
+            <p>Optimize your learning experience with a wired internet connection. While mobile internet access is
+                feasible, it's crucial to note its potential instability, which may compromise the integrity of your
+                exam.</p>
         </div>
         <div class="info-card">
-        <h2 class="info-card-title">Course Details</h2>
-        <ul class="course-card-list">
-            <li><strong>Course Access:</strong> 21 days</li>
-            <li><strong>Timeframe:</strong> 16 hours</li>
-            <li><strong>Language:</strong> English</li>
-            <li><strong>Certificate:</strong> Indefinite</li>
-            <li><strong>Strong Authentication:</strong> Yes</li>
-            <li><strong>Daily Test Attempts:</strong> 2</li>
-            <li><strong>Min % of Progress to Access TestMe:</strong> 70%</li>
-            <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
-            <li><strong>Total Test Time:</strong> 60 minutes</li>
-        </ul>
-    </div>
+            <h2 class="info-card-title">Course Details</h2>
+            <ul class="course-card-list">
+                <li><strong>Course Access:</strong> 21 days</li>
+                <li><strong>Timeframe:</strong> 16 hours</li>
+                <li><strong>Language:</strong> English</li>
+                <li><strong>Certificate:</strong> Indefinite</li>
+                <li><strong>Strong Authentication:</strong> Yes</li>
+                <li><strong>Daily Test Attempts:</strong> 10</li>
+                <li><strong>Min % of Progress to Access TestMe:</strong> 70%</li>
+                <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
+                <li><strong>Total Test Time:</strong>1hr 30 minutes</li>
+            </ul>
+        </div>
         <a href="#" class="cta-link">Register Now</a>
     </div>
-    <?php 
-     include '../footer.php';
+    <?php
+    include '../footer.php';
     ?>
 </body>
+
 </html>

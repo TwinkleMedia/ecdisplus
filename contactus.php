@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-     <meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- ==========================
@@ -9,23 +10,24 @@
     =========================== -->
     <title>Contact Us | ECDIS Plus Maritime Training & Support</title>
 
-    <meta name="description" 
-          content="Contact ECDIS Plus for maritime training, ECDIS courses, certification support, and consultation. Call +91 7710074143 or email training@ecdisplus.com">
+    <meta name="description"
+        content="Contact ECDIS Plus for maritime training, ECDIS courses, certification support, and consultation. Call +91 7710074143 or email training@ecdisplus.com">
 
-    <meta name="keywords" 
-          content="Contact ECDIS Plus, Maritime Training Contact, ECDIS Training India, Marine Navigation Training Support">
+    <meta name="keywords"
+        content="Contact ECDIS Plus, Maritime Training Contact, ECDIS Training India, Marine Navigation Training Support">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://ecdisplus.in/contactus.php">
+    <link rel="canonical" href="https://ecdisplus.com/contactus.php">
 
     <!-- ==========================
          OPEN GRAPH META TAGS (FB / LINKEDIN)
     =========================== -->
     <meta property="og:title" content="Contact ECDIS Plus | Maritime Training & Support">
-    <meta property="og:description" content="Get in touch for ECDIS training, maritime certification and navigational support.">
-    <meta property="og:url" content="https://ecdisplus.in/contactus.php">
+    <meta property="og:description"
+        content="Get in touch for ECDIS training, maritime certification and navigational support.">
+    <meta property="og:url" content="https://ecdisplus.com/contactus.php">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://ecdisplus.in/logo.png">
+    <meta property="og:image" content="https://ecdisplus.com/logo.png">
 
     <!-- ==========================
          TWITTER CARD META TAGS
@@ -33,7 +35,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Contact ECDIS Plus">
     <meta name="twitter:description" content="Reach out for maritime training & ECDIS support.">
-    <meta name="twitter:image" content="https://ecdisplus.in/logo.png">
+    <meta name="twitter:image" content="https://ecdisplus.com/logo.png">
 
     <!-- ==========================
          CSS FILES
@@ -54,9 +56,9 @@
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "ECDIS Plus Maritime Training",
-        "image": "https://ecdisplus.in/logo.png",
-        "@id": "https://ecdisplus.in/contactus.php",
-        "url": "https://ecdisplus.in/contactus.php",
+        "image": "https://ecdisplus.com/logo.png",
+        "@id": "https://ecdisplus.com/contactus.php",
+        "url": "https://ecdisplus.com/contactus.php",
         "telephone": "+91 7710074143",
         "email": "training@ecdisplus.com",
         "address": {
@@ -75,7 +77,7 @@
 
 <body>
     <?php include './navbar.php'; ?>
-    
+
     <div class="blog-banner">
         <div class="banner-content">
             <h1 class="banner-title">Contact Us</h1>
@@ -101,7 +103,7 @@
             </div>
         </div>
 
-       
+
         <div class="contact-form">
             <h2>Send us a Message</h2>
             <form id="contact-form">
@@ -129,12 +131,12 @@
 
     <script>
         // Initialize EmailJS with your public key
-        (function() {
+        (function () {
             emailjs.init("HtHlGzizhMtWwua0Z");
         })();
 
         // Handle form submission
-        document.getElementById('contact-form').addEventListener('submit', function(e) {
+        document.getElementById('contact-form').addEventListener('submit', function (e) {
             e.preventDefault();
 
             // Show loading state
@@ -154,19 +156,20 @@
 
             // Send email using EmailJS
             emailjs.send('service_vi53dwj', 'template_l128f7l', templateParams)
-                .then(function(response) {
+                .then(function (response) {
                     console.log('SUCCESS!', response.status, response.text);
                     alert('Message sent successfully!');
                     document.getElementById('contact-form').reset();
-                }, function(error) {
+                }, function (error) {
                     console.log('FAILED...', error);
                     alert('Failed to send message. Error: ' + JSON.stringify(error));
                 })
-                .finally(function() {
+                .finally(function () {
                     submitButton.textContent = 'Send Message';
                     submitButton.disabled = false;
                 });
         });
     </script>
 </body>
+
 </html>
