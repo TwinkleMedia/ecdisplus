@@ -10,12 +10,14 @@
 
 <body>
     <?php
+     include './navbar.php';
+      include './form.php';
     include './navbar.php';
     ?>
 
-    <div class="main-container">
-        <section class="info-card">
-            <h2 class="info-card-title"><i class="fas fa-info-circle"></i>ECDIS FURUNO Type-Specific
+<div class="main-container">
+    <section class="info-card">
+        <h2 class="info-card-title"><i class="fas fa-info-circle"></i>ECDIS FURUNO Type-Specific
 
                 Training FEA-2107/2807
             </h2>
@@ -130,22 +132,18 @@
 
 
         <div class="info-card">
-            <h2 class="info-card-title">Course Content:</h2>
-            <ul class="course-card-list">
-                <li><strong>Familiarization with System Functions:</strong> Understanding available features and
-                    navigating the menu structure.</li>
-                <li><strong>Display Setup and Safety Values:</strong>Configuring display settings and setting safety
-                    parameters.</li>
-                <li><strong>Alarm and Malfunction Management:</strong>Recognizing alarms and malfunction indicators and
-                    responding appropriately.</li>
-                <li><strong>Route Planning and Monitoring:</strong>Creating and managing navigation routes.</li>
-                <li><strong>Backup System Transition</strong> Switching to backup systems when needed.</li>
-                <li><strong>Chart and License Management:</strong>Loading, updating, and maintaining charts and
-                    licenses.</li>
-                <li><strong>Software Updates:</strong> Keeping the system software current.</li>
-
-            </ul>
-        </div>
+        <h2 class="info-card-title">Course Content:</h2>
+        <ul class="course-card-list">
+            <li><strong>Familiarization with System Functions:</strong> Understanding available features and navigating the menu structure.</li>
+            <li><strong>Display Setup and Safety Values:</strong>Configuring display settings and setting safety parameters.</li>
+            <li><strong>Alarm and Malfunction Management:</strong>Recognizing alarms and malfunction indicators and responding appropriately.</li>
+            <li><strong>Route Planning and Monitoring:</strong>Creating and managing navigation routes.</li>
+            <li><strong>Backup System Transition</strong> Switching to backup systems when needed.</li>
+            <li><strong>Chart and License Management:</strong>Loading, updating, and maintaining charts and licenses.</li>
+            <li><strong>Software Updates:</strong> Keeping the system software current.</li>
+            
+        </ul>
+    </div>
     </div>
     </div>
 

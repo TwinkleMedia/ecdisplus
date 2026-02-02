@@ -9,8 +9,9 @@
 </head>
 
 <body>
-    <?php
-    include './navbar.php';
+       <?php
+     include './navbar.php';
+      include './form.php';
     ?>
 
     <div class="main-container">
@@ -81,7 +82,11 @@
                 <li>VDR Integration: ECDIS screens are transferred by LAN to VDR in accordance with IEC 61162-450.</li>
                 <li>Planning Station or Captain’s ECDIS:A third PC can be connected to the Dual ECDIS via LAN, serving as a planning station and receiving serial information over LAN from the Dual ECDIS, eliminating the need for a dedicated serial interface (optional).</li>
             </ul>
-
+<!-- Book Now Button -->
+            <div style="text-align: center; margin-top: 2rem;">
+                <button onclick="openModal()" class="book-now-course-btn">Book Now</button>
+            </div>
+    </div>
         </section>
 
 

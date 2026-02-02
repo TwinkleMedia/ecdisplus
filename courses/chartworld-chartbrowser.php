@@ -9,9 +9,11 @@
 </head>
 
 <body>
-    <?php
-    include './navbar.php';
+      <?php
+     include './navbar.php';
+      include './form.php';
     ?>
+
     <div class="main-container">
         <section class="info-card">
             <h2 class="info-card-title"><i class="fas fa-info-circle"></i>Consilium ECDIS G2
@@ -130,9 +132,21 @@
                 <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
                 <li><strong>Total Test Time:</strong>1hr 30 minutes</li>
             </ul>
+
+            <!-- Book Now Button -->
+            <div style="text-align: center; margin-top: 2rem;">
+                <button onclick="openModal()" class="book-now-course-btn">Book Now</button>
+            </div>
+            
+<!-- Book Now Button -->
+            <div style="text-align: center; margin-top: 2rem;">
+                <button onclick="openModal()" class="book-now-course-btn">Book Now</button>
+            </div>
+    </div>
         </div>
     </div>
     </div>
+    
     <?php
     include '../footer.php';
     ?>
