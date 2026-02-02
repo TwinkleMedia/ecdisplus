@@ -108,7 +108,7 @@ button.booknowbtn {
     color: white;
     border: none;
     border-radius: 5px;
-    font-size: 16px;
+   
     cursor: pointer;
 }
 
