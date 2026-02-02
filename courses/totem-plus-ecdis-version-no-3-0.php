@@ -72,7 +72,7 @@
                 Advice that complies with international regulations for preventing collisions.
                 Totem ECDIS features are uniquely designed to enhance safety on board ships:</h2>
             <ul class="feature-list">
-                <li>EDA: A free copy of EDA is included with every ECDIS. EDA allows proper auditing of bridge team performance and assists in monitoring the vessel's performance. </li
+                <li>EDA: A free copy of EDA is included with every ECDIS. EDA allows proper auditing of bridge team performance and assists in monitoring the vessel's performance. </li>
                     <li>GPS Validation: To prevent GPS spoofing, Totem ECDIS monitors the difference between DR and GPS positions at all times and issues an alarm if the difference exceeds the allowed distance within a set time.</li>
                 <li>Watch Take Over: The watch take over procedure, implemented by every officer commencing a watch on the bridge, provides the OOW with a clear picture of the system's functionality. This procedure ensures that the system is configured and operating correctly, sensor information is accurate, the correct charts are available, and the license is valid.</li>
                 <li>AIS Update and AIS Messages:Totem ECDIS enables direct updating of AIS from the ECDIS, allowing the sending and receiving of AIS messages using the full keyboard capability. This feature is designed to be simple and user-friendly.</li>

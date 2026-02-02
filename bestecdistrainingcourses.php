@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://ecdisplus.in/bestecdistrainingcourses.php">
+    <link rel="canonical" href="https://ecdisplus.com/bestecdistrainingcourses.php">
 
     <!-- Primary Meta Tags -->
     <title>ECDIS Type-Specific Training | Best ECDIS Training Courses for Mariners 2025</title>
@@ -28,14 +28,14 @@
     <!-- Performance Optimization -->
     <link rel="preconnect" href="https://cdnjs.cloudflare.com">
     <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
-    <link rel="preload" as="image" href="https://ecdisplus.in/assets/img/Ecdisnavigation.jpg">
+    <link rel="preload" as="image" href="https://ecdisplus.com/assets/img/Ecdisnavigation.jpg">
 
     <!-- Open Graph (Facebook & LinkedIn) -->
     <meta property="og:title" content="ECDIS Type-Specific Training | Best ECDIS Courses 2025">
     <meta property="og:description" 
           content="Become a certified ECDIS operator with our advanced type-specific training. Courses for Furuno, JRC, Kongsberg, IMTECH, Wartsila, Martek, ChartWorld & other ECDIS systems.">
-    <meta property="og:image" content="https://ecdisplus.in/assets/img/Ecdisnavigation.jpg">
-    <meta property="og:url" content="https://ecdisplus.in/bestecdistrainingcourses.php">
+    <meta property="og:image" content="https://ecdisplus.com/assets/img/Ecdisnavigation.jpg">
+    <meta property="og:url" content="https://ecdisplus.com/bestecdistrainingcourses.php">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="EcdicPlus Training Solutions">
     <meta property="og:locale" content="en_US">
@@ -45,12 +45,11 @@
     <meta name="twitter:title" content="ECDIS Training Courses 2025 | Type-Specific ECDIS Certification">
     <meta name="twitter:description" 
           content="Enroll in expert ECDIS type-specific training. Official certification for Furuno, JRC, Kongsberg, IMTECH and other popular maritime ECDIS systems.">
-    <meta name="twitter:image" content="https://ecdisplus.in/assets/img/Ecdisnavigation.jpg">
+    <meta name="twitter:image" content="https://ecdisplus.com/assets/img/Ecdisnavigation.jpg">
     <meta name="twitter:site" content="@ecdisplus">
     
     <!-- Favicon -->
-    <link rel="icon" href="https://ecdisplus.in/logo.png" type="image/png">
-
+    <link rel="icon" href="https://ecdisplus.com/logo.png" type="image/png">
     <!-- CSS -->
     <link rel="stylesheet" href="./maincourses.css">
 
@@ -63,8 +62,8 @@
       "@context": "https://schema.org/",
       "@type": "EducationalOrganization",
       "name": "EcdicPlus Training Solutions",
-      "url": "https://ecdisplus.in/",
-      "logo": "https://ecdisplus.in/assets/img/logo.png",
+      "url": "https://ecdisplus.com/",
+      "logo": "https://ecdisplus.com/assets/img/logo.png",
       "description": "Professional ECDIS training institute offering type-specific and generic ECDIS courses for maritime professionals.",
       "sameAs": [
         "https://www.facebook.com/ecdisplus",

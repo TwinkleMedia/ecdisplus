@@ -9,9 +9,9 @@
 </head>
 
 <body>
-     <?php
-     include './navbar.php';
-      include './form.php';
+    <?php
+    include './navbar.php';
+    include './form.php';
     ?>
 
     <div class="main-container">
@@ -113,27 +113,6 @@
 
 
 
-            <div class="info-card">
-                <h2 class="info-card-title">Course Details</h2>
-                <ul class="course-card-list">
-                    <li><strong>Course Access:</strong> 21 days</li>
-                    <li><strong>Timeframe:</strong> 16 hours</li>
-                    <li><strong>Language:</strong> English</li>
-                    <li><strong>Certificate:</strong> Indefinite</li>
-                    <li><strong>Strong Authentication:</strong> Yes</li>
-                    <li><strong>Daily Test Attempts:</strong> 2</li>
-                    <li><strong>Min % of Progress to Access TestMe:</strong> 70%</li>
-                    <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
-                    <li><strong>Total Test Time:</strong> 60 minutes</li>
-                </ul>
-                
-<!-- Book Now Button -->
-            <div style="text-align: center; margin-top: 2rem;">
-                <button onclick="openModal()" class="book-now-course-btn">Book Now</button>
-            </div>
-    </div>
-            </div>
-        </div>
         <div class="info-card">
             <h2 class="info-card-title">Course Details</h2>
             <ul class="course-card-list">
@@ -147,7 +126,28 @@
                 <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
                 <li><strong>Total Test Time:</strong>1hr 30 minutes</li>
             </ul>
+
+            <!-- Book Now Button -->
+            <div style="text-align: center; margin-top: 2rem;">
+                <button onclick="openModal()" class="book-now-course-btn">Book Now</button>
+            </div>
         </div>
+    </div>
+    </div>
+    <div class="info-card">
+        <h2 class="info-card-title">Course Details</h2>
+        <ul class="course-card-list">
+            <li><strong>Course Access:</strong> 21 days</li>
+            <li><strong>Timeframe:</strong> 16 hours</li>
+            <li><strong>Language:</strong> English</li>
+            <li><strong>Certificate:</strong> Indefinite</li>
+            <li><strong>Strong Authentication:</strong> Yes</li>
+            <li><strong>Daily Test Attempts:</strong> 10</li>
+            <li><strong>Min % of Progress to Access TestMe:</strong> 70%</li>
+            <li><strong>Min % of Passing the TestMe:</strong> 70%</li>
+            <li><strong>Total Test Time:</strong>1hr 30 minutes</li>
+        </ul>
+    </div>
     </div>
     </div>
     <?php
