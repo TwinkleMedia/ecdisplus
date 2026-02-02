@@ -27,7 +27,7 @@
                 <li><a href="./bestecdistrainingcourses.php">Type Approved ECDIS course</a></li>
                 <li><a href="./blogpage.php">Blog</a></li>
                 <li><a href="./contactus.php">Contact</a></li>
-                <li><a href="./contactus.php" class="booknowbtn">Book Now</a></li>
+                <li><a href="./contactus.php" class="booknowbtn" id="booknow">Book Now</a></li>
             </ul>
             <div class="hamburger">
                 <div></div>

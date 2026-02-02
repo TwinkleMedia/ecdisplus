@@ -406,7 +406,7 @@
                 <h3>Contact Info</h3>
                 <ul class="footers-links">
                     <li><i class="fas fa-phone"></i> +91 7710074143</li>
-                    <li><i class="fas fa-envelope"></i>training@ecdisplus.com</li>
+                    <li><i class="fas fa-envelope" style="margin-right:6px"></i>training@ecdisplus.com</li>
 
                 </ul>
             </div>
