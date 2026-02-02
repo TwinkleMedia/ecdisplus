@@ -8,7 +8,7 @@
     <!-- ==========================
          SEO ESSENTIAL META TAGS
     =========================== -->
-    <title>Latest Maritime Blog News | ECDIS, E-Navigation & Marine Technology</title>
+    <title>Latest Maritime Blog  | ECDIS, E-Navigation & Marine Technology</title>
 
     <meta name="description"
         content="Read the latest maritime industry blog news including E-Navigation, ECDIS training, marine technology updates and navigational safety insights.">
