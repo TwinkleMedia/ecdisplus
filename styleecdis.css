@@ -209,6 +209,7 @@
 
 .slider-track {
     display: flex;
+    flex-wrap: nowrap;
     gap: 1.5rem;
     transition: transform 0.4s ease-in-out;
 }
@@ -367,7 +368,8 @@
     }
 
     .course-card {
-        flex: 0 0 calc(50% - 0.5rem);
+        flex: 0 0 calc(50% - 0.5rem) !important;
+        max-width: calc(50% - 0.5rem);
     }
 
     .course-image-wrapper {
@@ -439,8 +441,9 @@
     }
 
     .course-card {
-        flex: 0 0 calc(50% - 0.25rem);
-        min-width: 0;
+        flex: 0 0 calc(50% - 0.25rem) !important;
+        max-width: calc(50% - 0.25rem);
+        min-width: calc(50% - 0.25rem);
     }
 
     .course-image-wrapper {
@@ -460,6 +463,12 @@
         font-size: 0.75rem;
         line-height: 1.4;
         margin-bottom: 0.75rem;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        /* Number of lines to show */
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
 
     .course-badge {
