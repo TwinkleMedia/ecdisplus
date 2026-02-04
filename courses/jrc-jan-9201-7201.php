@@ -2,70 +2,73 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JRC JAN ECDIS Available in India | Buy in Mumbai</title>
-    <link rel="stylesheet" href="./course.css">
-    <meta name="title" content="JRC JAN ECDIS Available in India | Buy in Mumbai">
-    <meta name="description"
-        content="Find JRC JAN ECDIS in India, available in Mumbai and other major cities. Get advanced type-specific ECDIS systems for seamless navigation and compliance with global maritime standards.">
-    <meta name="keywords"
-        content="JRC JAN ECDIS in India, JRC JAN ECDIS Mumbai, Type Specific ECDIS in India, JRC JAN ECDIS Available, ECDIS System India">
-    <meta name="author" content="Ecdisplus Training Solution">
-    <link rel="canonical" href="https://ecdisplus.in/courses/jrc-jan-9201-7201.php">
+   <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<title>JRC JAN ECDIS Available in India | Buy in Mumbai</title>
 
-    <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Type-Approved JRC JAN ECDIS Training in India | Advanced Maritime Solutions" />
-    <meta property="og:description"
-        content="Get certified with type-approved JRC JAN ECDIS training in India. Comprehensive hands-on courses available in Mumbai with expert trainers and globally recognized certifications." />
-    <meta property="og:url" content="https://ecdisplus.in/courses/jrc-jan-9201-7201.php" />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://ecdisplus.in/assets/img/Ecdisnavigation.jpg">
-    <meta property="og:locale" content="en_IN" />
-    <meta property="og:site_name" content="Your Maritime Training Institute Name" />
+<link rel="stylesheet" href="./course.css">
 
-    <!-- Twitter Card Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Type-Approved JRC JAN ECDIS Training in India | Advanced Maritime Solutions">
-    <meta name="twitter:description"
-        content="Get certified with type-approved JRC JAN ECDIS training in India. Comprehensive hands-on courses available in Mumbai with expert trainers and globally recognized certifications.">
-    <meta name="twitter:image" content="https://ecdisplus.in/assets/img/Ecdisnavigation.jpg">
-    <meta name="twitter:site" content="@ecdisplus">
+<meta name="title" content="JRC JAN ECDIS Available in India | Buy in Mumbai">
+<meta name="description"
+    content="Find JRC JAN ECDIS in India, available in Mumbai and other major cities. Get advanced type-specific ECDIS systems for seamless navigation and compliance with global maritime standards.">
+<meta name="keywords"
+    content="JRC JAN ECDIS in India, JRC JAN ECDIS Mumbai, Type Specific ECDIS in India, JRC JAN ECDIS Available, ECDIS System India">
+<meta name="author" content="Ecdisplus Training Solution">
 
+<!-- Canonical -->
+<link rel="canonical" href="https://ecdisplus.com/courses/jrc-jan-9201-7201.php">
 
-    <script type="application/ld+json">
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="Type-Approved JRC JAN ECDIS Training in India | Advanced Maritime Solutions">
+<meta property="og:description"
+    content="Get certified with type-approved JRC JAN ECDIS training in India. Comprehensive hands-on courses available in Mumbai with expert trainers and globally recognized certifications.">
+<meta property="og:url" content="https://ecdisplus.com/courses/jrc-jan-9201-7201.php">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://ecdisplus.com/assets/img/Ecdisnavigation.jpg">
+<meta property="og:locale" content="en_IN">
+<meta property="og:site_name" content="Ecdisplus Training Solutions">
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Type-Approved JRC JAN ECDIS Training in India | Advanced Maritime Solutions">
+<meta name="twitter:description"
+    content="Get certified with type-approved JRC JAN ECDIS training in India. Comprehensive hands-on courses available in Mumbai with expert trainers and globally recognized certifications.">
+<meta name="twitter:image" content="https://ecdisplus.com/assets/img/Ecdisnavigation.jpg">
+<meta name="twitter:site" content="@ecdisplus">
+
+<!-- Structured Data -->
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "EducationalOrganization",
-  "name": "Your Maritime Training Institute Ecdisplus Trianing Sloution",
-  "url": "https://ecdisplus.in/courses/jrc-jan-9201-7201.php",
-  "logo": "https://ecdisplus.in/courses/logo.png",
-  "description": "We provide type-approved JRC JAN ECDIS training in Mumbai and India for maritime professionals with globally recognized certification and practical hands-on learning.",
+  "name": "Ecdisplus Training Solutions",
+  "url": "https://ecdisplus.com",
+  "logo": "https://ecdisplus.com/assets/img/logo.png",
+  "description": "We provide type-approved JRC JAN ECDIS training in Mumbai and across India for maritime professionals with globally recognized certification and practical hands-on learning.",
   "address": {
-    "@type": "Ecdisplus",
-    "streetAddress": "104 B Wing 10th Floor , Aggarwal Trade Center , Sector 11, CBD BELAPUR",
-    "addressLocality": "Mumbai",
+    "@type": "PostalAddress",
+    "streetAddress": "104 B Wing, 10th Floor, Aggarwal Trade Center, Sector 11, CBD Belapur",
+    "addressLocality": "Navi Mumbai",
     "addressRegion": "Maharashtra",
     "postalCode": "400614",
     "addressCountry": "IN"
   },
   "contactPoint": {
-    "@type": "Contact Us",
+    "@type": "ContactPoint",
     "telephone": "+91-7710074143",
     "contactType": "customer support"
   },
   "sameAs": [
     "https://www.facebook.com/profile.php?id=100094014757161"
-    
   ],
-  "course": [
+  "hasCourse": [
     {
       "@type": "Course",
       "name": "Type-Specific JRC JAN ECDIS Training",
       "provider": {
         "@type": "EducationalOrganization",
-        "name": "Your Maritime Training Institute Name"
+        "name": "Ecdisplus Training Solutions"
       }
     },
     {
@@ -73,7 +76,7 @@
       "name": "Advanced ECDIS Compliance Training",
       "provider": {
         "@type": "EducationalOrganization",
-        "name": "Your Maritime Training Institute Name"
+        "name": "Ecdisplus Training Solutions"
       }
     }
   ]
