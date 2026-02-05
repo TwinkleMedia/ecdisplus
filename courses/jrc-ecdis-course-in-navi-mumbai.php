@@ -2,50 +2,47 @@
 <html lang="en">
 
 <head>
-   <meta charset="UTF-8">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>JRC JAN ECDIS Available in India | Buy in Mumbai</title>
+<title>JRC ECDIS Course in Navi Mumbai | Type Specific Training – ECDISPLUS</title>
 
 <link rel="stylesheet" href="./course.css">
 
-<meta name="title" content="JRC JAN ECDIS Available in India | Buy in Mumbai">
-<meta name="description"
-    content="Find JRC JAN ECDIS in India, available in Mumbai and other major cities. Get advanced type-specific ECDIS systems for seamless navigation and compliance with global maritime standards.">
-<meta name="keywords"
-    content="JRC JAN ECDIS in India, JRC JAN ECDIS Mumbai, Type Specific ECDIS in India, JRC JAN ECDIS Available, ECDIS System India">
-<meta name="author" content="Ecdisplus Training Solution">
+<!-- Primary SEO Meta -->
+<meta name="description" content="Enroll in JRC ECDIS Course in Navi Mumbai at ECDISPLUS Training Solutions. Type-specific JRC JAN ECDIS training with hands-on practice, expert trainers, and globally recognized certification.">
+
+<meta name="keywords" content="JRC ECDIS Course in Navi Mumbai, JRC JAN ECDIS Training, Type Specific ECDIS Course, ECDIS Training Mumbai, JRC ECDIS Certification India">
+
+<meta name="author" content="ECDISPLUS Training Solutions">
 
 <!-- Canonical -->
-<link rel="canonical" href="https://ecdisplus.com/courses/jrc-jan-9201-7201.php">
+<link rel="canonical" href="https://ecdisplus.com/jrc-ecdis-course-in-navi-mumbai">
 
-<!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Type-Approved JRC JAN ECDIS Training in India | Advanced Maritime Solutions">
-<meta property="og:description"
-    content="Get certified with type-approved JRC JAN ECDIS training in India. Comprehensive hands-on courses available in Mumbai with expert trainers and globally recognized certifications.">
-<meta property="og:url" content="https://ecdisplus.com/courses/jrc-jan-9201-7201.php">
+<!-- Open Graph -->
+<meta property="og:title" content="JRC ECDIS Course in Navi Mumbai | Type Specific Training">
+<meta property="og:description" content="Type-approved JRC ECDIS course in Navi Mumbai with practical simulator training and certification for deck officers.">
+<meta property="og:url" content="https://ecdisplus.com/jrc-ecdis-course-in-navi-mumbai">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://ecdisplus.com/assets/img/Ecdisnavigation.jpg">
 <meta property="og:locale" content="en_IN">
-<meta property="og:site_name" content="Ecdisplus Training Solutions">
+<meta property="og:site_name" content="ECDISPLUS Training Solutions">
 
-<!-- Twitter Card Meta Tags -->
+<!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Type-Approved JRC JAN ECDIS Training in India | Advanced Maritime Solutions">
-<meta name="twitter:description"
-    content="Get certified with type-approved JRC JAN ECDIS training in India. Comprehensive hands-on courses available in Mumbai with expert trainers and globally recognized certifications.">
+<meta name="twitter:title" content="JRC ECDIS Course in Navi Mumbai">
+<meta name="twitter:description" content="Join ECDISPLUS for type-specific JRC ECDIS training in Navi Mumbai with certification.">
 <meta name="twitter:image" content="https://ecdisplus.com/assets/img/Ecdisnavigation.jpg">
-<meta name="twitter:site" content="@ecdisplus">
 
-<!-- Structured Data -->
+<!-- Organization + Course Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "EducationalOrganization",
-  "name": "Ecdisplus Training Solutions",
+  "name": "ECDISPLUS Training Solutions",
   "url": "https://ecdisplus.com",
   "logo": "https://ecdisplus.com/assets/img/logo.png",
-  "description": "We provide type-approved JRC JAN ECDIS training in Mumbai and across India for maritime professionals with globally recognized certification and practical hands-on learning.",
+  "description": "ECDISPLUS provides type-specific JRC JAN ECDIS training in Navi Mumbai with hands-on simulator practice and global certification.",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "104 B Wing, 10th Floor, Aggarwal Trade Center, Sector 11, CBD Belapur",
@@ -59,34 +56,42 @@
     "telephone": "+91-7710074143",
     "contactType": "customer support"
   },
-  "sameAs": [
-    "https://www.facebook.com/profile.php?id=100094014757161"
-  ],
-  "hasCourse": [
+  "hasCourse": {
+    "@type": "Course",
+    "name": "JRC ECDIS Course",
+    "description": "Type-specific JRC JAN ECDIS training with practical navigation exercises and certification.",
+    "provider": {
+      "@type": "EducationalOrganization",
+      "name": "ECDISPLUS Training Solutions"
+    }
+  }
+}
+</script>
+
+<!-- Breadcrumb Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
     {
-      "@type": "Course",
-      "name": "Type-Specific JRC JAN ECDIS Training",
-      "provider": {
-        "@type": "EducationalOrganization",
-        "name": "Ecdisplus Training Solutions"
-      }
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://ecdisplus.com"
     },
     {
-      "@type": "Course",
-      "name": "Advanced ECDIS Compliance Training",
-      "provider": {
-        "@type": "EducationalOrganization",
-        "name": "Ecdisplus Training Solutions"
-      }
+      "@type": "ListItem",
+      "position": 2,
+      "name": "JRC ECDIS Course in Navi Mumbai",
+      "item": "https://ecdisplus.com/jrc-ecdis-course-in-navi-mumbai"
     }
   ]
 }
 </script>
 
-
-
-
 </head>
+
 
 <body>
       <?php
@@ -95,8 +100,7 @@
     ?>
     <div class="main-container">
         <section class="info-card">
-            <h1 class="info-card-title"><i class="fas fa-info-circle"></i>Type-Approved JRC JAN ECDIS Training Provider
-                in India
+            <h1 class="info-card-title"><i class="fas fa-info-circle"></i>JRC ECDIS Course in Navi Mumbai
             </h1>
             <p>Get certified with industry-leading training on JRC JAN ECDIS systems. We offer comprehensive,
                 type-approved training courses designed for maritime professionals in Mumbai and across India.</p>
@@ -108,6 +112,14 @@
                 STCW-compliant ECDIS training requirements, guaranteeing industry-standard certifications and skills.
             </P>
         </section>
+
+        <section class="info-card">
+  <h2>JRC ECDIS Training Institute in Navi Mumbai</h2>
+  <p>
+    ECDISPLUS Training Solutions is located in CBD Belapur, Navi Mumbai, Maharashtra.
+    We provide type-specific JRC ECDIS courses for deck officers, OOW, Chief Mate and Masters.
+  </p>
+</section>
 
 
         <section class="info-card">
@@ -377,7 +389,16 @@
     </div>
             </div>
         </div>
+
+
+        <a href="/jrc-ecdis-course-in-navi-mumbai">JRC ECDIS Course in Navi Mumbai</a>
+<a href="/ecdis-training">ECDIS Training in Navi Mumbai</a>
+<a href="/courses/type-specific-ecdis">Type Specific ECDIS Courses</a>
+
     </div>
+
+
+
     <?php
     include '../footer.php';
     ?>

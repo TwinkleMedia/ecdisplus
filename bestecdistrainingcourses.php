@@ -210,7 +210,7 @@
             <img src="./assets/jrcjan901.png" alt="JRC JAN 901B / 701B / 2000 ECDIS Type-Specific Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">JRC JAN 901B/701B/2000</h3>
-                <a href="./courses/jrc-jan-901b-701b-2000.php" class="read-more">Read More</a>
+                <a href="./courses/jrc-ecdis-course-in-navi-mumbai.php" class="read-more">Read More</a>
             </div>
         </div>
 
