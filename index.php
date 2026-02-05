@@ -218,16 +218,27 @@ header("Pragma: no-cache");
             </div>
         </div>
     </section>
-
     <!-- slider courses -->
     <section class="ecdis-section">
         <h2 class="section-title">ECDIS Training Courses</h2>
 
         <div class="slider-wrapper">
-
+            <!-- Navigation Arrows -->
+            <button class="slider-nav slider-nav-prev" aria-label="Previous">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="15 18 9 12 15 6"></polyline>
+                </svg>
+            </button>
+            <button class="slider-nav slider-nav-next" aria-label="Next">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="9 18 15 12 9 6"></polyline>
+                </svg>
+            </button>
 
             <div class="slider-container">
-                <div class="slider-track" id="sliderTrack">
+                <div class="slider-track">
+
+                    <!-- Card 1 -->
                     <div class="course-card">
                         <div class="course-image-wrapper">
                             <img src="./assets/img/cq.png" alt="Basic ECDIS Course" class="course-image">
@@ -258,6 +269,7 @@ header("Pragma: no-cache");
                         </div>
                     </div>
 
+                    <!-- Card 2 -->
                     <div class="course-card">
                         <div class="course-image-wrapper">
                             <img src="./assets/img/c2.png" alt="Advanced ECDIS Course" class="course-image">
@@ -288,6 +300,7 @@ header("Pragma: no-cache");
                         </div>
                     </div>
 
+                    <!-- Card 3 -->
                     <div class="course-card">
                         <div class="course-image-wrapper">
                             <img src="./assets/img/c3.png" alt="Type Specific Course" class="course-image">
@@ -318,6 +331,7 @@ header("Pragma: no-cache");
                         </div>
                     </div>
 
+                    <!-- Card 4 -->
                     <div class="course-card">
                         <div class="course-image-wrapper">
                             <img src="./assets/img/c4.png" alt="Refresher Course" class="course-image">
@@ -347,12 +361,18 @@ header("Pragma: no-cache");
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
 
-
+            <!-- Dots Navigation -->
+            <div class="slider-dots">
+                <button class="slider-dot active" data-index="0" aria-label="Go to slide 1"></button>
+                <button class="slider-dot" data-index="1" aria-label="Go to slide 2"></button>
+                <button class="slider-dot" data-index="2" aria-label="Go to slide 3"></button>
+                <button class="slider-dot" data-index="3" aria-label="Go to slide 4"></button>
+            </div>
         </div>
-
     </section>
 
     <!-- Why choose us -->
@@ -679,32 +699,142 @@ header("Pragma: no-cache");
             updateCount();
         });
 
-        const sliderTrack = document.querySelector('.slider-track');
-        const cards = document.querySelectorAll('.course-card');
-        let currentIndex = 0;
+        document.addEventListener('DOMContentLoaded', function () {
+            const track = document.querySelector('.slider-track');
+            const cards = document.querySelectorAll('.course-card');
+            const prevBtn = document.querySelector('.slider-nav-prev');
+            const nextBtn = document.querySelector('.slider-nav-next');
+            const dots = document.querySelectorAll('.slider-dot');
+            const container = document.querySelector('.slider-container');
 
-        // Clone cards for infinite loop
-        cards.forEach(card => {
-            const clone = card.cloneNode(true);
-            sliderTrack.appendChild(clone);
+            let currentIndex = 0;
+            const totalCards = cards.length;
+
+            // Get card width including gap
+            function getCardWidth() {
+                const card = cards[0];
+                const style = window.getComputedStyle(card);
+                const cardWidth = card.offsetWidth;
+                const marginRight = parseInt(window.getComputedStyle(track).gap) || 30;
+                return cardWidth + marginRight;
+            }
+
+            // Calculate how many cards are visible
+            function getVisibleCards() {
+                const containerWidth = container.offsetWidth;
+                const cardWidth = getCardWidth();
+                return Math.max(1, Math.floor(containerWidth / cardWidth));
+            }
+
+            // Calculate the maximum index
+            function getMaxIndex() {
+                const visibleCards = getVisibleCards();
+                return Math.max(0, totalCards - visibleCards);
+            }
+
+            function updateSlider() {
+                const cardWidth = getCardWidth();
+                const containerWidth = container.offsetWidth;
+                const visibleCards = getVisibleCards();
+
+                // For mobile, scroll one card at a time and center it
+                if (window.innerWidth <= 768) {
+                    // Center the card in the viewport
+                    const offset = -currentIndex * cardWidth + (containerWidth - cardWidth + 30) / 2;
+                    track.style.transform = `translateX(${offset}px)`;
+                } else {
+                    // For desktop, normal behavior
+                    const offset = -currentIndex * cardWidth;
+                    track.style.transform = `translateX(${offset}px)`;
+                }
+
+                // Update dots
+                dots.forEach((dot, index) => {
+                    dot.classList.toggle('active', index === currentIndex);
+                });
+
+                // Update button states
+                const maxIndex = getMaxIndex();
+                prevBtn.disabled = currentIndex === 0;
+                nextBtn.disabled = currentIndex >= maxIndex;
+            }
+
+            // Previous button
+            prevBtn.addEventListener('click', () => {
+                if (currentIndex > 0) {
+                    currentIndex--;
+                    updateSlider();
+                }
+            });
+
+            // Next button
+            nextBtn.addEventListener('click', () => {
+                const maxIndex = getMaxIndex();
+                if (currentIndex < maxIndex) {
+                    currentIndex++;
+                    updateSlider();
+                }
+            });
+
+            // Dots navigation
+            dots.forEach((dot, index) => {
+                dot.addEventListener('click', () => {
+                    const maxIndex = getMaxIndex();
+                    currentIndex = Math.min(index, maxIndex);
+                    updateSlider();
+                });
+            });
+
+            // Keyboard navigation
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'ArrowLeft') {
+                    prevBtn.click();
+                } else if (e.key === 'ArrowRight') {
+                    nextBtn.click();
+                }
+            });
+
+            // Touch swipe support
+            let touchStartX = 0;
+            let touchEndX = 0;
+
+            container.addEventListener('touchstart', (e) => {
+                touchStartX = e.changedTouches[0].screenX;
+            });
+
+            container.addEventListener('touchend', (e) => {
+                touchEndX = e.changedTouches[0].screenX;
+                handleSwipe();
+            });
+
+            function handleSwipe() {
+                if (touchEndX < touchStartX - 50) {
+                    // Swipe left - next
+                    nextBtn.click();
+                }
+                if (touchEndX > touchStartX + 50) {
+                    // Swipe right - previous
+                    prevBtn.click();
+                }
+            }
+
+            // Update on window resize
+            let resizeTimer;
+            window.addEventListener('resize', () => {
+                clearTimeout(resizeTimer);
+                resizeTimer = setTimeout(() => {
+                    // Reset to first slide on orientation change
+                    if (window.innerWidth <= 768) {
+                        currentIndex = Math.min(currentIndex, getMaxIndex());
+                    }
+                    updateSlider();
+                }, 250);
+            });
+
+            // Initial update
+            updateSlider();
         });
 
-        function slideCards() {
-            currentIndex++;
-            const slideWidth = cards[0].offsetWidth + 32; // card width + gap
-            sliderTrack.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
-
-            if (currentIndex >= cards.length) {
-                setTimeout(() => {
-                    sliderTrack.style.transition = 'none';
-                    currentIndex = 0;
-                    sliderTrack.style.transform = 'translateX(0)';
-                    setTimeout(() => {
-                        sliderTrack.style.transition = 'transform 0.5s ease-in-out';
-                    }, 50);
-                }, 500);
-            }
-        }
 
         // Auto slide every 3 seconds
         setInterval(slideCards, 3000);
@@ -717,7 +847,6 @@ header("Pragma: no-cache");
         sliderTrack.addEventListener('mouseleave', () => {
             slideInterval = setInterval(slideCards, 3000);
         });
-
         function showTab(index) {
             // Remove active class from all buttons and contents
             const buttons = document.querySelectorAll('.tab-button');
