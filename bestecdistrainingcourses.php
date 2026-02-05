@@ -54,6 +54,8 @@
     <!-- CSS -->
     <link rel="stylesheet" href="./maincourses.css">
 
+ <link rel="stylesheet" href="./courses.css">
+
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
@@ -172,28 +174,7 @@ mariners across <strong>India</strong>.
     </section>
 
 
-    <section class="info-card">
-  <h2>ECDIS Training Institute Near You in Navi Mumbai</h2>
-  <p>
-    If you are searching for an <strong>ECDIS course near me</strong>,
-    ECDISPLUS Training Solutions in <strong>CBD Belapur, Navi Mumbai</strong>
-    is easily accessible for mariners from Mumbai, Panvel, Uran, Thane
-    and nearby port cities.
-  </p>
-</section>
-
-
-<section class="info-card">
-  <h2>Visit Our ECDIS Training Center in Navi Mumbai</h2>
-  <iframe
-    src="https://www.google.com/maps?q=Aggarwal+Trade+Center+CBD+Belapur&output=embed"
-    width="100%"
-    height="300"
-    style="border:0;"
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade">
-  </iframe>
-</section>
+  
 
     <!-- Cources List  -->
    <section class="course-section">
@@ -420,6 +401,29 @@ mariners across <strong>India</strong>.
         </div>
 
     </div>
+</section>
+
+  <section class="info-card">
+  <h2>ECDIS Training Institute Near You in Navi Mumbai</h2>
+  <p>
+    If you are searching for an <strong>ECDIS course near me</strong>,
+    ECDISPLUS Training Solutions in <strong>CBD Belapur, Navi Mumbai</strong>
+    is easily accessible for mariners from Mumbai, Panvel, Uran, Thane
+    and nearby port cities.
+  </p>
+</section>
+
+
+<section class="info-card">
+  <h2>Visit Our ECDIS Training Center in Navi Mumbai</h2>
+  <iframe
+    src="https://www.google.com/maps?q=Aggarwal+Trade+Center+CBD+Belapur&output=embed"
+    width="100%"
+    height="300"
+    style="border:0;"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
 </section>
 
     <!-- fOOTER -->
