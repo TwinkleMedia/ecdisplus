@@ -98,20 +98,27 @@
      include './navbar.php';
       include './form.php';
     ?>
-    <div class="main-container">
+    <div class="main-container">    
         <section class="info-card">
-            <h1 class="info-card-title"><i class="fas fa-info-circle"></i>JRC ECDIS Course in Navi Mumbai
-            </h1>
-            <p>Get certified with industry-leading training on JRC JAN ECDIS systems. We offer comprehensive,
-                type-approved training courses designed for maritime professionals in Mumbai and across India.</p>
-            <P> At Ecdisplus Training Solutions, we specialize in providing JRC <a
-                    href="https://www.aimsmaritime.com/ecdis-training-courses-in-navi-mumbai/">ECDIS training
-                    Solution</a> that adheres to the latest International Maritime Organization (IMO) performance
-                standards. Our courses are designed to offer both online JRC ECDIS training and offline JRC ECDIS
-                training, ensuring accessibility for seafarers worldwide. Each program is tailored to meet
-                STCW-compliant ECDIS training requirements, guaranteeing industry-standard certifications and skills.
-            </P>
-        </section>
+  <h1 class="info-card-title">JRC ECDIS Course in Navi Mumbai</h1>
+
+  <p><strong>ECDISPLUS Training Solutions</strong> offers
+  <strong>type-specific JRC JAN ECDIS training in Navi Mumbai</strong>
+  for Deck Officers, OOW, Chief Mate and Masters.</p>
+
+  <p>
+    Our <strong>JRC ECDIS course in CBD Belapur</strong> is fully compliant
+    with <strong>IMO & STCW regulations</strong> and includes
+    hands-on simulator practice with globally recognized certification.
+  </p>
+
+  <p>
+    📍 Location: CBD Belapur, Navi Mumbai  
+    📜 Certification: Type-Approved  
+    🕒 Course Duration: 16 Hours
+  </p>
+</section>
+
 
         <section class="info-card">
   <h2>JRC ECDIS Training Institute in Navi Mumbai</h2>
@@ -132,11 +139,12 @@
 
             <div>
                 <h3>Comprehensive JRC JAN ECDIS Training Programs</h3>
-                <li><b>Fundamentals of JRC JAN ECDIS Operation:</b> A beginner-friendly module to introduce system
-                    features and functions </li>
-                <li><b>Advanced Type-Specific Training: </b>In-depth navigation techniques for real-world maritime
-                    operations</li>
-                <li><b>Compliance Training: </b> Courses designed to meet IMO and STCW requirements</li><br>
+<ul>
+  <li>Fundamentals of JRC JAN ECDIS Operation</li>
+  <li>Advanced Type-Specific Training</li>
+  <li>Compliance Training</li>
+</ul>
+<br>
 
 
             </div>
@@ -406,6 +414,35 @@
     <?php
     include '../footer.php';
     ?>
+
+
+
+
+
 </body>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is JRC ECDIS course mandatory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, JRC ECDIS type-specific training is mandatory for officers serving on ships equipped with JRC ECDIS systems as per STCW and IMO regulations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is ECDISPLUS located?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ECDISPLUS Training Solutions is located in CBD Belapur, Navi Mumbai, Maharashtra."
+      }
+    }
+  ]
+}
+</script>
 </html>
