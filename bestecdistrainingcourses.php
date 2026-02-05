@@ -13,10 +13,11 @@
     <link rel="canonical" href="https://ecdisplus.com/bestecdistrainingcourses.php">
 
     <!-- Primary Meta Tags -->
-    <title>ECDIS Type-Specific Training | Best ECDIS Training Courses for Mariners 2025</title>
+   <title>ECDIS Course Near Me | Best ECDIS Training in Navi Mumbai & India – ECDISPLUS</title>
 
-    <meta name="description" 
-          content="Join the top-rated ECDIS type-specific training courses for professional seafarers. Get certified on leading ECDIS systems including Furuno, JRC, Kelvin Hughes, IMTECH, Kongsberg, Tokyo Keiki & more. 100% authentic training with expert instructors.">
+
+    <meta name="description" content="Looking for an ECDIS course near you? ECDISPLUS offers type-specific ECDIS training in Navi Mumbai and across India. Approved courses for JRC, Furuno, Kongsberg, Wartsila & more.">
+
 
     <meta name="keywords" 
           content="ECDIS training, type specific ECDIS, ECDIS type-specific training, maritime navigation courses, marine navigation training, ECDIS certification, bridge team training, Furuno ECDIS, JRC ECDIS, Kongsberg ECDIS, Kelvin Hughes Manta Digital, Transas Wartsila 4000">
@@ -107,6 +108,38 @@
       ]
     }
     </script>
+
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "ECDISPLUS Training Solutions",
+  "image": "https://ecdisplus.com/assets/img/logo.png",
+  "url": "https://ecdisplus.com",
+  "telephone": "+91-7710074143",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "104 B Wing, 10th Floor, Aggarwal Trade Center, Sector 11",
+    "addressLocality": "CBD Belapur",
+    "addressRegion": "Maharashtra",
+    "postalCode": "400614",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 19.0176,
+    "longitude": 73.0430
+  },
+  "areaServed": [
+    "Navi Mumbai",
+    "Mumbai",
+    "Thane",
+    "India"
+  ]
+}
+</script>
+
     
 </head>
 
@@ -121,10 +154,47 @@
         <div class="banner-content">
            
             <h1 class="banner-title">Master Maritime Navigation with ECDIS Type-Specific Training</h1>
-            
+            <p>
+Looking for an <strong>ECDIS course near you</strong>?  
+<strong>ECDISPLUS Training Solutions</strong> is a leading
+<strong>ECDIS training institute in Navi Mumbai</strong>, serving
+mariners across <strong>India</strong>.
+</p>
+
+<p>
+📍 <strong>Location:</strong> CBD Belapur, Navi Mumbai, Maharashtra<br>
+🎓 <strong>Courses:</strong> Type-Specific ECDIS (JRC, Furuno, Kongsberg, Wartsila & more)<br>
+📜 <strong>Certification:</strong> IMO & STCW Approved
+</p>
+
            
         </div>
     </section>
+
+
+    <section class="info-card">
+  <h2>ECDIS Training Institute Near You in Navi Mumbai</h2>
+  <p>
+    If you are searching for an <strong>ECDIS course near me</strong>,
+    ECDISPLUS Training Solutions in <strong>CBD Belapur, Navi Mumbai</strong>
+    is easily accessible for mariners from Mumbai, Panvel, Uran, Thane
+    and nearby port cities.
+  </p>
+</section>
+
+
+<section class="info-card">
+  <h2>Visit Our ECDIS Training Center in Navi Mumbai</h2>
+  <iframe
+    src="https://www.google.com/maps?q=Aggarwal+Trade+Center+CBD+Belapur&output=embed"
+    width="100%"
+    height="300"
+    style="border:0;"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</section>
+
     <!-- Cources List  -->
    <section class="course-section">
 
