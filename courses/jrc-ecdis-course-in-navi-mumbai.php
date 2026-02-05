@@ -386,9 +386,12 @@
             <div style="text-align: center; margin-top: 2rem;">
                 <button onclick="openModal()" class="book-now-course-btn">Book Now</button>
             </div>
-                    <a href="/jrc-ecdis-course-in-navi-mumbai">JRC ECDIS Course in Navi Mumbai</a>
-<a href="/ecdis-training">ECDIS Training in Navi Mumbai</a>
-<a href="/courses/type-specific-ecdis">Type Specific ECDIS Courses</a>
+ <div class="seo-links">
+  <a href="/jrc-ecdis-course-in-navi-mumbai">JRC ECDIS Course in Navi Mumbai</a>
+  <a href="/ecdis-training">ECDIS Training in Navi Mumbai</a>
+  <a href="/courses/type-specific-ecdis">Type Specific ECDIS Courses</a>
+</div>
+
     </div>
             </div>
         </div>
