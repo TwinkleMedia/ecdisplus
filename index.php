@@ -90,8 +90,8 @@ header("Pragma: no-cache");
     <?php
     include './navbar.php';
     ?>
-
-<div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
+<Section>
+    <div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
 
   <!-- Indicators -->
   <div class="carousel-indicators">
@@ -104,17 +104,26 @@ header("Pragma: no-cache");
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="./assets/Slider/slider1.png" class="d-block w-100" alt="Slide 1">
-    
+      <div class="carousel-caption">
+        <h5>First Slide</h5>
+        <p>Welcome to our website</p>
+      </div>
     </div>
 
     <div class="carousel-item">
       <img src="./assets/Slider/slider2.png" class="d-block w-100" alt="Slide 2">
-     
+      <div class="carousel-caption">
+        <h5>Second Slide</h5>
+        <p>Creative & Professional</p>
+      </div>
     </div>
 
     <div class="carousel-item">
       <img src="./assets/Slider/slider3.png" class="d-block w-100" alt="Slide 3">
-     
+      <div class="carousel-caption">
+        <h5>Third Slide</h5>
+        <p>Grow your business</p>
+      </div>
     </div>
   </div>
 
@@ -123,7 +132,13 @@ header("Pragma: no-cache");
     <span class="carousel-control-prev-icon"></span>
   </button>
 
-  <button class="carousel-control-next" type="button" data-bs-target=
+  <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </button>
+
+</div>
+
+</Section>
 
 
 
