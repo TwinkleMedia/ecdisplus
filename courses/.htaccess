@@ -1,4 +1,59 @@
-Redirect 301 /courses/navmaster/ https://ecdisplus.com/bestecdistrainingcourses.php
+# ===============================
+# ECDISPLUS – SEO SAFE REDIRECTS
+# ===============================
+
+RewriteEngine On
+
+# -------------------------------
+# 1. SPECIFIC OLD COURSE REDIRECTS
+# -------------------------------
+
+# Navmaster (old site)
 Redirect 301 /courses/navmaster https://ecdisplus.com/bestecdistrainingcourses.php
+Redirect 301 /courses/navmaster/ https://ecdisplus.com/bestecdistrainingcourses.php
+
+# JRC old URLs → New JRC page
 Redirect 301 /courses/jrc https://ecdisplus.com/jrc-ecdis-course-in-navi-mumbai
-Redirect 301 /courses/old-ecdis https://ecdisplus.com/bestecdistrainingcourses.php
+Redirect 301 /courses/jrc/ https://ecdisplus.com/jrc-ecdis-course-in-navi-mumbai
+
+Redirect 301 /courses/jrc-jan https://ecdisplus.com/jrc-ecdis-course-in-navi-mumbai
+Redirect 301 /courses/jrc-jan/ https://ecdisplus.com/jrc-ecdis-course-in-navi-mumbai
+
+Redirect 301 /courses/jrc-ecdis https://ecdisplus.com/jrc-ecdis-course-in-navi-mumbai
+Redirect 301 /courses/jrc-ecdis/ https://ecdisplus.com/jrc-ecdis-course-in-navi-mumbai
+
+# -------------------------------
+# 2. GENERIC OLD COURSE URLS
+# -------------------------------
+
+Redirect 301 /courses/ecdis https://ecdisplus.com/bestecdistrainingcourses.php
+Redirect 301 /courses/ecdis/ https://ecdisplus.com/bestecdistrainingcourses.php
+
+Redirect 301 /courses/type-specific-ecdis https://ecdisplus.com/bestecdistrainingcourses.php
+Redirect 301 /courses/type-specific-ecdis/ https://ecdisplus.com/bestecdistrainingcourses.php
+
+Redirect 301 /courses/simrad https://ecdisplus.com/bestecdistrainingcourses.php
+Redirect 301 /courses/wartsila https://ecdisplus.com/bestecdistrainingcourses.php
+Redirect 301 /courses/furuno https://ecdisplus.com/bestecdistrainingcourses.php
+
+# -------------------------------
+# 3. OLD GENERIC PAGES
+# -------------------------------
+
+Redirect 301 /ecdis-course https://ecdisplus.com/bestecdistrainingcourses.php
+Redirect 301 /ecdis-training https://ecdisplus.com/bestecdistrainingcourses.php
+Redirect 301 /best-ecdis-course https://ecdisplus.com/bestecdistrainingcourses.php
+
+# -------------------------------
+# 4. FALLBACK – ANY OTHER /courses/*
+# -------------------------------
+
+RewriteCond %{REQUEST_URI} ^/courses/
+RewriteRule ^courses/.*$ https://ecdisplus.com/bestecdistrainingcourses.php [R=301,L]
+
+# -------------------------------
+# 5. CUSTOM 404 PAGE
+# -------------------------------
+
+ErrorDocument 404 /404.php
+
