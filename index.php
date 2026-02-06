@@ -91,6 +91,39 @@ header("Pragma: no-cache");
     include './navbar.php';
     ?>
 
+<div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
+
+  <!-- Indicators -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active"></button>
+    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="1"></button>
+    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="2"></button>
+  </div>
+
+  <!-- Slides -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="./assets/Slider/slider1.png" class="d-block w-100" alt="Slide 1">
+    
+    </div>
+
+    <div class="carousel-item">
+      <img src="./assets/Slider/slider2.png" class="d-block w-100" alt="Slide 2">
+     
+    </div>
+
+    <div class="carousel-item">
+      <img src="./assets/Slider/slider3.png" class="d-block w-100" alt="Slide 3">
+     
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </button>
+
+  <button class="carousel-control-next" type="button" data-bs-target=
 
 
 
