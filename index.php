@@ -158,105 +158,158 @@ header("Pragma: no-cache");
     </section>
 
 
-    <section class="about-section" id="aboutSection">
-        <div class="container">
-            <!-- Header -->
-            <div class="about-header" data-aos="fade-up">
-                <h2>ECDIS Training for JRC, Simrad, Furuno, and More</h2>
-                <p class="lead text-muted">At ECDISPLUS Training Solutions, we specialize in providing comprehensive
-                    training for a wide range of ECDIS systems, including JRC, Simrad, Furuno, ChartWorld, Wartsila, and
-                    Totem Plus. Our courses are designed to equip maritime professionals with the technical expertise
-                    and operational skills required to navigate safely and efficiently using advanced ECDIS technology.
-                    Whether you're mastering the intuitive interfaces of JRC JAN ECDIS or exploring the robust
-                    functionalities of Furuno systems, our expert-led sessions ensure you stay ahead in the maritime
-                    industry. Enhance your skills and comply with international maritime standards with our cutting-edge
-                    training programs.</p>
-            </div>
+   <section class="about-section" id="aboutSection">
+    <div class="container">
 
-            <!-- Main Content -->
-            <div class="row align-items-center">
-                <!-- Image Column -->
-                <div class="col-lg-6" data-aos="fade-right">
-                    <div class="about-image">
-                        <img src="./assets/img/Asset 1300.svg" alt="ECDISPLUS Training Facility">
-                        <div class="image-overlay"></div>
-                    </div>
-                </div>
+        <!-- Header -->
+        <div class="about-header text-center" data-aos="fade-up">
+            <span class="subheading">About ECDISPLUS</span>
+            <h2>ECDISPLUS Provide World-class Training Facility for All Brand Type Specific ECDIS Training</h2>
+        </div>
 
-                <!-- Text Column -->
-                <div class="col-lg-6" data-aos="fade-left">
-                    <div class="about-text">
-                        <h3 class="mb-4 textcolor">World-class Training Facility</h3>
-                        <p>Welcome aboard! At ECDISPLUS, we believe in navigating the seas with confidence and
-                            precision. We are more than just a training solution – we are your trusted partner in
-                            mastering the complexities of Electronic Chart Display and Information Systems (ECDIS).</p>
+        <!-- Main Content -->
+        <div class="row align-items-center mt-4">
 
-                        <div class="key-points">
-                            <div class="key-point" data-aos="fade-left" data-aos-delay="100">
-                                <i class="fas fa-check-circle"></i>
-                                <span>Comprehensive type-specific ECDIS training</span>
-                            </div>
-                            <div class="key-point" data-aos="fade-left" data-aos-delay="200">
-                                <i class="fas fa-check-circle"></i>
-                                <span>Flexible learning environment</span>
-                            </div>
-                            <div class="key-point" data-aos="fade-left" data-aos-delay="300">
-                                <i class="fas fa-check-circle"></i>
-                                <span>Industry-recognized certification</span>
-                            </div>
-                        </div>
-                    </div>
+            <!-- Image Column -->
+            <div class="col-lg-6" data-aos="fade-right">
+                <div class="about-image">
+                    <img src="./assets/img/Asset 1300.svg" alt="ECDISPLUS Training Facility" class="img-fluid">
+                    <div class="image-overlay"></div>
                 </div>
             </div>
 
-            <!-- Mission Cards -->
-            <div class="row mt-5">
-                <div class="col-md-4" data-aos="zoom-in" data-aos-delay="100">
-                    <div class="mission-card">
-                        <div class="icon-box">
-                            <i class="fas fa-ship"></i>
-                        </div>
-                        <h3 class="textcolor">Maritime Excellence</h3>
-                        <p>Providing world-class training that meets STCW 2010 Manila Amendments and ISM Code
-                            requirements.</p>
-                    </div>
+            <!-- Text Column -->
+            <div class="col-lg-6" data-aos="fade-left">
+                <div class="about-text">
+
+                    <p>
+                        Welcome aboard! At <strong>ECDISPLUS Training Solutions</strong>, we believe in navigating
+                        the seas with confidence and precision. We are more than just a training provider – we are
+                        your trusted partner in mastering the complexities of
+                        <a href="https://www.marineinsight.com/marine-navigation/what-is-electronic-chart-display-and-information-system-ecdis/"
+                            target="_blank">Electronic Chart Display and Information Systems (ECDIS)</a>.
+                    </p>
+
+                    <p>
+                        In the maritime industry, the proper training and competence of seafarers in ECDIS are of
+                        utmost importance. ECDISPLUS recognizes this need and provides comprehensive,
+                        type-specific ECDIS training covering all major ECDIS manufacturers.
+                    </p>
+
+                    <p>
+                        With the introduction of the <strong>STCW 2010 Manila Amendments</strong>, the
+                        <strong>ISM Code</strong>, and strict <strong>Port State Control</strong> regulations,
+                        hands-on and flexible ECDIS training has become essential for today’s officers.
+                    </p>
+
                 </div>
-                <div class="col-md-4" data-aos="zoom-in" data-aos-delay="200">
-                    <div class="mission-card">
-                        <div class="icon-box">
-                            <i class="fas fa-graduation-cap"></i>
-                        </div>
-                        <h3 class="textcolor">Comprehensive Training</h3>
-                        <p>Access to all major ECDIS equipment manufacturers for complete familiarization with various
-                            systems.</p>
-                    </div>
+            </div>
+        </div>
+
+        <!-- Extended Content -->
+        <div class="row mt-4">
+            <div class="col-12" data-aos="fade-up">
+                <div class="about-text">
+
+                    <p>
+                        One of the key challenges faced by officers is transitioning to vessels equipped with
+                        unfamiliar ECDIS brands. Port State Control inspections often scrutinize officers’
+                        competence in operating the specific ECDIS equipment installed onboard.
+                    </p>
+
+                    <p>
+                        At ECDISPLUS, we understand the risks associated with deficient competencies in navigation
+                        console handling. Variations in interface structures and control layouts among different
+                        manufacturers add complexity to ECDIS operations.
+                    </p>
+
+                    <p>
+                        Our advanced training facilities cover all major ECDIS brands including
+                        <strong>JRC, Simrad, Furuno, ChartWorld, Wärtsilä, Totem Plus, and JRC JAN ECDIS</strong>,
+                        enabling officers to gain confidence across multiple systems.
+                    </p>
+
                 </div>
-                <div class="col-md-4" data-aos="zoom-in" data-aos-delay="300">
-                    <div class="mission-card">
-                        <div class="icon-box">
-                            <i class="fas fa-globe"></i>
-                        </div>
-                        <h3 class="textcolor">Global Accessibility</h3>
-                        <p>Train anytime, anywhere, on any device with our flexible learning environment.</p>
+            </div>
+        </div>
+
+        <!-- Key Points -->
+        <div class="row mt-4">
+            <div class="col-lg-6" data-aos="fade-right">
+                <div class="key-points">
+                    <div class="key-point">
+                        <i class="fas fa-check-circle"></i>
+                        <span>Comprehensive type-specific ECDIS training</span>
+                    </div>
+                    <div class="key-point">
+                        <i class="fas fa-check-circle"></i>
+                        <span>Hands-on practice on multiple ECDIS brands</span>
+                    </div>
+                    <div class="key-point">
+                        <i class="fas fa-check-circle"></i>
+                        <span>Port State Control & STCW compliance</span>
                     </div>
                 </div>
             </div>
 
-            <!-- Additional Content -->
-            <div class="row mt-5">
-                <div class="col-12" data-aos="fade-up">
-                    <div class="about-text">
-                        <h3 class="mb-4 textcolor">Our Commitment</h3>
-                        <p>At ECDISPLUS Training Solution, we understand the risks associated with deficient
-                            competencies in navigation console handling. Our commitment to excellence ensures that
-                            officers receive comprehensive training that meets their individual needs and schedules.</p>
-                        <p class="mb-0">Embark on a journey of safe navigation with ECDISPLUS Training Solution.
-                            Together, let's ensure a safe and sustainable future for the maritime industry.</p>
+            <div class="col-lg-6" data-aos="fade-left">
+                <div class="key-points">
+                    <div class="key-point">
+                        <i class="fas fa-check-circle"></i>
+                        <span>Anytime, anywhere, any device learning</span>
+                    </div>
+                    <div class="key-point">
+                        <i class="fas fa-check-circle"></i>
+                        <span>Flexible training schedules for seafarers</span>
+                    </div>
+                    <div class="key-point">
+                        <i class="fas fa-check-circle"></i>
+                        <span>Industry-recognized certification</span>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+
+        <!-- Mission Cards -->
+        <div class="row mt-5">
+            <div class="col-md-4" data-aos="zoom-in">
+                <div class="mission-card">
+                    <div class="icon-box"><i class="fas fa-ship"></i></div>
+                    <h3>Maritime Excellence</h3>
+                    <p>World-class ECDIS training aligned with STCW 2010, ISM Code, and global maritime standards.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4" data-aos="zoom-in" data-aos-delay="150">
+                <div class="mission-card">
+                    <div class="icon-box"><i class="fas fa-graduation-cap"></i></div>
+                    <h3>Comprehensive Coverage</h3>
+                    <p>Training across all major ECDIS manufacturers with real-world operational scenarios.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4" data-aos="zoom-in" data-aos-delay="300">
+                <div class="mission-card">
+                    <div class="icon-box"><i class="fas fa-globe"></i></div>
+                    <h3>Global Accessibility</h3>
+                    <p>Learn at your own pace with flexible, device-independent training access.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Closing -->
+        <!-- <div class="row mt-5">
+            <div class="col-12 text-center" data-aos="fade-up">
+                <p class="fw-bold">
+                    Have a Safe Navigation,<br>
+                    Safe Life, and Cleaner Sea 🌊
+                </p>
+            </div>
+        </div> -->
+
+    </div>
+</section>
+
     <!-- slider courses -->
     <section class="ecdis-section">
         <h2 class="section-title">ECDIS Training Courses</h2>
