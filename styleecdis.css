@@ -5,6 +5,14 @@
     --light-bg: #f8f9fa;
 }
 
+
+.carousel-item img {
+  height: 400px;
+  object-fit: cover;
+}
+
+
+
 /* Home Carousel */
 .home-carousel {
   width: 100%;
