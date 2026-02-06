@@ -257,7 +257,7 @@ header("Pragma: no-cache");
                                     </svg>
                                     5 Days
                                 </span>
-                                <a href="#" class="course-cta">
+                                <a href="./courses/jrc-jan-901b-701b-2000.php" class="course-cta">
                                     Learn More
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                         stroke-width="2">
