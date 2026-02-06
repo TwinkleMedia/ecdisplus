@@ -414,7 +414,7 @@ mariners across <strong>India</strong>.
 </section>
 
 
-<section class="info-card">
+<!-- <section class="info-card">
   <h2>Visit Our ECDIS Training Center in Navi Mumbai</h2>
   <iframe
     src="https://www.google.com/maps?q=Aggarwal+Trade+Center+CBD+Belapur&output=embed"
@@ -424,7 +424,7 @@ mariners across <strong>India</strong>.
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
-</section>
+</section> -->
 
     <!-- fOOTER -->
      <?php 
