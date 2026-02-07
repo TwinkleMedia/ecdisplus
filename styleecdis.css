@@ -10,16 +10,17 @@
 /* ================= BOOTSTRAP CAROUSEL FIX ================= */
 
 /* ================= NAVBAR HEIGHT ================= */
+/* ================= NAVBAR HEIGHT ================= */
 :root {
-    --navbar-height: 90px; /* adjust if needed */
+    --navbar-height: 90px;
 }
 
-/* ================= HERO CAROUSEL FIX ================= */
+/* ================= HERO CAROUSEL ================= */
 .hero-carousel {
     padding-top: var(--navbar-height);
 }
 
-/* Carousel sizing */
+/* Desktop */
 #mainCarousel,
 #mainCarousel .carousel-inner,
 #mainCarousel .carousel-item {
@@ -29,33 +30,32 @@
 #mainCarousel .carousel-item img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: cover;      /* desktop */
+    object-position: center;
 }
 
-/* Tablet */
+/* ================= MOBILE FIX ================= */
 @media (max-width: 768px) {
-    :root {
-        --navbar-height: 80px;
-    }
 
     #mainCarousel,
     #mainCarousel .carousel-item {
-        height: 65vh;
+        height: auto;
+    }
+
+    #mainCarousel .carousel-item img {
+        height: auto;
+        max-height: 70vh;
+        object-fit: contain;   /* 🔥 FIX */
+        background: #000;      /* optional – looks premium */
     }
 }
 
-/* Mobile */
+/* Small devices */
 @media (max-width: 480px) {
-    :root {
-        --navbar-height: 75px;
-    }
-
-    #mainCarousel,
-    #mainCarousel .carousel-item {
-        height: 55vh;
+    #mainCarousel .carousel-item img {
+        max-height: 60vh;
     }
 }
-
 
 
 
