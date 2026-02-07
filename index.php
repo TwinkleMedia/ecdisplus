@@ -95,7 +95,7 @@ header("Pragma: no-cache");
 <div class="nav-offset"></div>
 
 <!-- ================= HERO CAROUSEL ================= -->
-<section class="hero-carousel shadow-sm mb-5 bg-body rounded">
+<section class="hero-carousel shadow-sm bg-body rounded">
 
 <div id="mainCarousel"
      class="carousel slide carousel-fade"
