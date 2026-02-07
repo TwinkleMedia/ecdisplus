@@ -1,75 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Learn the Imtech SeaGuide ECDIS course in Mumbai, India. Enhance your maritime navigation skills with expert-led training designed for professionals. Call us +91 7710074143 Apply Online training ">
-    <meta name="keywords" content="Imtech SeaGuide, ECDIS course, ECDIS training in Mumbai, ECDIS in India, maritime navigation course, Mumbai ECDIS training">
-    <meta name="author" content="Imtech SeaGuide Training">
-    <meta name="robots" content="index, follow">
-    <title>Imtech SeaGuide ECDIS Course in Mumbai, India - Ecdisplus Training Solutions</title>
-    <link rel="stylesheet" href="./course.css">
-    <link rel="canonical" href="https://ecdisplus.in/courses/imtech-seaguide.php">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-     <!-- Open Graph Meta Tags for Social Sharing -->
-    <meta property="og:title" content="Imtech SeaGuide ECDIS Course in Mumbai, India - Ecdisplus Training Solutions">
-    <meta property="og:description" content="Learn the Imtech SeaGuide ECDIS course in Mumbai, India. Enhance your maritime navigation skills with expert-led training designed for professionals. Call us +91 7710074143.">
-    <meta property="og:image" content="https://ecdisplus.in/assets/img/Ecdisnavigation.jpg">
-    <meta property="og:url" content="https://ecdisplus.in/assets/img/Ecdisnavigation.jpg">
-    <meta property="og:type" content="website">
-    <meta property="og:locale" content="en_US">
+<title>Imtech SeaGuide ECDIS Course in Mumbai, India | ECDISPLUS</title>
 
-    <!-- Twitter Card Metadata -->
-    <meta name="twitter:card" content="">
-    <meta name="twitter:title" content="Imtech SeaGuide ECDIS Course in Mumbai, India - Ecdisplus Training Solutions">
-    <meta name="twitter:description" content="Learn the Imtech SeaGuide ECDIS course in Mumbai, India. Enhance your maritime navigation skills with expert-led training designed for professionals.Call us +91 7710074143.">
-    <meta name="twitter:image" content="https://ecdisplus.in/assets/img/Ecdisnavigation.jpg">
-    <meta name="twitter:site" content="@ecdisplus">
-    
-    
-    <script type="application/ld+json">
+<meta name="description" content="Learn the Imtech SeaGuide ECDIS course in Mumbai, India. Expert-led IMO & STCW compliant training. Call +91 7710074143">
+<meta name="keywords" content="Imtech SeaGuide ECDIS, ECDIS course Mumbai, maritime navigation training India">
+<meta name="author" content="ECDISPLUS Training Solutions">
+<meta name="robots" content="index, follow">
+
+<link rel="canonical" href="https://ecdisplus.com/courses/imtech-seaguide.php">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Imtech SeaGuide ECDIS Course in Mumbai">
+<meta property="og:description" content="Professional Imtech SeaGuide ECDIS training in Mumbai & Navi Mumbai.">
+<meta property="og:image" content="https://ecdisplus.com/assets/img/Ecdisnavigation.jpg">
+<meta property="og:url" content="https://ecdisplus.com/courses/imtech-seaguide.php">
+<meta property="og:type" content="website">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Imtech SeaGuide ECDIS Course">
+<meta name="twitter:description" content="Professional Imtech SeaGuide ECDIS training in Mumbai.">
+<meta name="twitter:image" content="https://ecdisplus.com/assets/img/Ecdisnavigation.jpg">
+
+<link rel="stylesheet" href="../course.css">
+<link rel="stylesheet" href="../navbar.css">
+
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Course",
   "name": "Imtech SeaGuide ECDIS Course",
-  "description": "Learn the Imtech SeaGuide ECDIS course in Mumbai, India. Enhance your maritime navigation skills with expert-led training designed for professionals.",
+  "description": "Professional Imtech SeaGuide ECDIS training in Mumbai, India.",
   "provider": {
     "@type": "EducationalOrganization",
-    "name": "Imtech SeaGuide ecdisplus Training solutions",
-    "sameAs": "https://ecdisplus.in/courses/imtech-seaguide.php"  // Replace with your website URL
+    "name": "ECDISPLUS Training Solutions",
+    "url": "https://ecdisplus.com"
   },
   "educationalLevel": "Professional",
-  "hasCourseInstance": {
-    "@type": "CourseInstance",
-    "name": "Imtech SeaGuide ECDIS Course - Mumbai",
-    "location": {
-      "@type": "Place",
-      "name": "Mumbai, Navi Mumbai, India",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Mumbai, Navi Mumbai",
-        "addressCountry": "India"
-      }
-    },
-    "startDate": "2025-02-01",  // Update to your course start date
-    "courseMode": "Online",    // Change to "Online" if applicable
-    "instructor": {
-      "@type": "Person",
-      "name": "Ecdisplus Training Sloutions",  // Replace with actual instructor's name
-      "sameAs": "https://ecdisplus.in/courses/imtech-seaguide.php"  // Replace with instructor profile URL
-    }
-  }
+  "courseMode": "Online"
 }
 </script>
 
-    
-    
-    
 </head>
+
 <body>
     <?php
-     include './navbar.php';
-      include './form.php';
+     include '../navbar.php';
+include '../form.php';
+
     ?>
 
 <div class="main-container">
