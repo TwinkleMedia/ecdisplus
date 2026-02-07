@@ -179,8 +179,8 @@ mariners across <strong>India</strong>.
     <!-- Cources List  -->
    <section class="course-section">
 
-    <h3 class="section-title">Our Popular Courses</h3>
-    <h2 class="section-title">Comprehensive ECDIS Training Courses for Professional Mariners</h2>
+    <h2 class="section-title">Our Popular Courses</h2>
+    <!-- <h2 class="section-title">Comprehensive ECDIS Training Courses for Professional Mariners</h2> -->
 
     <div class="course-container">
 
