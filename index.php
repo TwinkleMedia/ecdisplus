@@ -95,7 +95,7 @@ header("Pragma: no-cache");
 <div class="nav-offset"></div>
 
 <!-- ================= HERO CAROUSEL ================= -->
-<section class="hero-carousel">
+<section class="hero-carousel shadow-sm mb-5 bg-body rounded">
 
 <div id="mainCarousel"
      class="carousel slide carousel-fade"
@@ -136,7 +136,7 @@ header("Pragma: no-cache");
 
 
 
-    <section class="hero-section shadow-sm mb-5 bg-body rounded">
+    <section class="hero-section ">
         <div class="container">
             <div class="row align-items-center">
                 <!-- Text Content -->
@@ -153,7 +153,7 @@ header("Pragma: no-cache");
                 </div>
                 <!-- Image Content -->
                 <div class="col-12 col-md-6 text-center">
-                    <img src="./assets/img/Ecdisnavigation.jpg" alt="ECDIS navigation training equipment"
+                    <img src="./assets/ecdis_jrc.png" alt="ECDIS navigation training equipment"
                         class="img-fluid rounded" style="max-width: 100%; height: auto;">
                 </div>
             </div>
