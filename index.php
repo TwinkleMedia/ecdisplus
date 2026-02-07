@@ -86,54 +86,57 @@ header("Pragma: no-cache");
 
 
 <body>
+<!-- ================= NAVBAR ================= -->
+<section>
+    <?php include './navbar.php'; ?>
+</section>
 
-    <?php
-    include './navbar.php';
-    ?>
-<Section>
-    <div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
+<!-- OFFSET FOR STICKY NAVBAR -->
+<div class="nav-offset"></div>
 
-  <!-- Indicators -->
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active"></button>
-    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="1"></button>
-    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="2"></button>
-  </div>
+<!-- ================= HERO CAROUSEL ================= -->
+<section class="hero-carousel">
 
-  <!-- Slides -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="./assets/Slider/slider1.png" class="d-block w-100" alt="Slide 1">
-     
+<div id="mainCarousel"
+     class="carousel slide carousel-fade"
+     data-bs-ride="carousel"
+     data-bs-interval="5000">
+
+    <!-- Indicators -->
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active"></button>
+        <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="1"></button>
+        <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="2"></button>
     </div>
 
-    <div class="carousel-item">
-      <img src="./assets/Slider/slider2.png" class="d-block w-100" alt="Slide 2">
-     
+    <!-- Slides -->
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="./assets/Slider/slider1.png" alt="ECDIS Training">
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/Slider/slider2.png" alt="Marine Navigation">
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/Slider/slider3.png" alt="Online ECDIS Training">
+        </div>
     </div>
 
-    <div class="carousel-item">
-      <img src="./assets/Slider/slider3.png" class="d-block w-100" alt="Slide 3">
-      
-    </div>
-  </div>
+    <!-- Controls -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
 
-  <!-- Controls -->
-  <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </button>
-
-  <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
 
 </div>
-
-</Section>
-
+</section>
 
 
-    <section class="hero-section shadow-sm mb-5 bg-body rounded py-5">
+
+    <section class="hero-section shadow-sm mb-5 bg-body rounded">
         <div class="container">
             <div class="row align-items-center">
                 <!-- Text Content -->
