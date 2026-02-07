@@ -155,7 +155,7 @@
     <section class="banner-section">
         <div class="banner-content">
            
-            <h1 class="banner-title">Master Maritime Navigation with ECDIS Type-Specific Training</h1>
+            <h1 class="banner-title">Our Type Approved Ecdis Courses</h1>
             <p>
 Looking for an <strong>ECDIS course near you</strong>?  
 <strong>ECDISPLUS Training Solutions</strong> is a leading
@@ -403,15 +403,7 @@ mariners across <strong>India</strong>.
     </div>
 </section>
 
-  <section class="info-card">
-  <h2>ECDIS Training Institute Near You in Navi Mumbai</h2>
-  <p>
-    If you are searching for an <strong>ECDIS course near me</strong>,
-    ECDISPLUS Training Solutions in <strong>CBD Belapur, Navi Mumbai</strong>
-    is easily accessible for mariners from Mumbai, Panvel, Uran, Thane
-    and nearby port cities.
-  </p>
-</section>
+
 
 
 <!-- <section class="info-card">

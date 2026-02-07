@@ -24,7 +24,7 @@
             <ul class="nav-links">
                 <li><a href="./index.php">Home</a></li>
                 <li><a href="./aboutus.php">About Us</a></li>
-                <li><a href="./bestecdistrainingcourses.php">Type Approved ECDIS course</a></li>
+                <li><a href="./typeapprovedecdiscoures.php">Type Approved ECDIS course</a></li>
                 <li><a href="./blogpage.php">Blog</a></li>
                 <li><a href="./contactus.php">Contact</a></li>
                 <li><a href="./contactus.php" class="booknowbtn" id="booknow">Book Now</a></li>
