@@ -21,11 +21,11 @@
 }
 
 /* Desktop */
-#mainCarousel,
+/* #mainCarousel,
 #mainCarousel .carousel-inner,
 #mainCarousel .carousel-item {
     height: calc(100vh - var(--navbar-height));
-}
+} */
 
 #mainCarousel .carousel-item img {
     width: 100%;
