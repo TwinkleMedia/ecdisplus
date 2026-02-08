@@ -97,24 +97,25 @@
   <div class="container">
     <div class="row align-items-center">
       
-      <div class="col-lg-6">
-        <div class="section-heading">
-          <span class="subheading">Top Categories</span>
-          <h3>Learn new skills to go ahead for your career</h3>
-        </div>
+   <div class="col-lg-6">
+  <div class="section-heading">
+    <span class="subheading">Top Categories</span>
+    <h3>IMO & Flag State Approved ECDIS Training for Seafarers</h3>
+  </div>
 
-        <div class="feature-box">
-          <h4>Details Video tutorial</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicin gelit</p>
-        </div>
+  <div class="feature-box">
+    <h4>Type Approved ECDIS Training</h4>
+    <p>We provide type approved ECDIS training as per IMO, STCW and Flag State requirements, accepted by shipping companies worldwide.</p>
+  </div>
 
-        <div class="feature-box">
-          <h4>World Class Support</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicin gelit</p>
-        </div>
+  <div class="feature-box">
+    <h4>Manufacturer-Specific Practical Training</h4>
+    <p>Hands-on training on type approved ECDIS systems including JRC, Furuno, Wartsila, Simrad and other major manufacturers.</p>
+  </div>
 
-        <a href="" class="btn-main">More About Support</a>
-      </div>
+  <a href="about-us.php" class="btn-main">More About ECDISPLUS</a>
+</div>
+
 
       <div class="col-lg-6">
         <div class="about-image">
