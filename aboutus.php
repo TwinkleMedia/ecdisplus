@@ -113,7 +113,7 @@
     <p>Hands-on training on type approved ECDIS systems including JRC, Furuno, Wartsila, Simrad and other major manufacturers.</p>
   </div>
 
-  <a href="about-us.php" class="btn-main">More About ECDISPLUS</a>
+  <!-- <a href="about-us.php" class="btn-main">More About ECDISPLUS</a> -->
 </div>
 
 
