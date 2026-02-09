@@ -3,6 +3,7 @@
     --accent-color: #eb1f25;
     --text-color: #333;
     --light-bg: #f8f9fa;
+        --navbar-height: 90px;
 }
 
 
@@ -11,9 +12,6 @@
 
 /* ================= NAVBAR HEIGHT ================= */
 /* ================= NAVBAR HEIGHT ================= */
-:root {
-    --navbar-height: 90px;
-}
 
 /* ================= HERO CAROUSEL ================= */
 

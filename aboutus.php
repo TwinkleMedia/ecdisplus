@@ -128,14 +128,14 @@
 </section>
 
 <!-- ================= TEAM ================= -->
-<section class="team-section">
+<!-- <section class="team-section">
   <div class="container">
     <div class="section-heading text-center">
       <h3>Our Team</h3>
     </div>
 
     <div class="row">
-      <!-- Team Member -->
+      
       <div class="col-lg-3 col-md-6">
         <div class="team-card">
           <img src="./assets/team/rashmi.jpg" alt="">
@@ -169,7 +169,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 
 
