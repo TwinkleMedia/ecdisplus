@@ -189,7 +189,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/imtech.png" alt="IMTECH SeaGuide ECDIS Type-Specific Training" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">IMTECH SeaGuide</h3>
-                <a href="./courses/imtech-seaguide.php" class="read-more">Read More</a>
+                <a href="./imtech-seaguide.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -198,7 +198,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/simrad900.png" alt="SIMRAD Maris ECDIS900 Type-Specific Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">SIMRAD Maris ECDIS900</h3>
-                <a href="./courses/simrad-maris-ecdis900.php" class="read-more">Read More</a>
+                <a href="./simrad-maris-ecdis900.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -207,7 +207,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/simrade5024.png" alt="Simrad E5024 ECDIS Online Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Simrad E5024 Online Course</h3>
-                <a href="./courses/simrad-e5024.php" class="read-more">Read More</a>
+                <a href="./simrad-e5024.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -216,7 +216,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/wartsila4000.png" alt="Wartsila Navi-Sailor 4000 by Transas ECDIS Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Wartsila Navi-Sailor 4000 by Transas</h3>
-                <a href="./courses/wartsila-navi-sailor-4000.php" class="read-more">Read More</a>
+                <a href="./wartsila-navi-sailor-4000.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -225,7 +225,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/wartsilasam.png" alt="Wärtsilä SAM ChartPilot ECDIS Type-Specific Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Wärtsilä SAM CHARTPILOT</h3>
-                <a href="./courses/wartsila-sam-chartpilot.php" class="read-more">Read More</a>
+                <a href="./wartsila-sam-chartpilot.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -234,7 +234,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/wartsilaplatium.png" alt="Wärtsilä SAM ECDISPILOT Platinum ECDIS Training" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Wärtsilä SAM ECDISPILOT Platinum</h3>
-                <a href="./courses/wartsila-sam-ecdispilot-platinum.php" class="read-more">Read More</a>
+                <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -243,7 +243,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/tokyo8100.png" alt="Tokyo Keiki EC-8100/8600 ECDIS Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Tokyo Keiki EC-8100/8600</h3>
-                <a href="./courses/tokyo-keiki-ec-8100-8600.php" class="read-more">Read More</a>
+                <a href="./tokyo-keiki-ec-8100-8600.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -252,7 +252,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/ecdisjrc.png" alt="JRC JAN 9201/7201 Type-Specific ECDIS Training" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">ECDIS JRC JAN 9201/7201</h3>
-                <a href="./courses/jrc-ecdis-course-in-navi-mumbai.php" class="read-more">Read More</a>
+                <a href="./jrc-ecdis-course-in-navi-mumbai.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -261,7 +261,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/jrcjan901.png" alt="JRC JAN 901B / 701B / 2000 ECDIS Type-Specific Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">JRC JAN 901B/701B/2000</h3>
-                <a href="./courses/jrc-jan-901b-701b-2000.php" class="read-more">Read More</a>
+                <a href="./jrc-jan-901b-701b-2000.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -270,7 +270,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/kalvin.jpeg" alt="Kelvin Hughes Manta Digital ECDIS Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Kelvin Hughes Manta Digital</h3>
-                <a href="./courses/kelvin-hughes-manta-digital.php" class="read-more">Read More</a>
+                <a href="./kelvin-hughes-manta-digital.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -279,7 +279,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/wartek.png" alt="Martek Marine iECDIS Type-Specific Training" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Martek Marine iECDIS</h3>
-                <a href="./courses/martek-marine-iecdis.php" class="read-more">Read More</a>
+                <a href="./martek-marine-iecdis.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -288,7 +288,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/consilium.png" alt="Consilium Selesmar ECDIS Type-Specific Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Consilium Selesmar ECDIS</h3>
-                <a href="./courses/consilium-selesmar-ecdis.php" class="read-more">Read More</a>
+                <a href="./consilium-selesmar-ecdis.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -297,7 +297,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/consiliumecdisg2.png" alt="Consilium ECDIS G2 Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Consilium ECDIS G2</h3>
-                <a href="./courses/consilium-ecdis-g2.php" class="read-more">Read More</a>
+                <a href="./consilium-ecdis-g2.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -306,7 +306,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/chart.jpeg" alt="ChartWorld ChartBrowser ECDIS Training" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">ChartWorld ChartBrowser</h3>
-                <a href="./courses/chartworld-chartbrowser.php" class="read-more">Read More</a>
+                <a href="./chartworld-chartbrowser.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -315,7 +315,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/sperry.png" alt="Sperry Marine VisionMaster ECDIS Training" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Sperry Marine VisionMaster</h3>
-                <a href="./courses/sperry-marine-visionmaster.php" class="read-more">Read More</a>
+                <a href="./sperry-marine-visionmaster.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -324,7 +324,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/raytheon.png" alt="Raytheon Anschütz Synapsis ECDIS Type-Specific Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Raytheon Anschütz Synapsis ECDIS</h3>
-                <a href="./courses/raytheon-anschutz-synapsis-ecdis.php" class="read-more">Read More</a>
+                <a href="./raytheon-anschutz-synapsis-ecdis.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -333,7 +333,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/furuno.png" alt="Furuno FMD Type-Specific ECDIS Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Furuno FMD Type Specific ECDIS Training</h3>
-                <a href="./courses/furuno-fmd-type-specific-ecdis.php" class="read-more">Read More</a>
+                <a href="./furuno-fmd-type-specific-ecdis.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -342,7 +342,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/furunofea.png" alt="Furuno FEA Type-Specific ECDIS Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Furuno FEA Type Specific Training</h3>
-                <a href="./courses/furuno-fea-type.php" class="read-more">Read More</a>
+                <a href="./furuno-fea-type.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -351,7 +351,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/kongsberg.png" alt="Kongsberg ECDIS Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Kongsberg ECDIS</h3>
-                <a href="./courses/kongsberg-ecdis.php" class="read-more">Read More</a>
+                <a href="./kongsberg-ecdis.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -360,7 +360,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/navmaster.png" alt="Navmaster ECDIS Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">NAVMASTER ECDIS</h3>
-                <a href="./courses/navmaster-ecdis.php" class="read-more">Read More</a>
+                <a href="./navmaster-ecdis.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -369,7 +369,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/totem.png" alt="Totem Plus ECDIS Version 3.0 Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">TOTEM PLUS ECDIS Version 3.0</h3>
-                <a href="./courses/totem-plus-ecdis-version-no-3-0.php" class="read-more">Read More</a>
+                <a href="./totem-plus-ecdis-version-no-3-0.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -378,7 +378,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/danelec.png" alt="Danelec Marine DM800 ECDIS G2 Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Danelec Marine DM800 ECDIS G2</h3>
-                <a href="./courses/danelec-marine-dm800-ecdis-g2.php" class="read-more">Read More</a>
+                <a href="./danelec-marine-dm800-ecdis-g2.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -387,7 +387,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/danelec700.png" alt="Danelec Marine DM700 ECDIS Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">Danelec Marine DM700 ECDIS</h3>
-                <a href="./courses/danelec-marine-dm700.php" class="read-more">Read More</a>
+                <a href="./danelec-marine-dm700.php" class="read-more">Read More</a>
             </div>
         </div>
 
@@ -396,7 +396,7 @@ mariners across <strong>India</strong>.
             <img src="./assets/mecys.png" alt="MECys PM3D ECDIS Training Course" class="course-image">
             <div class="course-content">
                 <h3 class="course-title">MECys PM3D ECDIS Training</h3>
-                <a href="./courses/mecys-pm3d-ecdis-training.php" class="read-more">Read More</a>
+                <a href="./mecys-pm3d-ecdis-training.php" class="read-more">Read More</a>
             </div>
         </div>
 

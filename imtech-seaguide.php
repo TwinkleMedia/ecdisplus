@@ -49,8 +49,8 @@
 
 <body>
     <?php
-     include '../navbar.php';
-include '../form.php';
+     include './navbar.php';
+include './form.php';
 
     ?>
 
