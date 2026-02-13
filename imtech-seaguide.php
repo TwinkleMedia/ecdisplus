@@ -26,8 +26,10 @@
 <meta name="twitter:description" content="Professional Imtech SeaGuide ECDIS training in Mumbai.">
 <meta name="twitter:image" content="https://ecdisplus.com/assets/img/Ecdisnavigation.jpg">
 
-<link rel="stylesheet" href="../course.css">
-<link rel="stylesheet" href="../navbar.css">
+<link rel="stylesheet" href="./course.css">
+<link rel="stylesheet" href="./navbar.css">
+
+<link rel="stylesheet" href="newcourse.css">
 
 <script type="application/ld+json">
 {
@@ -54,62 +56,168 @@ include './form.php';
 
     ?>
 
+<section class="course-section">
+  <div class="course-container">
+    
+    <!-- Left Content -->
+    <div class="course-content">
+      <div class="rating">
+        ⭐⭐⭐⭐☆ <span>4.0</span>
+      </div>
+
+      <h2>Imtech SeaGuide ECDIS Course in Mumbai, India</h2>
+
+      <p>
+        The IMTECH SeaGuide training course offers a detailed and practical
+        understanding of the IMTECH SeaGuide ECDIS system. This course is
+        tailored to meet the needs of both novice and experienced mariners,
+        ensuring they are adept at using the IMTECH SeaGuide system for safe
+        and efficient navigation.
+      </p>
+
+      <ul class="features">
+        <li>Expert Instructors with extensive knowledge</li>
+        <li>Comprehensive Curriculum</li>
+        <li>Flexible Learning Options</li>
+        <li>Accredited by Directorate General of Shipping</li>
+      </ul>
+
+      <a href="./form.php" class="apply-btn">Apply Training</a>
+    </div>
+
+    <!-- Right Logo -->
+    <div class="course-logo">
+      <img src="./assets/New folder/imtech.png" alt="Imtech Logo">
+    </div>
+
+  </div>
+</section>
+
+
+<!-- -------------------Next Section---------------------- -->
+<section class="modules-section">
+  <div class="modules-container">
+
+    <h2 class="modules-title">
+      <span class="menu-icon">≡</span> Course Modules
+    </h2>
+
+    <div class="modules-grid">
+
+      <div class="module-card">
+        <span class="module-no">Module 1</span>
+        <h4>User Interface</h4>
+        <img src="./assets/New folder/model1.png" alt="">
+      </div>
+
+      <div class="module-card">
+        <span class="module-no">Module 2</span>
+        <h4>ECDIS Basic Features</h4>
+        <img src="./assets/New folder/model2.png" alt="">
+      </div>
+
+      <div class="module-card">
+        <span class="module-no">Module 3</span>
+        <h4>Sensor Management / Monitoring</h4>
+        <img src="./assets/New folder/model3.png" alt="">
+      </div>
+
+      <div class="module-card highlight">
+        <span class="module-no">Module 4</span>
+        <h4>Alert Management</h4>
+        <img src="./assets/New folder/model4.png" alt="">
+      </div>
+
+      <div class="module-card">
+        <span class="module-no">Module 5</span>
+        <h4>Chart Management</h4>
+        <img src="./assets/New folder/model5.png" alt="">
+      </div>
+
+      <div class="module-card">
+        <span class="module-no">Module 6</span>
+        <h4>Digital Passage Planning</h4>
+        <img src="./assets/New folder/model6.png" alt="">
+      </div>
+
+      <div class="module-card">
+        <span class="module-no">Module 7</span>
+        <h4>Voyage Planning</h4>
+        <img src="./assets/New folder/model7.png" alt="">
+      </div>
+
+      <div class="module-card">
+        <span class="module-no">Module 8</span>
+        <h4>Voyage Monitoring</h4>
+        <img src="./assets/New folder/model8.png" alt="">
+      </div>
+
+      <div class="module-card">
+        <span class="module-no">Module 9</span>
+        <h4>Backup Arrangements, Logs & Data</h4>
+        <img src="./assets/New folder/model9.png" alt="">
+      </div>
+
+      <div class="module-card">
+        <span class="module-no">Module 10</span>
+        <h4>Navigational Tools and Functions</h4>
+        <img src="./assets/New folder/model10.png" alt="">
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- -----------------next -->
+<section class="objectives-section">
+  <div class="objectives-container">
+
+    <!-- Left Content -->
+    <div class="objectives-content">
+      <h2 class="objectives-title">
+        <span class="target-icon">◎</span> Course Objectives
+      </h2>
+
+      <ul class="objectives-list">
+        <li>
+          Provide a comprehensive understanding of the IMTECH SeaGuide ECDIS system
+        </li>
+        <li>
+          Enhance navigational skills using advanced ECDIS functionalities
+        </li>
+        <li>
+          Ensure compliance with international maritime standards and regulations
+        </li>
+        <li>
+          Promote safety and efficiency in maritime navigation
+        </li>
+      </ul>
+    </div>
+
+    <!-- Right Image -->
+    <div class="objectives-image">
+      <img src="./assets/New folder/course-objectives.png" alt="Course Objectives">
+    </div>
+
+  </div>
+</section>
+
+
+
+
+
+
+
 <div class="main-container">
-    <section class="info-card">
-        <h1 class="info-card-title"><i class="fas fa-info-circle"></i> Imtech SeaGuide ECDIS Course in Mumbai, India</h1>
-        <p>The IMTECH SeaGuide training course offers a detailed and practical understanding of the IMTECH SeaGuide ECDIS system. This course is tailored to meet the needs of both novice and experienced mariners, ensuring they are adept at using the IMTECH SeaGuide system for safe and efficient navigation.</p>
-    </section>
+   
     
     <section class="info-card">
         <h2 class="info-card-title"><i class="fas fa-info-circle"></i> Why Choose the Imtech SeaGuide ECDIS Course?</h2>
         <p>The Imtech SeaGuide ECDIS course is a comprehensive program designed to equip seafarers and maritime professionals with essential navigation skills. Available in Mumbai, India, this course ensures compliance with international maritime standards.</p>
     </section>
 
-    <section class="info-card">
-        <h2 class="info-card-title"><i class="fas fa-list-alt"></i> Course Modules</h2>
-        <div class="modules-grid">
-            <div class="module-element">
-                <h3>Module 1</h3>
-                <p>User Interface</p>
-            </div>
-            <div class="module-element">
-                <h3>Module 2</h3>
-                <p>ECDIS Basic Features</p>
-            </div>
-            <div class="module-element">
-                <h3>Module 3</h3>
-                <p>Sensor Management/Monitoring</p>
-            </div>
-            <div class="module-element">
-                <h3>Module 4</h3>
-                <p>Alert Management</p>
-            </div>
-            <div class="module-element">
-                <h3>Module 5</h3>
-                <p>Chart Management</p>
-            </div>
-            <div class="module-element">
-                <h3>Module 6</h3>
-                <p>Digital Passage Planning</p>
-            </div>
-            <div class="module-element">
-                <h3>Module 7</h3>
-                <p>Voyage Planning</p>
-            </div>
-            <div class="module-element">
-                <h3>Module 8</h3>
-                <p>Voyage Monitoring</p>
-            </div>
-            <div class="module-element">
-                <h3>Module 9</h3>
-                <p>Backup Arrangements, Logs & Data</p>
-            </div>
-            <div class="module-element">
-                <h3>Module 10</h3>
-                <p>Navigational Tools and Functions</p>
-            </div>
-        </div>
-    </section>
+
     
     <div class="module-details-container">
         <section class="module-detail-box">
@@ -171,15 +279,7 @@ include './form.php';
             </div>
         </section>
 
-        <section class="info-card">
-            <h2 class="info-card-title"><i class="fas fa-bullseye"></i> Course Objectives</h2>
-            <ul class="feature-list">
-                <li>Provide a comprehensive understanding of the IMTECH SeaGuide ECDIS system</li>
-                <li>Enhance navigational skills using advanced ECDIS functionalities</li>
-                <li>Ensure compliance with international maritime standards and regulations</li>
-                <li>Promote safety and efficiency in maritime navigation</li>
-            </ul>
-        </section>
+ 
 
         <section class="info-card">
             <h2 class="info-card-title"><i class="fas fa-users"></i>Suitable For</h2>
@@ -307,7 +407,7 @@ include './form.php';
 
     
     <?php
-    include '../footer.php';
+    include './footer.php';
     ?>
 </body>
 </html>

@@ -52,9 +52,9 @@
     <!-- Favicon -->
     <link rel="icon" href="https://ecdisplus.com/logo.png" type="image/png">
     <!-- CSS -->
-    <link rel="stylesheet" href="./maincourses.css">
 
- <link rel="stylesheet" href="./courses.css">
+
+  <link rel="stylesheet" href="./course.css">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
@@ -150,6 +150,7 @@
 <body>
     <?php
     include './navbar.php';
+        include './form.php';
     ?>
     <!-- Banner -->
     <section class="banner-section">
