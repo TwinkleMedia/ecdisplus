@@ -204,7 +204,62 @@ include './form.php';
 </section>
 
 
+<!-- -------------------------next -->
+<section class="course-details-section">
+  <div class="course-details-container">
 
+    <h2 class="course-details-title">Course Details</h2>
+
+    <div class="course-timeline">
+
+      <!-- Top Row -->
+      <div class="timeline-row top">
+        <div class="timeline-item">
+          <span>Timeframe: 16 hours</span>
+        </div>
+
+        <div class="timeline-item">
+          <span>Daily Test Attempts: 10</span>
+        </div>
+
+        <div class="timeline-item highlight">
+          <span>Min % of Progress to Access TestMe: 70%</span>
+        </div>
+
+        <div class="timeline-item">
+          <span>Total Test Time: 1hr 30 minutes</span>
+        </div>
+      </div>
+
+      <!-- Center Line -->
+      <div class="timeline-line"></div>
+
+      <!-- Bottom Row -->
+      <div class="timeline-row bottom">
+        <div class="timeline-item">
+          <span>Course Access: 21 days</span>
+        </div>
+
+        <div class="timeline-item">
+          <span>Language: English</span>
+        </div>
+
+        <div class="timeline-item">
+          <span>Language: English</span>
+        </div>
+
+        <div class="timeline-item">
+          <span>Min % of Passing the TestMe: 70%</span>
+        </div>
+
+        <div class="timeline-item">
+          <span>Certificate: Indefinite</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
 
 
 

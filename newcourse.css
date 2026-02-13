@@ -302,3 +302,104 @@
     margin-top: 30px;
   }
 }
+
+
+/* ------------------next---------- */
+
+.course-details-section {
+  background: #0f3d66;
+  padding: 50px 20px;
+  color: #ffffff;
+}
+
+.course-details-container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.course-details-title {
+  font-size: 22px;
+  margin-bottom: 35px;
+}
+
+/* TIMELINE */
+.course-timeline {
+  position: relative;
+}
+
+/* CENTER LINE */
+.timeline-line {
+  height: 2px;
+  background: rgba(255,255,255,0.4);
+  margin: 30px 0;
+}
+
+/* ROWS */
+.timeline-row {
+  display: grid;
+  gap: 20px;
+}
+
+.timeline-row.top {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.timeline-row.bottom {
+  grid-template-columns: repeat(5, 1fr);
+}
+
+/* ITEMS */
+.timeline-item {
+  text-align: center;
+  font-size: 13.5px;
+  position: relative;
+}
+
+/* CONNECTOR */
+.timeline-item::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  width: 1px;
+  height: 30px;
+  background: rgba(255,255,255,0.4);
+  transform: translateX(-50%);
+}
+
+.timeline-row.bottom .timeline-item::after {
+  display: none;
+}
+
+/* HIGHLIGHT BOX */
+.timeline-item.highlight span {
+  border: 2px solid #4da3ff;
+  padding: 8px 12px;
+  border-radius: 6px;
+  display: inline-block;
+  color: #ffffff;
+}
+
+/* RESPONSIVE */
+@media (max-width: 992px) {
+  .timeline-row.top,
+  .timeline-row.bottom {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .timeline-item::after {
+    display: none;
+  }
+
+  .timeline-line {
+    display: none;
+  }
+}
+
+@media (max-width: 576px) {
+  .timeline-row.top,
+  .timeline-row.bottom {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+}
