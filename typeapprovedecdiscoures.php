@@ -163,11 +163,11 @@ Looking for an <strong>ECDIS course near you</strong>?
 mariners across <strong>India</strong>.
 </p>
 
-<p>
+<!-- <p>
 📍 <strong>Location:</strong> CBD Belapur, Navi Mumbai, Maharashtra<br>
 🎓 <strong>Courses:</strong> Type-Specific ECDIS (JRC, Furuno, Kongsberg, Wartsila & more)<br>
 📜 <strong>Certification:</strong> IMO & STCW Approved
-</p>
+</p> -->
 
            
         </div>
