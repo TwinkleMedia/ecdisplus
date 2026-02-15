@@ -55,7 +55,7 @@
     <!-- CSS -->
 
 
-    <link rel="stylesheet" href="./course.css">
+    <!-- <link rel="stylesheet" href="./course.css"> -->
     <link rel="stylesheet" href="./newcourse.css">
 
     <!-- Font Awesome -->
@@ -147,7 +147,7 @@
 
 </head>
 
-<link rel="stylesheet" href="./maincourses.css">
+<!-- <link rel="stylesheet" href="./maincourses.css"> -->
 
 <body>
     <?php
