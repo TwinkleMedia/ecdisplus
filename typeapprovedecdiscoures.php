@@ -680,7 +680,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -706,7 +706,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./furuno-fea-type.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
