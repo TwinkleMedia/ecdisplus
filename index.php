@@ -314,11 +314,11 @@ header("Pragma: no-cache");
 </section>
 
     <!-- slider courses -->
-    <section class="ecdis-section">
+    <!-- <section class="ecdis-section">
         <h2 class="section-title">ECDIS Training Courses</h2>
 
         <div class="slider-wrapper">
-            <!-- Navigation Arrows -->
+          
             <button class="slider-nav slider-nav-prev" aria-label="Previous">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <polyline points="15 18 9 12 15 6"></polyline>
@@ -333,7 +333,7 @@ header("Pragma: no-cache");
             <div class="slider-container">
                 <div class="slider-track">
 
-                    <!-- Card 1 -->
+              
                     <div class="course-card">
                         <div class="course-image-wrapper">
                             <img src="./assets/img/cq.png" alt="Basic ECDIS Course" class="course-image">
@@ -364,7 +364,7 @@ header("Pragma: no-cache");
                         </div>
                     </div>
 
-                    <!-- Card 2 -->
+                  
                     <div class="course-card">
                         <div class="course-image-wrapper">
                             <img src="./assets/img/c2.png" alt="Advanced ECDIS Course" class="course-image">
@@ -395,7 +395,7 @@ header("Pragma: no-cache");
                         </div>
                     </div>
 
-                    <!-- Card 3 -->
+                  
                     <div class="course-card">
                         <div class="course-image-wrapper">
                             <img src="./assets/img/c3.png" alt="Type Specific Course" class="course-image">
@@ -426,7 +426,7 @@ header("Pragma: no-cache");
                         </div>
                     </div>
 
-                    <!-- Card 4 -->
+           
                     <div class="course-card">
                         <div class="course-image-wrapper">
                             <img src="./assets/img/c4.png" alt="Refresher Course" class="course-image">
@@ -460,7 +460,7 @@ header("Pragma: no-cache");
                 </div>
             </div>
 
-            <!-- Dots Navigation -->
+           
             <div class="slider-dots">
                 <button class="slider-dot active" data-index="0" aria-label="Go to slide 1"></button>
                 <button class="slider-dot" data-index="1" aria-label="Go to slide 2"></button>
@@ -468,7 +468,7 @@ header("Pragma: no-cache");
                 <button class="slider-dot" data-index="3" aria-label="Go to slide 4"></button>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- Why choose us -->
     <section class="why-choose-section">
