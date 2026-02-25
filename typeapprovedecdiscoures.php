@@ -365,7 +365,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-chartpilot.php" class="read-more-btn">Read More</a>
+                            <a href="./w-rtsil-sam-chartpilot.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -394,7 +394,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./w-rtsil-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -420,7 +420,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./tokyo-keiki-ec-8100-8600.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -446,7 +446,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./jrc-ecdis-course-in-navi-mumbai.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -472,12 +472,13 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./jrc-jan-901b-701b-2000.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
                 <!-- Kelvin Hughes Manta Digital -->
-                <div class="course-card" data-mode="online" data-category="other" data-title="Kelvin Hughes Manta Digital"
+                <div class="course-card" data-mode="online" data-category="other"
+                    data-title="Kelvin Hughes Manta Digital"
                     data-description="Advanced ECDIS training for Kelvin Hughes Manta Digital with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
                         <img src="./assets/kalvin.jpeg" alt="Kelvin Hughes Manta Digital" class="course-image"
@@ -498,7 +499,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./kelvin-hughes-manta-digital.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -524,11 +525,11 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./martek-marine-iecdis.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
-                <!-- Martek Marine iECDIS -->
+                <!-- Consilium Selesmar ECDIS -->
                 <div class="course-card" data-mode="online" data-category="other" data-title="Consilium Selesmar ECDIS"
                     data-description="Advanced ECDIS training for Consilium Selesmar ECDIS with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
@@ -550,7 +551,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./consilium-selesmar-ecdis.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -576,7 +577,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./consilium-ecdis-g2.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -602,12 +603,13 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./chartworld-chartbrowser.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
                 <!-- Sperry Marine VisionMaster -->
-                <div class="course-card" data-mode="online" data-category="other" data-title="Sperry Marine VisionMaster"
+                <div class="course-card" data-mode="online" data-category="other"
+                    data-title="Sperry Marine VisionMaster"
                     data-description="Advanced ECDIS training for Sperry Marine VisionMaster with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
                         <img src="./assets/sperry.png" alt="Sperry Marine VisionMaster" class="course-image"
@@ -628,12 +630,13 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./sperry-marine-visionmaster.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
                 <!-- Raytheon Anschütz Synapsis ECDIS -->
-                <div class="course-card" data-mode="online" data-category="other" data-title="Raytheon Anschütz Synapsis ECDIS"
+                <div class="course-card" data-mode="online" data-category="other"
+                    data-title="Raytheon Anschütz Synapsis ECDIS"
                     data-description="Advanced ECDIS training for Raytheon Anschütz Synapsis ECDIS with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
                         <img src="./assets/raytheon.png" alt="Sperry Marine VisionMaster" class="course-image"
@@ -654,12 +657,13 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./raytheon-ansch-tz-synapsis-ecdis.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
                 <!-- Furuno FMD Type Specific ECDIS Training -->
-                <div class="course-card" data-mode="online" data-category="furuno" data-title="Furuno FMD Type Specific ECDIS Training"
+                <div class="course-card" data-mode="online" data-category="furuno"
+                    data-title="Furuno FMD Type Specific ECDIS Training"
                     data-description="Advanced ECDIS training for Furuno FMD Type Specific ECDIS Training with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
                         <img src="./assets/furuno.png" alt="Sperry Marine VisionMaster" class="course-image"
@@ -667,7 +671,8 @@
                     </div>
                     <div class="course-content">
                         <h3 class="course-title">Furuno FMD Type Specific ECDIS Training</h3>
-                        <p class="course-description">Advanced ECDIS training for Furuno FMD Type Specific ECDIS Training with
+                        <p class="course-description">Advanced ECDIS training for Furuno FMD Type Specific ECDIS
+                            Training with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
                             <div class="rating">
@@ -680,12 +685,13 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./furuno-fmd-type-specific-ecdis.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
                 <!-- Furuno FEA Type Specific Training -->
-                <div class="course-card" data-mode="online" data-category="furuno" data-title="Furuno FEA Type Specific Training"
+                <div class="course-card" data-mode="online" data-category="furuno"
+                    data-title="Furuno FEA Type Specific Training"
                     data-description="Advanced ECDIS training for Furuno FEA Type Specific Training with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
                         <img src="./assets/furuno.png" alt="Sperry Marine VisionMaster" class="course-image"
@@ -706,7 +712,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./furuno-fea-type2222.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -732,7 +738,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./kongsberg-ecdis.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -758,12 +764,13 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./navmaster-ecdis.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
-                 <!-- TOTEM PLUS ECDIS Version 3.0 -->
-                <div class="course-card" data-mode="online" data-category="other" data-title="TOTEM PLUS ECDIS Version 3.0"
+                <!-- TOTEM PLUS ECDIS Version 3.0 -->
+                <div class="course-card" data-mode="online" data-category="other"
+                    data-title="TOTEM PLUS ECDIS Version 3.0"
                     data-description="Advanced ECDIS training for TOTEM PLUS ECDIS Version 3.0 with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
                         <img src="./assets/totem.png" alt="TOTEM PLUS ECDIS Version 3.0" class="course-image"
@@ -784,12 +791,13 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./totem-plus-ecdis-version-no-3-0.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
-                 <!-- Danelec Marine DM800 ECDIS G2 -->
-                <div class="course-card" data-mode="online" data-category="other" data-title="Danelec Marine DM800 ECDIS G2"
+                <!-- Danelec Marine DM800 ECDIS G2 -->
+                <div class="course-card" data-mode="online" data-category="other"
+                    data-title="Danelec Marine DM800 ECDIS G2"
                     data-description="Advanced ECDIS training for Danelec Marine DM800 ECDIS G2 with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
                         <img src="./assets/danelec.png" alt="Danelec Marine DM800 ECDIS G2" class="course-image"
@@ -810,12 +818,13 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./danelec-marine-dm800-ecdis-g2.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
-                 <!-- Danelec Marine DM700 ECDIS -->
-                <div class="course-card" data-mode="online" data-category="other" data-title="Danelec Marine DM700 ECDIS"
+                <!-- Danelec Marine DM700 ECDIS -->
+                <div class="course-card" data-mode="online" data-category="other"
+                    data-title="Danelec Marine DM700 ECDIS"
                     data-description="Advanced ECDIS training for Danelec Marine DM800 ECDIS G2 with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
                         <img src="./assets/danelec700.png" alt="Danelec Marine DM700 ECDIS" class="course-image"
@@ -836,11 +845,11 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./danelec-marine-dm700-222.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
-                 <!-- MECys PM3D ECDIS Training -->
+                <!-- MECys PM3D ECDIS Training -->
                 <div class="course-card" data-mode="online" data-category="other" data-title="MECys PM3D ECDIS Training"
                     data-description="Advanced ECDIS training for MECys PM3D ECDIS Training with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
@@ -862,7 +871,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
+                            <a href="./mecys-pm3d-ecdis-trainingLAST.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
