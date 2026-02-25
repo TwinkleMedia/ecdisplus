@@ -257,7 +257,7 @@ $c = $courses[$courseSlug];
                 </p>
             </div>
             <div class="enroll-action">
-                <a href="#" class="enroll-btn">Book Now</a>
+                <a href="./contactus.php" class="enroll-btn">Book Now</a>
             </div>
         </div>
     </section>

@@ -130,44 +130,35 @@
     <?php include './footer.php'; ?>
 
     <script>
-        // Initialize EmailJS with your public key
-        (function () {
-            emailjs.init("HtHlGzizhMtWwua0Z");
-        })();
-
-        // Handle form submission
         document.getElementById('contact-form').addEventListener('submit', function (e) {
             e.preventDefault();
 
-            // Show loading state
-            const submitButton = this.querySelector('button[type="submit"]');
-            submitButton.textContent = 'Sending...';
-            submitButton.disabled = true;
+            const name = document.getElementById('from_name').value;
+            const email = document.getElementById('from_email').value;
+            const phone = document.getElementById('from_phone').value || "N/A";
+            const subject = document.getElementById('subject').value || "N/A";
+            const message = document.getElementById('message').value;
 
-            // Get form data - matching exactly with your template variables
-            const templateParams = {
-                to_name: "Admin", // The recipient's name
-                from_name: document.getElementById('from_name').value,
-                from_email: document.getElementById('from_email').value,
-                from_phone: document.getElementById('from_phone').value,
-                subject: document.getElementById('subject').value,
-                message: document.getElementById('message').value
-            };
+            const whatsappNumber = "917710074143"; // Your WhatsApp number
 
-            // Send email using EmailJS
-            emailjs.send('service_vi53dwj', 'template_l128f7l', templateParams)
-                .then(function (response) {
-                    console.log('SUCCESS!', response.status, response.text);
-                    alert('Message sent successfully!');
-                    document.getElementById('contact-form').reset();
-                }, function (error) {
-                    console.log('FAILED...', error);
-                    alert('Failed to send message. Error: ' + JSON.stringify(error));
-                })
-                .finally(function () {
-                    submitButton.textContent = 'Send Message';
-                    submitButton.disabled = false;
-                });
+            // Safe emojis and clean formatting
+            const whatsappMessage =
+                ` New Contact Form Submission
+
+ Name: ${name}
+ Email: ${email}
+ Phone: ${phone}
+ Subject: ${subject}
+ Message: ${message}`;
+
+            // Encode for URL
+            const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
+
+            // Open WhatsApp
+            window.open(whatsappURL, '_blank');
+
+            // Reset form
+            document.getElementById('contact-form').reset();
         });
     </script>
 </body>
