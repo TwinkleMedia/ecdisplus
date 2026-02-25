@@ -55,7 +55,7 @@
     <!-- CSS -->
 
 
-    <link rel="stylesheet" href="./course.css">
+    <!-- <link rel="stylesheet" href="./course.css"> -->
     <link rel="stylesheet" href="./newcourse.css">
 
     <!-- Font Awesome -->
@@ -147,7 +147,7 @@
 
 </head>
 
-<link rel="stylesheet" href="./maincourses.css">
+<!-- <link rel="stylesheet" href="./maincourses.css"> -->
 
 <body>
     <?php
@@ -685,7 +685,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./furuno-fmd-type-specific-ecdis.php" class="read-more-btn">Read More</a>
+                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -712,7 +712,7 @@
                                     <span class="star" style="color: #DDD;">★</span>
                                 </div>
                             </div>
-                            <a href="./furuno-fea-type2222.php" class="read-more-btn">Read More</a>
+                            <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
                 </div>
