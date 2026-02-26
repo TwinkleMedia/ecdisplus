@@ -7,7 +7,7 @@ if (!isset($courseSlug) || !isset($courses[$courseSlug])) {
     die('Course not found.');
 }
 
-$c = $courses[$courseSlug];    
+$c = $courses[$courseSlug];
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -69,7 +69,9 @@ $c = $courses[$courseSlug];
                     <li>Flexible Learning Options</li>
                     <li>Accredited by Directorate General of Shipping</li>
                 </ul>
-                <a href="./form.php" class="apply-btn">Apply Training</a>
+                <button onclick="openModal('<?= htmlspecialchars($c['title']) ?>')" class="apply-btn" style="border:none;">
+                    Apply Training
+                </button>
             </div>
             <div class="course-logo">
                 <img src="<?= htmlspecialchars($c['logo']) ?>" alt="<?= htmlspecialchars($c['logo_alt']) ?>">
@@ -257,7 +259,9 @@ $c = $courses[$courseSlug];
                 </p>
             </div>
             <div class="enroll-action">
-                <a href="./contactus.php" class="enroll-btn">Book Now</a>
+               <button onclick="openModal('<?= htmlspecialchars($c['title']) ?>')" class="enroll-btn" style="border:none;">
+                    Book Now
+                </button>
             </div>
         </div>
     </section>
