@@ -4,10 +4,10 @@ $courseSlug = 'imtech-seaguide';
 $seo = [
   'description' => 'Join the IMTECH Seaguide course to master ECDIS navigation, ship handling, and maritime safety.',
   'keywords' => 'IMTECH Seaguide, ECDIS course, maritime training, navigation',
-  'canonical' => 'https://yourdomain.com/imtech-seaguide.php',
+  'canonical' => 'https://ecdisplus.com/imtech-seaguide.php',
   'og_title' => 'IMTECH Seaguide Course | ECDIS Training',
   'og_desc' => 'Master ECDIS navigation and maritime safety with IMTECH Seaguide course.',
-  'og_image' => 'https://yourdomain.com/images/imtech-seaguide.jpg',
+  'og_image' => 'https://ecdisplus.com/assets/new-folder/imtech.png',
   'schema_name' => 'IMTECH Seaguide Course',
   'schema_desc' => 'ECDIS navigation training course for maritime professionals.'
 ];
