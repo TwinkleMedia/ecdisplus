@@ -4,7 +4,7 @@ $courses = [
         // Hero
         'title' => 'Imtech SeaGuide ECDIS Course in Mumbai, India',
         'description' => 'The IMTECH SeaGuide training course offers a detailed and practical understanding of the IMTECH SeaGuide ECDIS system. This course is tailored to meet the needs of both novice and experienced mariners, ensuring they are adept at using the IMTECH SeaGuide system for safe and efficient navigation.',
-        'logo' => './assets/New folder/imtech.png',
+        'logo' => './assets/new-folder/imtech.png',
         'logo_alt' => 'Imtech Logo',
         // Modules
         'modules' => [
@@ -76,7 +76,7 @@ $courses = [
         // Hero
         'title' => 'SIMRAD Maris ECDIS900 Course in Mumbai, India',
         'description' => 'The SIMRAD Maris ECDIS900 course offers a detailed and practical understanding of the SIMRAD Maris ECDIS900  system, designed to equip maritime professionals with the skills and knowledge necessary for safe and efficient navigation.',
-        'logo' => './assets/New folder/simrad.png',
+        'logo' => './assets/new-folder/simrad.png',
         'logo_alt' => 'Imtech Logo',
         // Modules
         'modules' => [
@@ -142,7 +142,7 @@ $courses = [
         // Hero
         'title' => 'Simrad E5024 Online Course in Mumbai, India',
         'description' => 'The Simrad E5024 ECDIS system is an IMO type-approved navigation solution designed for SOLAS vessels, including large passenger ships, tankers, and cargo ships subject to the ECDIS Carriage Mandate. The Simrad E5024 ECDIS system includes support for an optional secondary display station, providing complete control of Ethernet-connected Simrad performance modules. These modules include radar, conventional echo sounders, ForwardScan™ sonar, and StructureScan Imaging™, as well as third-party accessories such as FLIR cameras, CCTV, engine sensors, and other digital instrumentation. Simrad® offers high-performance marine electronics, proven to withstand the harshest environments. Any 16-, 19-, or 24-inch Simrad marine monitor can be used for this second station, which operates independently from the E5024 system’s type-approved ECDIS functionality',
-        'logo' => './assets/New folder/simrad.png',
+        'logo' => './assets/new-folder/simrad.png',
         'logo_alt' => 'Imtech Logo',
         // Modules
         'modules' => [
@@ -200,7 +200,7 @@ $courses = [
         // Hero
         'title' => 'Wärtsilä NaviSailor 4000 by Transas type-specific Training Course in Mumbai, India',
         'description' => 'Wärtsilä is a global leader in innovative technologies and lifecycle solutions for the marine and energy markets. We emphasize sustainable technology and services, helping our customers continuously enhance their environmental and economic performance. Wärtsilä has developed a holistic approach to navigation, transforming your ECDIS into a powerful data-handling and decision-support tool. The Wärtsilä Navi-Sailor 4000 ECDIS, equipped with Navi-Planner software, represents our latest, future-proof solution featuring dedicated and certified hardware. Both the software and hardware are designed for seamless connectivity, elevating the ECDIS to a comprehensive Fleet Operation System. In the dual configuration, the ECDIS complies with IMO/SOLAS regulations for paperless navigation. Leverage its advanced digital tools to prepare a fully automated voyage plan! Navigating its vast waters requires precision and expertise, especially with advanced systems like the WARTSILA NAVI-SAILOR 4000 by Transas.',
-        'logo' => './assets/New folder/wartsila.png',
+        'logo' => './assets/new-folder/wartsila.png',
         'logo_alt' => 'Wärtsilä Logo',
         // Modules
         'modules' => [
@@ -272,7 +272,7 @@ $courses = [
         // Hero
         'title' => 'Wärtsilä SAM Electronics CHARTPILOT ECDIS Familiarization Training Course in Mumbai, India',
         'description' => 'Wärtsilä SAM Electronics is a globally recognized systems company with over 100 years of experience, delivering advanced electrical and electronic solutions for passenger vessels and ships of all types. The company provides proven system installations, standardized solutions, and customized retrofit products tailored to specific vessel requirements. As a trusted partner to shipping companies, navies, and shipyards worldwide, Wärtsilä SAM Electronics specializes in turnkey electrical packages and operates as an EPC contractor, offering expert systems integration that helps reduce costs and shorten installation time.',
-        'logo' => './assets/New folder/wartsila.png',
+        'logo' => './assets/new-folder/wartsila.png',
         'logo_alt' => 'Wärtsilä Logo',
         // Modules
         'modules' => [
@@ -332,7 +332,7 @@ $courses = [
         // Hero
         'title' => 'Wärtsilä SAM Electronics ECDISPILOT Platinum Training Course in Mumbai, India',
         'description' => 'This course trains navigators in the practical use of ECDISPILOT to fulfill ECDIS familiarization requirements. It provides comprehensive knowledge and hands-on skills to operate Wärtsilä SAM Electronics ECDIS systems safely and efficiently. Designed for bridge officers responsible for safe navigation, the course supports compliance with SOLAS, STCW, IMO Model Course 1.27, and the ISM Code. With 21 days of simulator access, it enhances watchkeeping competence, improves navigational safety, reduces errors, and ensures regulatory compliance through interactive training and assessment.',
-        'logo' => './assets/New folder/wartsila.png',
+        'logo' => './assets/new-folder/wartsila.png',
         'logo_alt' => 'Wärtsilä Logo',
         // Modules
         'modules' => [
@@ -380,7 +380,7 @@ $courses = [
         // Hero
         'title' => 'Tokyo Keiki EC-8100/8600 ECDIS Training Course in Mumbai, India',
         'description' => 'The Tokyo Keiki EC-8100/8600 type-specific training course provides officers with the system knowledge required to use this ECDIS for watchkeeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls of the ECDIS Tokyo Keiki EC-8100/8600. A course booking provides you with a three-week time frame to complete the course, repeating Modules where necessary, and to use the “FreePlay” Mode, which allows you to practice freely on the manufacturer’s original, type-approved, software. The courseware includes a final test of no more than 1-hour duration, which can also be repeated, leading to an individual certificate.',
-        'logo' => './assets/New folder/tokyo-keiki.png',
+        'logo' => './assets/new-folder/tokyo-keiki.png',
         'logo_alt' => 'Tokyo Keiki Logo',
         // Modules
         'modules' => [
@@ -441,7 +441,7 @@ $courses = [
         // Hero
         'title' => 'JRC ECDIS Course in Navi Mumbai, India',
         'description' => 'ECDISPLUS Training Solutions offers type-specific JRC JAN ECDIS training in Navi Mumbai for Deck Officers, OOW, Chief Mate and Masters.Our JRC ECDIS course in CBD Belapur is fully compliant with IMO & STCW regulations and includes hands-on simulator practice with globally recognized certification.',
-        'logo' => './assets/New folder/jrc.png',
+        'logo' => './assets/new-folder/jrc.png',
         'logo_alt' => 'JRC Logo',
         // Modules
         'modules' => [
@@ -518,7 +518,7 @@ $courses = [
         // Hero
         'title' => 'ECDIS Type specific training Course on JRC JAN 901B/701B/2000 (Online)',
         'description' => 'The JAN-901B ECDIS system is available in both stand-alone and desktop versions, offering flexible installation options for different vessel types. Designed for ergonomic efficiency, it provides continuous position tracking and essential navigational safety information to support reliable maritime operations. The system features advanced route planning capabilities, allowing mariners to create and edit routes using a table editor or by graphically plotting waypoints directly on the chart. Routes can be easily saved and imported, including files from previous ECDIS models in CSV format, ensuring seamless integration and operational convenience.',
-        'logo' => './assets/New folder/jrc.png',
+        'logo' => './assets/new-folder/jrc.png',
         'logo_alt' => 'JRC Logo',
         // Modules
         'modules' => [
@@ -602,7 +602,7 @@ $courses = [
         // Hero
         'title' => 'Kelvin Hughes Manta Digital Course in Mumbai, India',
         'description' => 'The Kelvin Hughes Manta Digital course offers a detailed and practical understanding of the Kelvin Hughes Manta Digital ECDIS system. This course is tailored to meet the needs of both novice and experienced mariners, ensuring they are adept at using the Kelvin Hughes Manta Digital system for safe and efficient navigation.',
-        'logo' => './assets/New folder/kelvin-hughes.png',
+        'logo' => './assets/new-folder/kelvin-hughes.png',
         'logo_alt' => 'Kelvin Hughes Logo',
         // Modules
         'modules' => [
@@ -662,7 +662,7 @@ $courses = [
         // Hero
         'title' => 'Martek Marine iECDIS Course in Mumbai, India',
         'description' => 'The IMTECH SeaGuide training course offers a detailed and practical understanding of the IMTECH SeaGuide ECDIS system. This course is tailored to meet the needs of both novice and experienced mariners, ensuring they are adept at using the IMTECH SeaGuide system for safe and efficient navigation.',
-        'logo' => './assets/New folder/martek.png',
+        'logo' => './assets/new-folder/martek.png',
         'logo_alt' => 'martek Logo',
         // Modules
         'modules' => [
@@ -714,7 +714,7 @@ $courses = [
         // Hero
         'title' => 'Consilium Selesmar ECDIS Course in Mumbai, India',
         'description' => 'The Consilium ECDIS type-specific training course provides officers with the system knowledge required to use this ECDIS for watchkeeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls of the Consilium ECDIS. A course booking provides you with a three-week time frame to complete the course, repeating Modules where necessary, and to use the “FreePlay” Mode, which allows you to practice freely on the manufacturer’s original, type-approved, software. The courseware includes a final test of no more than 1-hour duration, which can also be repeated, leading to an individual certificate.',
-        'logo' => './assets/New folder/consilium.png',
+        'logo' => './assets/new-folder/consilium.png',
         'logo_alt' => 'Consilium Logo',
         // Modules
         'modules' => [
@@ -765,7 +765,7 @@ $courses = [
         // Hero
         'title' => 'Consilium ECDIS G2 Course in Mumbai, India',
         'description' => 'The Consilium ECDIS G2 type-specific training course provides officers with the system knowledge required to use this ECDIS for watchkeeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MCA MIN-503(M) for the functions and controls of the Consilium ECDIS G2. A course booking provides you with a three-week time frame to complete the course, repeating Modules where necessary, and to use the “FreePlay” Mode, which allows you to practice freely on the manufacturer’s original, type-approved, software. The courseware includes a final test of no more than 1-hour duration, which can also be repeated, leading to an individual certificate.',
-        'logo' => './assets/New folder/consilium.png',
+        'logo' => './assets/new-folder/consilium.png',
         'logo_alt' => 'Consilium Logo',
         // Modules
         'modules' => [
@@ -816,7 +816,7 @@ $courses = [
         // Hero
         'title' => 'ChartBrowser by ChartWorld Course in Mumbai, India',
         'description' => 'TChartBrowser is a versatile application offering a catalogue of custom digital charts. It enables users to import, calculate, or manually create routes, select charts based on these routes, manage existing chart inventories, and create basket files for ordering selected products directly from ChartWorld. Orders can be executed online via email, straight from your vessel. This data can then be exported for use in ECDIS/ECS systems. Additionally, the digital chart catalogue can be automatically updated using the ChartWorld update service. ChartBrowser is a complimentary onboard solution that supports all official ENC formats from UKHO, Primer, and IC-ENC, as well as the ACES (S)ENC format for eGlobe, S-ECDIS, and Imtech ECDIS. Since it can be used with any ECDIS model on the market, it is particularly beneficial for shipping companies operating fleets with multiple ECDIS manufacturers, as noted by the supplier.',
-        'logo' => './assets/New folder/chartworld.png',
+        'logo' => './assets/new-folder/chartworld.png',
         'logo_alt' => 'ChartWorld Logo',
         // Modules
         'modules' => [
@@ -879,7 +879,7 @@ $courses = [
         // Hero
         'title' => 'Sperry Marine VisionMaster Course in Mumbai, India',
         'description' => 'The NG Sperry Marine VisionMaster type-specific training course provides officers with the system knowledge required to use this ECDIS for watchkeeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls of the ECDIS NG Sperry Marine VisionMaster. A course booking provides you with a three-week time frame to complete the course, repeating Modules where necessary, and to use the “FreePlay” Mode, which allows you to practice freely on the manufacturer’s original, type-approved, software. The courseware includes a final test of no more than 1-hour duration, which can also be repeated, leading to an individual certificate.',
-        'logo' => './assets/New folder/sperry.png',
+        'logo' => './assets/new-folder/sperry.png',
         'logo_alt' => 'Sperry Marine Logo',
         // Modules
         'modules' => [
@@ -942,7 +942,7 @@ $courses = [
         // Hero
         'title' => 'Raytheon Anschütz Synapsis ECDIS Course in Mumbai, India',
         'description' => 'The Raytheon Anschütz Synapsis ECDIS type-specific training course provides officers with the system knowledge required to use this ECDIS for watchkeeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls of the Raytheon Anschütz Synapsis ECDIS. A course booking provides you with a three-week time frame to complete the course, repeating Modules where necessary, and to use the “FreePlay” Mode, which allows you to practice freely on the manufacturer’s original, type-approved, software. The courseware includes a final test of no more than 1-hour duration, which can also be repeated, leading to an individual certificate.',
-        'logo' => './assets/New folder/raytheon.png',
+        'logo' => './assets/new-folder/raytheon.png',
         'logo_alt' => 'Raytheon Logo',
         // Modules
         'modules' => [
@@ -1005,7 +1005,7 @@ $courses = [
         // Hero
         'title' => 'FURUNO Computer Based Type specific ECDIS Training Online Course for the FMD 3100, 3200, and 3300 Course in Mumbai, India',
         'description' => 'FURUNO Maritime Training is an approved training center authorized by the Danish Maritime Authority, providing maker-approved type-specific certification for the Furuno ECDIS FMD-3100/3200/3300 Series. The course, available online or in a two-day classroom format, covers display setup, safety settings, route planning and monitoring, backup procedures, chart and license updates, and software management. Designed for navigators operating or planning to operate Furuno ECDIS systems, the training ensures regulatory compliance while enhancing practical skills for safe and efficient vessel navigation.',
-        'logo' => './assets/New folder/furuno.png',
+        'logo' => './assets/new-folder/furuno.png',
         'logo_alt' => 'Furuno Logo',
         // Modules
         'modules' => [
@@ -1060,7 +1060,7 @@ $courses = [
         // Hero
         'title' => 'FURUNO FEA-2107/2807 ECDIS Course in Mumbai, India',
         'description' => 'Furuno Electric Co., Ltd. offers maker-approved type-specific online training for the Furuno FEA-2107/2807 ECDIS Series through its NavSkills Online platform. Designed for officers in charge of a navigational watch, the course provides comprehensive theoretical and practical knowledge on system operation, menu functions, chart setup and updates, and route planning and monitoring. Equivalent to classroom certification and compliant with regulatory requirements, the 16-hour flexible program allows mariners to train anytime while gaining the skills and confidence needed for safe and efficient vessel navigation.',
-        'logo' => './assets/New folder/furuno.png',
+        'logo' => './assets/new-folder/furuno.png',
         'logo_alt' => 'FURUNO Logo',
         // Modules
         'modules' => [
@@ -1133,7 +1133,7 @@ $courses = [
         // Hero
         'title' => 'Kongsberg ECDIS Course in Mumbai, India',
         'description' => 'The Kongsberg K-Bridge ECDIS and K-Nav ECDIS type-specific training course provides officers with the system knowledge required to use this ECDIS for watch-keeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls. The online type-specific ECDIS training course will provide you with knowledge of the functionality and effective use of the KongsbergECDIS. The course covers a period of 2 days (equal to 16 hours) and is conducted in accordance with Regulation I/14 of the IMO STCW 1978 Convention as amended, in recognition of the provisions in Table A-II/1-3 of the STCW Code and sections 6.3 & 6.5 of the IMO ISM Code.',
-        'logo' => './assets/New folder/kongsberg.png',
+        'logo' => './assets/new-folder/kongsberg.png',
         'logo_alt' => 'Kongsberg Logo',
         // Modules
         'modules' => [
@@ -1208,7 +1208,7 @@ $courses = [
         // Hero
         'title' => 'Navmaster ECDIS: Stay Ahead of the Curve with Cutting-Edge Technology',
         'description' => 'Navigate with confidence using Navmaster ECDIS—a cutting-edge system designed for full regulatory compliance and superior chart visualization. Stay ahead with support for the latest IEC 61174 Edt. 4 and IHO Presentation Library Edt 4.0, while reducing alarm fatigue and improving situational awareness through intelligent symbology and streamlined data. Enhance safety with integrated features like BNWAS, VDR, and Navtex, and plan routes efficiently with hazard verification and personalized workflows. Complete a comprehensive 2-day training course and receive industry-recognized certification. Upgrade to Navmaster ECDIS for safer, smarter, and more efficient maritime operations.',
-        'logo' => './assets/New folder/navmaster.png',
+        'logo' => './assets/new-folder/navmaster.png',
         'logo_alt' => 'Navmaster Logo',
         // Modules
         'modules' => [
@@ -1262,7 +1262,7 @@ $courses = [
         // Hero
         'title' => 'TOTEM PLUS Type Specific ECDIS Training course ECDIS VERSION NO. 3.0 Course in Mumbai, India',
         'description' => 'The Totem Plus ECDIS is a rugged, type-approved marine workstation designed for safe navigation in harsh maritime environments. Featuring a high-resolution monitor and seamless integration with shipboard navigational systems, it provides advanced functions including a unique Decision Support Tool (DST) for collision avoidance, fully compliant with COLREGS. Automated calculations and continuous target updates enhance situational awareness, while online CBT and type-specific training ensure officers are fully equipped to operate the system safely. Comprehensive instructional materials, including videos and a detailed booklet, guide setup, operation, and troubleshooting.',
-        'logo' => './assets/New folder/totem.png',
+        'logo' => './assets/new-folder/totem.png',
         'logo_alt' => 'Totem Logo',
         // Modules
         'modules' => [
@@ -1336,7 +1336,7 @@ $courses = [
         // Hero
         'title' => 'DANELEC MARINE DM800 ECDIS G2 Course in Mumbai, India',
         'description' => 'The Danelec Marine DM800 ECDIS G2 Type Specific ECDIS Training course provides officers with the system knowledge required to use this ECDIS for watch-keeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls. The online type-specific ECDIS training course will provide you with knowledge of the functionality and effective use of the Danelec MarineECDIS Training. The course covers a period of 2 days (equal to 16 hours) and is conducted in accordance with Regulation I/14 of the IMO STCW 1978 Convention as amended, in recognition of the provisions in Table A-II/1-3 of the STCW Code and sections 6.3 & 6.5 of the IMO ISM Code.',
-        'logo' => './assets/New folder/Danelec.png',
+        'logo' => './assets/new-folder/Danelec.png',
         'logo_alt' => 'Danelec Logo',
         // Modules
         'modules' => [
@@ -1407,7 +1407,7 @@ $courses = [
         // Hero
         'title' => 'DANELEC MARINE DM700 ECDIS Course in Mumbai, India',
         'description' => 'The Danelec Marine DM700 ECDIS G2 Type Specific ECDIS Training course provides officers with the system knowledge required to use this ECDIS for watch-keeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls. The online type-specific ECDIS training course will provide you with knowledge of the functionality and effective use of the Danelec MarineECDIS Training. The course covers a period of 2 days (equal to 16 hours) and is conducted in accordance with Regulation I/14 of the IMO STCW 1978 Convention as amended, in recognition of the provisions in Table A-II/1-3 of the STCW Code and sections 6.3 & 6.5 of the IMO ISM Code. The online type-specific ECDIS training course will provide you with knowledge of the functionality and effective use of theDanelec MarineECDIS Training. TheDanelec ECDIS Trainingis in compliance with STCW 1978/2010 Manila as amended, Section A-II/1, A-II/2, A-II/3 and IMO ISM Code 6.3 and 6.5.',
-        'logo' => './assets/New folder/Danelec.png',
+        'logo' => './assets/new-folder/Danelec.png',
         'logo_alt' => 'Danelec Logo',
         // Modules
         'modules' => [
@@ -1478,7 +1478,7 @@ $courses = [
         // Hero
         'title' => 'DANELEC MARINE DM700 ECDIS Course in Mumbai, India',
         'description' => 'The PM3D Type Specific ECDIS Training course provides officers with the system knowledge required to use this ECDIS for watch-keeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls. The online type-specific ECDIS training course will provide you with knowledge of the functionality and effective use of thePM3D ECDIS Training. The course covers a period of 2 days (equal to 16 hours) and is conducted in accordance with Regulation I/14 of the IMO STCW 1978 Convention as amended, in recognition of the provisions in Table A-II/1-3 of the STCW Code and sections 6.3 & 6.5 of the IMO ISM Code. The online type-specific ECDIS training course will provide you with knowledge of the functionality and effective use of thePM3D ECDIS Training. ThePM3D ECDIS Trainingis in compliance with STCW 1978/2010 Manila as amended, Section A-II/1, A-II/2, A-II/3 and IMO ISM Code 6.3 and 6.5.',
-        'logo' => './assets/New folder/MECys.png',
+        'logo' => './assets/new-folder/MECys.png',
         'logo_alt' => 'MECys Logo',
         // Modules
         'modules' => [

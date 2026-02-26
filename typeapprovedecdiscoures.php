@@ -236,7 +236,7 @@
                 <div class="course-card" data-mode="both" data-category="imtech" data-title="IMTECH SeaGuide"
                     data-description="Learn how to use IMTECH SeaGuide ECDIS systems with comprehensive training on navigation, route planning, and system operations.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/imtech.png" alt="IMTECH SeaGuide" class="course-image"
+                        <img src="./assets/new-folder/imtech.png" alt="IMTECH SeaGuide" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2220%22 fill=%22white%22%3EIMTECH%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -263,7 +263,7 @@
                 <div class="course-card" data-mode="offline" data-category="simrad" data-title="SIMRAD Maris ECDIS900"
                     data-description="Master the SIMRAD Maris ECDIS900 with our type-specific training covering all essential operations and advanced features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/simrad.png" alt="SIMRAD Maris ECDIS900" class="course-image"
+                        <img src="./assets/new-folder/simrad.png" alt="SIMRAD Maris ECDIS900" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%23E63946%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2220%22 fill=%22white%22%3ESIMRAD%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -291,7 +291,7 @@
                     data-title="Simrad E5024 Online Course"
                     data-description="Complete online training for the Simrad E5024 ECDIS, covering navigation safety and efficient route planning techniques.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/simrad.png" alt="Simrad E5024" class="course-image"
+                        <img src="./assets/new-folder/simrad.png" alt="Simrad E5024" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%23E63946%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2220%22 fill=%22white%22%3ESIMRAD%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -319,7 +319,7 @@
                     data-title="Wartsila Navi-Sailor 4000 by Transas"
                     data-description="Comprehensive ECDIS training for Wartsila Navi-Sailor 4000 systems with hands-on simulation and practical exercises.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/wartsila.png" alt="Wartsila Navi-Sailor 4000" class="course-image"
+                        <img src="./assets/new-folder/wartsila.png" alt="Wartsila Navi-Sailor 4000" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -347,7 +347,7 @@
                     data-title="Wärtsilä SAM CHARTPILOT"
                     data-description="Type-specific training for Wärtsilä SAM ChartPilot ECDIS covering navigation operations and safety procedures.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/wartsila.png" alt="Wärtsilä SAM ChartPilot" class="course-image"
+                        <img src="./assets/new-folder/wartsila.png" alt="Wärtsilä SAM ChartPilot" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -375,7 +375,7 @@
                     data-title="Wärtsilä SAM ECDISPILOT Platinum"
                     data-description="Advanced ECDIS training for Wärtsilä SAM ECDISPILOT Platinum with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/wartsila.png" alt="Wärtsilä SAM ECDISPILOT Platinum"
+                        <img src="./assets/new-folder/wartsila.png" alt="Wärtsilä SAM ECDISPILOT Platinum"
                             class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
@@ -402,8 +402,9 @@
                 <div class="course-card" data-mode="online" data-category="Tokyo" data-title="Tokyo Keiki EC-8100/8600"
                     data-description="Advanced ECDIS training for Tokyo Keiki EC-8100/8600 with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/tokyo-keiki.png" alt="Tokyo Keiki EC-8100/8600" class="course-image"
-                            onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%2２%3ETOKYO KEIKI %3C/text % 3E %  /svg %  >'">
+                        <img src="./assets/new-folder/tokyo-keiki.png" alt="Tokyo Keiki EC-8100/8600"
+                            class="course-image"
+                            onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3ETOKYO%20KEIKI%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
                         <h3 class="course-title">Tokyo Keiki EC-8100/8600</h3>
@@ -428,7 +429,8 @@
                 <div class="course-card" data-mode="online" data-category="jrc" data-title="jrcjan"
                     data-description="Advanced ECDIS training for ECDIS JRC JAN 9201/7201 with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/jrc.png" alt="Wärtsilä SAM ECDISPILOT Platinum" class="course-image"
+                        <img src="./assets/new-folder/jrc.png" alt="Wärtsilä SAM ECDISPILOT Platinum"
+                            class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -454,7 +456,8 @@
                 <div class="course-card" data-mode="online" data-category="jrc" data-title="jrcjan"
                     data-description="Advanced ECDIS training for JRC JAN 901B/701B/2000 with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/jrc.png" alt="Wärtsilä SAM ECDISPILOT Platinum" class="course-image"
+                        <img src="./assets/new-folder/jrc.png" alt="Wärtsilä SAM ECDISPILOT Platinum"
+                            class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -481,7 +484,8 @@
                     data-title="Kelvin Hughes Manta Digital"
                     data-description="Advanced ECDIS training for Kelvin Hughes Manta Digital with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/kelvin-hughes.jpeg" alt="Kelvin Hughes Manta Digital" class="course-image"
+                        <img src="./assets/new-folder/kelvin-hughes.png" alt="Kelvin Hughes Manta Digital"
+                            class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -507,7 +511,7 @@
                 <div class="course-card" data-mode="online" data-category="other" data-title="Martek Marine iECDIS"
                     data-description="Advanced ECDIS training for Martek Marine iECDIS with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/martek.png" alt="Martek Marine iECDIS" class="course-image"
+                        <img src="./assets/new-folder/martek.png" alt="Martek Marine iECDIS" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -533,7 +537,7 @@
                 <div class="course-card" data-mode="online" data-category="other" data-title="Consilium Selesmar ECDIS"
                     data-description="Advanced ECDIS training for Consilium Selesmar ECDIS with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/consilium.png" alt="Martek Marine iECDIS" class="course-image"
+                        <img src="./assets/new-folder/consilium.png" alt="Martek Marine iECDIS" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -559,7 +563,7 @@
                 <div class="course-card" data-mode="online" data-category="other" data-title="Consilium ECDIS G2"
                     data-description="Advanced ECDIS training for Consilium ECDIS G2 with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/consilium.png" alt="Consilium ECDIS G2" class="course-image"
+                        <img src="./assets/new-folder/consilium.png" alt="Consilium ECDIS G2" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -585,7 +589,7 @@
                 <div class="course-card" data-mode="online" data-category="other" data-title="ChartWorld ChartBrowser"
                     data-description="Advanced ECDIS training for ChartWorld ChartBrowser with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/chartworld.png" alt="Consilium ECDIS G2" class="course-image"
+                        <img src="./assets/new-folder/chartworld.png" alt="Consilium ECDIS G2" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -612,7 +616,7 @@
                     data-title="Sperry Marine VisionMaster"
                     data-description="Advanced ECDIS training for Sperry Marine VisionMaster with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/sperry.png" alt="Sperry Marine VisionMaster" class="course-image"
+                        <img src="./assets/new-folder/sperry.png" alt="Sperry Marine VisionMaster" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -639,7 +643,8 @@
                     data-title="Raytheon Anschütz Synapsis ECDIS"
                     data-description="Advanced ECDIS training for Raytheon Anschütz Synapsis ECDIS with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/raytheon.png" alt="Sperry Marine VisionMaster" class="course-image"
+                        <img src="./assets/new-folder/raytheon.png" alt="Sperry Marine VisionMaster"
+                            class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -666,7 +671,7 @@
                     data-title="Furuno FMD Type Specific ECDIS Training"
                     data-description="Advanced ECDIS training for Furuno FMD Type Specific ECDIS Training with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/furuno.png" alt="Sperry Marine VisionMaster" class="course-image"
+                        <img src="./assets/new-folder/furuno.png" alt="Sperry Marine VisionMaster" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -694,7 +699,7 @@
                     data-title="Furuno FEA Type Specific Training"
                     data-description="Advanced ECDIS training for Furuno FEA Type Specific Training with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/furuno.png" alt="Sperry Marine VisionMaster" class="course-image"
+                        <img src="./assets/new-folder/furuno.png" alt="Sperry Marine VisionMaster" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -720,7 +725,7 @@
                 <div class="course-card" data-mode="online" data-category="other" data-title="Kongsberg ECDIS"
                     data-description="Advanced ECDIS training for Kongsberg ECDIS with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/kongsberg.png" alt="Kongsberg ECDIS" class="course-image"
+                        <img src="./assets/new-folder/kongsberg.png" alt="Kongsberg ECDIS" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -746,7 +751,7 @@
                 <div class="course-card" data-mode="online" data-category="other" data-title="NAVMASTER ECDIS"
                     data-description="Advanced ECDIS training for NAVMASTER ECDIS with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/navmaster.png" alt="NAVMASTER ECDIS" class="course-image"
+                        <img src="./assets/new-folder/navmaster.png" alt="NAVMASTER ECDIS" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -773,7 +778,7 @@
                     data-title="TOTEM PLUS ECDIS Version 3.0"
                     data-description="Advanced ECDIS training for TOTEM PLUS ECDIS Version 3.0 with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/totem.png" alt="TOTEM PLUS ECDIS Version 3.0" class="course-image"
+                        <img src="./assets/new-folder/totem.png" alt="TOTEM PLUS ECDIS Version 3.0" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -800,7 +805,8 @@
                     data-title="Danelec Marine DM800 ECDIS G2"
                     data-description="Advanced ECDIS training for Danelec Marine DM800 ECDIS G2 with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/Danelec.png" alt="Danelec Marine DM800 ECDIS G2" class="course-image"
+                        <img src="./assets/new-folder/Danelec.png" alt="Danelec Marine DM800 ECDIS G2"
+                            class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -827,7 +833,7 @@
                     data-title="Danelec Marine DM700 ECDIS"
                     data-description="Advanced ECDIS training for Danelec Marine DM800 ECDIS G2 with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/Danelec.png" alt="Danelec Marine DM700 ECDIS" class="course-image"
+                        <img src="./assets/new-folder/Danelec.png" alt="Danelec Marine DM700 ECDIS" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -853,7 +859,7 @@
                 <div class="course-card" data-mode="online" data-category="other" data-title="MECys PM3D ECDIS Training"
                     data-description="Advanced ECDIS training for MECys PM3D ECDIS Training with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/New Folder/MECys.png" alt="MECys PM3D ECDIS Training" class="course-image"
+                        <img src="./assets/new-folder/MECys.png" alt="MECys PM3D ECDIS Training" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
