@@ -90,7 +90,7 @@ $c = $courses[$courseSlug];
                         <h4>
                             <?= htmlspecialchars($mod['title']) ?>
                         </h4>
-                        <img src="./assets/New folder/<?= htmlspecialchars($mod['img']) ?>" alt="">
+                        <img src="./assets/new-folder/<?= htmlspecialchars($mod['img']) ?>" alt="">
                     </div>
                 <?php endforeach; ?>
             </div>
