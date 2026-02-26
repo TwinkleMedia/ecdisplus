@@ -1336,7 +1336,7 @@ $courses = [
         // Hero
         'title' => 'DANELEC MARINE DM800 ECDIS G2 Course in Mumbai, India',
         'description' => 'The Danelec Marine DM800 ECDIS G2 Type Specific ECDIS Training course provides officers with the system knowledge required to use this ECDIS for watch-keeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls. The online type-specific ECDIS training course will provide you with knowledge of the functionality and effective use of the Danelec MarineECDIS Training. The course covers a period of 2 days (equal to 16 hours) and is conducted in accordance with Regulation I/14 of the IMO STCW 1978 Convention as amended, in recognition of the provisions in Table A-II/1-3 of the STCW Code and sections 6.3 & 6.5 of the IMO ISM Code.',
-        'logo' => './assets/new-folder/Danelec.png',
+        'logo' => './assets/new-folder/danelec.png',
         'logo_alt' => 'Danelec Logo',
         // Modules
         'modules' => [
@@ -1407,7 +1407,7 @@ $courses = [
         // Hero
         'title' => 'DANELEC MARINE DM700 ECDIS Course in Mumbai, India',
         'description' => 'The Danelec Marine DM700 ECDIS G2 Type Specific ECDIS Training course provides officers with the system knowledge required to use this ECDIS for watch-keeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls. The online type-specific ECDIS training course will provide you with knowledge of the functionality and effective use of the Danelec MarineECDIS Training. The course covers a period of 2 days (equal to 16 hours) and is conducted in accordance with Regulation I/14 of the IMO STCW 1978 Convention as amended, in recognition of the provisions in Table A-II/1-3 of the STCW Code and sections 6.3 & 6.5 of the IMO ISM Code. The online type-specific ECDIS training course will provide you with knowledge of the functionality and effective use of theDanelec MarineECDIS Training. TheDanelec ECDIS Trainingis in compliance with STCW 1978/2010 Manila as amended, Section A-II/1, A-II/2, A-II/3 and IMO ISM Code 6.3 and 6.5.',
-        'logo' => './assets/new-folder/Danelec.png',
+        'logo' => './assets/new-folder/danelec.png',
         'logo_alt' => 'Danelec Logo',
         // Modules
         'modules' => [
@@ -1478,7 +1478,7 @@ $courses = [
         // Hero
         'title' => 'DANELEC MARINE DM700 ECDIS Course in Mumbai, India',
         'description' => 'The PM3D Type Specific ECDIS Training course provides officers with the system knowledge required to use this ECDIS for watch-keeping in accordance with the regulations of STCW and the ISM Code. The guided tutorial, with a duration of approx. 16 hours, covers the equipment familiarisation requirements of IMO Model Course 1.27 and MCA MIN-503(M) for the functions and controls. The online type-specific ECDIS training course will provide you with knowledge of the functionality and effective use of thePM3D ECDIS Training. The course covers a period of 2 days (equal to 16 hours) and is conducted in accordance with Regulation I/14 of the IMO STCW 1978 Convention as amended, in recognition of the provisions in Table A-II/1-3 of the STCW Code and sections 6.3 & 6.5 of the IMO ISM Code. The online type-specific ECDIS training course will provide you with knowledge of the functionality and effective use of thePM3D ECDIS Training. ThePM3D ECDIS Trainingis in compliance with STCW 1978/2010 Manila as amended, Section A-II/1, A-II/2, A-II/3 and IMO ISM Code 6.3 and 6.5.',
-        'logo' => './assets/new-folder/MECys.png',
+        'logo' => './assets/new-folder/mecys.png',
         'logo_alt' => 'MECys Logo',
         // Modules
         'modules' => [
