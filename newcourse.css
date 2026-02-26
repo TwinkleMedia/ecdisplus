@@ -197,12 +197,6 @@
   justify-self: center;
 }
 
-/* HIGHLIGHT CARD */
-.module-card.highlight {
-  background: linear-gradient(135deg, #e9f3ff, #cfe6ff);
-  border: 1.5px solid #0a66ff;
-}
-
 /* RESPONSIVE */
 @media (max-width: 992px) {
   .modules-grid {
@@ -618,10 +612,6 @@
   margin: 0;
 }
 
-.learning-card.highlight {
-  background: #eaf3ff;
-  border-color: #0a66ff;
-}
 
 /* EQUIPMENT */
 .equipment-grid {
