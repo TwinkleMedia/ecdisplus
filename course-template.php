@@ -111,7 +111,7 @@ $c = $courses[$courseSlug];
                 </ul>
             </div>
             <div class="objectives-image">
-                <img src="./assets/New folder/course-objectives.png" alt="Course Objectives">
+                <img src="./assets/new-folder/course-objectives.png" alt="Course Objectives">
             </div>
         </div>
     </section>
