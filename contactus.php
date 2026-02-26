@@ -42,7 +42,8 @@
     =========================== -->
     <link rel="stylesheet" href="./contactus.css">
     <link rel="stylesheet" href="./blogbanner.css">
-
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.png">
     <!-- ==========================
          EMAILJS CDN
     =========================== -->

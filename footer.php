@@ -38,7 +38,7 @@
         .call-buton .cc-calto-action-ripple {
             z-index: 99999;
             position: fixed;
-            right: 1rem;
+            right: 2rem;
             bottom: 8rem;
             background: #ec8b00;
             width: 4rem;
@@ -420,7 +420,7 @@
 
 
         <div class="footers-bottom">
-            <p>&copy; 2025 Your Company. All rights reserved.</p>
+            <p>&copy; 2025 EcdisPlus. All rights reserved.</p>
         </div>
     </footer>
     <!-- Replace the existing call-buton and float sections with this -->

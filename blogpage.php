@@ -1,29 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Blog Page</title>
-   <link rel="stylesheet" href="./blogbanner.css">
+    <link rel="stylesheet" href="./blogbanner.css">
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.png">
 </head>
+
 <body>
     <?php
     include "./navbar.php";
 
     ?>
-      <div class="blog-banner">
+    <div class="blog-banner">
         <div class="banner-content">
-            <h1 class="banner-title">Welcome to Our Blog</h1>
-            <p class="banner-subtitle">Discover insightful articles, expert tips, and the latest trends in our carefully curated collection of blog posts.</p>
-            <a href="#" class="banner-button">Start Reading</a>
+            <h1 class="banner-title">Let’s Explore Together</h1>
+            
         </div>
     </div>
-    <?php 
+    <?php
     include './blog.php';
     ?>
-    <?php 
+    <?php
     include './footer.php';
     ?>
 
 </body>
+
 </html>

@@ -60,6 +60,8 @@
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.png">
 
     <!-- Schema Markup (Rich Results) -->
     <script type="application/ld+json">
@@ -158,13 +160,7 @@
     <section class="banner-section">
         <div class="banner-content">
 
-            <h1 class="banner-title">Our Type Approved Ecdis Courses</h1>
-            <p>
-                Looking for an <strong>ECDIS course near you</strong>?
-                <strong>ECDISPLUS Training Solutions</strong> is a leading
-                <strong>ECDIS training institute in Navi Mumbai</strong>, serving
-                mariners across <strong>India</strong>.
-            </p>
+
 
             <!-- <p>
 📍 <strong>Location:</strong> CBD Belapur, Navi Mumbai, Maharashtra<br>

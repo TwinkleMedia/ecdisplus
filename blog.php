@@ -41,7 +41,8 @@
     =========================== -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="./blog.css">
-
+  <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.png">
     <!-- ==========================
          STRUCTURED DATA (BLOGPOST SCHEMA)
     =========================== -->
@@ -109,7 +110,7 @@
                     <h3 class="blog-title">E-navigation is a new way of Navigation</h3>
                     <p class="blog-excerpt">E-navigation is the most coordinated gathering, integration, sharing,
                         display, and analysis of maritime...</p>
-                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                    <a href="bloginfo.php?id=1" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
                 </div>
             </article>
 
@@ -123,7 +124,7 @@
                     <h3 class="blog-title">Generic and Types of ECDIS Differences</h3>
                     <p class="blog-excerpt">Much like all the other the new technologies in the maritime industry ECDIS
                         also requires formal training...</p>
-                    <a href="#" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                    <a href="bloginfo.php?id=2" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
                 </div>
             </article>
 

@@ -46,6 +46,8 @@ $c = $courses[$courseSlug];
     <link rel="stylesheet" href="./course.css">
     <link rel="stylesheet" href="./navbar.css">
     <link rel="stylesheet" href="./newcourse.css">
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.png">
 </head>
 
 <body>
@@ -69,7 +71,8 @@ $c = $courses[$courseSlug];
                     <li>Flexible Learning Options</li>
                     <li>Accredited by Directorate General of Shipping</li>
                 </ul>
-                <button onclick="openModal('<?= htmlspecialchars($c['title']) ?>')" class="apply-btn" style="border:none;">
+                <button onclick="openModal('<?= htmlspecialchars($c['title']) ?>')" class="apply-btn"
+                    style="border:none;">
                     Apply Training
                 </button>
             </div>
@@ -259,7 +262,8 @@ $c = $courses[$courseSlug];
                 </p>
             </div>
             <div class="enroll-action">
-               <button onclick="openModal('<?= htmlspecialchars($c['title']) ?>')" class="enroll-btn" style="border:none;">
+                <button onclick="openModal('<?= htmlspecialchars($c['title']) ?>')" class="enroll-btn"
+                    style="border:none;">
                     Book Now
                 </button>
             </div>
