@@ -805,7 +805,7 @@
                     data-title="Danelec Marine DM800 ECDIS G2"
                     data-description="Advanced ECDIS training for Danelec Marine DM800 ECDIS G2 with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/new-folder/Danelec.png" alt="Danelec Marine DM800 ECDIS G2"
+                        <img src="./assets/new-folder/danelec.png" alt="Danelec Marine DM800 ECDIS G2"
                             class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
@@ -833,7 +833,7 @@
                     data-title="Danelec Marine DM700 ECDIS"
                     data-description="Advanced ECDIS training for Danelec Marine DM800 ECDIS G2 with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/new-folder/Danelec.png" alt="Danelec Marine DM700 ECDIS" class="course-image"
+                        <img src="./assets/new-folder/danelec.png" alt="Danelec Marine DM700 ECDIS" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
@@ -859,7 +859,7 @@
                 <div class="course-card" data-mode="online" data-category="other" data-title="MECys PM3D ECDIS Training"
                     data-description="Advanced ECDIS training for MECys PM3D ECDIS Training with comprehensive coverage of all system features.">
                     <div class="course-image-wrapper">
-                        <img src="./assets/new-folder/MECys.png" alt="MECys PM3D ECDIS Training" class="course-image"
+                        <img src="./assets/new-folder/mecys.png" alt="MECys PM3D ECDIS Training" class="course-image"
                             onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22100%22%3E%3Crect fill=%22%230A4D8C%22 width=%22200%22 height=%22100%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2218%22 fill=%22white%22%3EWÄRTSILÄ%3C/text%3E%3C/svg%3E'">
                     </div>
                     <div class="course-content">
