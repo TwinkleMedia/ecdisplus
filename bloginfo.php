@@ -41,8 +41,9 @@ Both certifications are mandatory under STCW 2010 Manila Amendments, and operato
 // ✅ Fallback to blog 1 if an invalid ID is requested
 $current_blog = $blogs[$blog_id] ?? $blogs[1];
 
-// ✅ Related blogs = all others except the current one (max 4)
-$related_blogs = array_filter($blogs, fn($key) => $key !== $blog_id, ARRAY_FILTER_USE_KEY);
+$related_blogs = array_filter($blogs, function($value, $key) use ($blog_id) {
+    return $key !== $blog_id;
+}, ARRAY_FILTER_USE_BOTH);
 $related_blogs = array_slice($related_blogs, 0, 4, true);
 ?>
 <!DOCTYPE html>
