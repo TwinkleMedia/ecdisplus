@@ -46,7 +46,7 @@ section
         height: auto;
         max-height: 70vh;
         object-fit: contain;   /* 🔥 FIX */
-        background: #000;  
+        background: #ffffff;  
         padding-top: 0px;    /* optional – looks premium */
     }
 }
