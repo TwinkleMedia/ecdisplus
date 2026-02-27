@@ -240,16 +240,6 @@
                         <p class="course-description">Learn how to use IMTECH SeaGuide ECDIS systems with comprehensive
                             training on navigation, route planning, and system operations.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
                             <a href="./imtech-seaguide.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -267,16 +257,7 @@
                         <p class="course-description">Master the SIMRAD Maris ECDIS900 with our type-specific training
                             covering all essential operations and advanced features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./simrad-maris-ecdis900.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -296,14 +277,7 @@
                             navigation safety and efficient route planning techniques.</p>
                         <div class="course-footer">
                             <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
+                                
                             </div>
                             <a href="./simrad-e5024.php" class="read-more-btn">Read More</a>
                         </div>
@@ -323,16 +297,7 @@
                         <p class="course-description">Comprehensive ECDIS training for Wartsila Navi-Sailor 4000 systems
                             with hands-on simulation and practical exercises.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./wartsila-navi-sailor-4000.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -351,16 +316,7 @@
                         <p class="course-description">Type-specific training for Wärtsilä SAM ChartPilot ECDIS covering
                             navigation operations and safety procedures.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./w-rtsil-sam-chartpilot.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -380,16 +336,7 @@
                         <p class="course-description">Advanced ECDIS training for Wärtsilä SAM ECDISPILOT Platinum with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./w-rtsil-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -407,16 +354,7 @@
                         <p class="course-description">Advanced ECDIS training for Tokyo Keiki EC-8100/8600 with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./tokyo-keiki-ec-8100-8600.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -434,16 +372,7 @@
                         <p class="course-description">Advanced ECDIS training for ECDIS JRC JAN 9201/7201 with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./jrc-ecdis-course-in-navi-mumbai.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -461,16 +390,7 @@
                         <p class="course-description">Advanced ECDIS training for JRC JAN 901B/701B/2000 with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./jrc-jan-901b-701b-2000.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -489,16 +409,7 @@
                         <p class="course-description">Advanced ECDIS training for Kelvin Hughes Manta Digital with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./kelvin-hughes-manta-digital.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -515,16 +426,7 @@
                         <p class="course-description">Advanced ECDIS training for Martek Marine iECDIS with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./martek-marine-iecdis.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -541,16 +443,7 @@
                         <p class="course-description">Advanced ECDIS training for Consilium Selesmar ECDIS with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./consilium-selesmar-ecdis.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -567,16 +460,7 @@
                         <p class="course-description">Advanced ECDIS training for Consilium ECDIS G2 with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./consilium-ecdis-g2.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -593,16 +477,7 @@
                         <p class="course-description">Advanced ECDIS training for ChartWorld ChartBrowser with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./chartworld-chartbrowser.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -620,16 +495,7 @@
                         <p class="course-description">Advanced ECDIS training for Sperry Marine VisionMaster with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./sperry-marine-visionmaster.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -648,16 +514,7 @@
                         <p class="course-description">Advanced ECDIS training for Raytheon Anschütz Synapsis ECDIS with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./raytheon-ansch-tz-synapsis-ecdis.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -676,16 +533,7 @@
                             Training with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -703,16 +551,7 @@
                         <p class="course-description">Advanced ECDIS training for Furuno FEA Type Specific Training with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./wartsila-sam-ecdispilot-platinum.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -729,16 +568,7 @@
                         <p class="course-description">Advanced ECDIS training for Kongsberg ECDIS with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./kongsberg-ecdis.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -755,16 +585,7 @@
                         <p class="course-description">Advanced ECDIS training for NAVMASTER ECDIS with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./navmaster-ecdis.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -782,16 +603,7 @@
                         <p class="course-description">Advanced ECDIS training for TOTEM PLUS ECDIS Version 3.0 with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./totem-plus-ecdis-version-no-3-0.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -810,16 +622,7 @@
                         <p class="course-description">Advanced ECDIS training for Danelec Marine DM800 ECDIS G2 with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./danelec-marine-dm800-ecdis-g2.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -837,16 +640,7 @@
                         <p class="course-description">Advanced ECDIS training for Danelec Marine DM700 ECDIS with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./danelec-marine-dm700-222.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
@@ -863,16 +657,7 @@
                         <p class="course-description">Advanced ECDIS training for MECys PM3D ECDIS Training with
                             comprehensive coverage of all system features.</p>
                         <div class="course-footer">
-                            <div class="rating">
-                                <span class="rating-value">4.0</span>
-                                <div class="stars">
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star">★</span>
-                                    <span class="star" style="color: #DDD;">★</span>
-                                </div>
-                            </div>
+                            
                             <a href="./mecys-pm3d-ecdis-trainingLAST.php" class="read-more-btn">Read More</a>
                         </div>
                     </div>
