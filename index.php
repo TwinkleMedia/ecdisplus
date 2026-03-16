@@ -164,7 +164,7 @@ header("Pragma: no-cache");
             <!-- Header -->
             <div class="about-header text-center" data-aos="fade-up">
                 <span class="subheading">About ECDISPLUS</span>
-                <h2>ECDISPLUS Provide World-class Training Facility for All Brand Type Specific ECDIS Training</h2>
+                <h2>World-Class ECDIS Training & Marine Navigation System Training for All Major ECDIS Brands</h2>
             </div>
 
             <!-- Main Content -->
@@ -182,27 +182,34 @@ header("Pragma: no-cache");
                 <div class="col-lg-6" data-aos="fade-left">
                     <div class="about-text">
 
-                        <p>
-                            Welcome aboard! At <strong>ECDISPLUS Training Solutions</strong>, we believe in navigating
-                            the seas with confidence and precision. We are more than just a training provider – we are
-                            your trusted partner in mastering the complexities of
-                            <a href="https://www.marineinsight.com/marine-navigation/what-is-electronic-chart-display-and-information-system-ecdis/"
-                                target="_blank">Electronic Chart Display and Information Systems (ECDIS)</a>.
-                        </p>
+<p>
+Welcome aboard! At <strong>ECDISPLUS Training Solutions</strong>, we provide professional 
+<strong>ECDIS training and marine navigation system training</strong> designed for modern 
+seafarers and maritime officers. We are more than just a training provider — we are your 
+trusted partner in mastering the complexities of 
+<a href="https://www.marineinsight.com/marine-navigation/what-is-electronic-chart-display-and-information-system-ecdis/" target="_blank">
+Electronic Chart Display and Information Systems (ECDIS)
+</a> and advanced ship navigation technology.
+</p>
 
-                        <p>
-                            In the maritime industry, the proper training and competence of seafarers in ECDIS are of
-                            utmost importance. ECDISPLUS recognizes this need and provides comprehensive,
-                            type-specific ECDIS training covering all major ECDIS manufacturers.
-                        </p>
+<p>
+In today’s maritime industry, proper <strong>ECDIS competence and certification</strong> are 
+essential for safe navigation. ECDISPLUS offers comprehensive 
+<strong>type-specific ECDIS training</strong> covering major ECDIS manufacturers including 
+<strong>JRC, Simrad, Furuno, Wärtsilä, ChartWorld, Totem Plus, and JRC JAN ECDIS</strong>. 
+Our training programs provide practical simulator-based learning to help officers operate 
+ECDIS systems efficiently onboard modern vessels.
+</p>
 
-                        <p>
-                            With the introduction of the <strong>STCW 2010 Manila Amendments</strong>, the
-                            <strong>ISM Code</strong>, and strict <strong>Port State Control</strong> regulations,
-                            hands-on and flexible ECDIS training has become essential for today’s officers.
-                        </p>
+<p>
+With the implementation of the <strong>STCW 2010 Manila Amendments</strong>, the 
+<strong>ISM Code</strong>, and strict <strong>Port State Control</strong> regulations, 
+hands-on ECDIS training has become mandatory for deck officers and navigating officers. 
+Our courses focus on real-world navigation scenarios, route planning, safety monitoring, 
+and compliance with international maritime standards to ensure safe and efficient ship navigation.
+</p>
 
-                    </div>
+</div>
                 </div>
             </div>
 
