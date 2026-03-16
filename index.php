@@ -144,8 +144,7 @@ header("Pragma: no-cache");
                             Marine Industry Training & Certification
                         </h1>
                         <p class="lead text-muted">
-                            Get expert training for the marine industry, including ECDIS training and certification for
-                            JRC, Simrad, Furuno, and more. Online and offline courses available.
+                          Advance your maritime career with ECDIS and marine navigation system training at ECDISPLUS Training Solutions. We provide STCW-compliant ECDIS certification training for leading systems like JRC, Simrad, Furuno, and Chartworld, with flexible online and classroom courses designed for professional seafarers.
                         </p>
                     </div>
                 </div>
