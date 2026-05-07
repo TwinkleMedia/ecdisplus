@@ -54,20 +54,26 @@
 
         <div class="col-lg-6 order-2 order-lg-1">
           <div class="section-heading">
-            <h3>Learn new skills to go ahead for your career</h3>
+            <h3>World-class Training Facility for All Brand Type Specific ECDIS training</h3>
           </div>
 
-          <p>Book marine course brings all the renowned marine institutes’ and seafarers on one common interactive
-            platform with the help of technology. This site is managed by technical experts & guided by marine
-            professional with vast versatile experience.</p>
+       <p>
+  At ECDISPLUS, we specialize in delivering manufacturer-approved, type-specific ECDIS training designed for safe and efficient navigation. With state-of-the-art simulators and expert instructors, our programs prepare seafarers to operate ECDIS systems effectively, comply with international regulations, and enhance maritime safety.
+</p>
 
-          <p>We understand that your time is valuable therefore; our prime motive is to save you from running endlessly
-            from pillar to post and provide you all the details of different courses offered by different institutes’
-            under one roof so that you can compare and choose your preference at your comfort and at your convenience.
-          </p>
-
-          <p>We with a team of technical experts assure to offer assists and serve in catering to your requirements with
-            zest and zeal.</p>
+<p>
+  Our goal is simple:
+  <br><br>
+  <strong>Safe Navigation</strong> – Minimizing risks through professional training
+  <br>
+  <strong>Safe Life</strong> – Equipping seafarers with skills for real-world challenges
+  <br>
+  <strong>Cleaner Sea</strong> – Promoting environmentally responsible operations
+  <br><br>
+  Your trusted partner in building competence for the modern bridge.
+  <br>
+  <strong>ECDISPLUS.CO</strong>
+</p>
         </div>
 
         <div class="col-lg-6 order-1 order-lg-2">
