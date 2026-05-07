@@ -72,7 +72,7 @@
   <br><br>
   Your trusted partner in building competence for the modern bridge.
   <br>
-  <strong>ECDISPLUS.CO</strong>
+ 
 </p>
         </div>
 
